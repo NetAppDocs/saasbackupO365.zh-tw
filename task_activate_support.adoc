@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: task_activate_support.html 
+keywords: netapp, saas backup, microsoft 365, activating, activate, support, upgrade, upgrading, entitlement, marketplace, free trial, SSO 
+summary: 啟用支援可讓您透過電話、線上聊天或網路票務系統存取技術支援。 
+---
+= 啟動支援
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果您透過NetApp購買SaaS備份、預設會啟動支援。如果您是透過AWS等雲端市場購買SaaS備份、則必須啟動支援。啟用支援可讓您透過電話、線上聊天或網路票務系統存取技術支援。
+
+如果您要從SaaS備份試用版升級、則可在完成升級程序之前或之後啟動支援。
+
+若要啟動支援、您必須擁有NetApp SSO使用者ID和密碼。如果您沒有NetApp SSO帳戶、請前往 http://register.netapp.com[] 註冊一項。處理完您的申請後、您將會收到一封電子郵件通知、其中包含您的NetApp SSO認證資料。處理申請並傳送通知電子郵件約需24小時。
+
+.步驟
+. 按一下 image:services.gif["服務按鈕的快照"] 從左側導覽窗格。
+. 按一下設定圖示 image:configure_icon.gif["MS服務設定圖示"]。
+. 在「*啟動支援*」方塊中、按一下「*啟動*」。
+. 輸入您的NetApp SSO使用者名稱和密碼。
+. 按一下「*啟動*」。
+
+
+支援狀態為「NOW * Active*」。

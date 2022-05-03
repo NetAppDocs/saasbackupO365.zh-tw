@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: task_releasing_a_user_license.html 
+keywords: netapp, saas backup, release, releasing, reassigned, user, license, shared, regular, archive, mailbox 
+summary: 任何一般或歸檔的信箱使用者、無論受保護或未受保護、都會使用授權。如果特定使用者不再需要授權、您可以釋出授權、以便重新指派授權。 
+---
+= 發行使用者授權
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+任何一般或歸檔的信箱使用者、無論受保護或未受保護、都會使用授權。如果特定使用者不再需要授權、您可以釋出授權、以便重新指派授權。當使用者授權發行時、使用者會移至未受保護的層級、而該使用者的備份則會中斷。
+
+
+NOTE: 共享信箱不會使用授權。
+
+.步驟
+. 按一下 image:configure_icon.gif["組態圖示的快照"] 位於左上角的SaaS備份使用者ID旁。
+. 選擇*帳戶設定*。
+. 按一下*保留並清除*。
+. 在*發行授權*下、開始輸入您要發行授權的使用者帳戶名稱。
+. 找到帳戶後、從自動填入清單中選取該帳戶、然後按一下 image:bluecircle_icon.gif["藍色加號圖示"]。
+. 視需要新增其他帳戶。
+. 按一下*版本*。
+. 按一下「*是、請釋出授權*」。
+. 按一下「 * 確認 * 」。
+

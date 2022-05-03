@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: task_assigning_admin_roles_to_user_accounts.html 
+keywords: netapp, saas backup, microsoft 365, assign, assigning, role-based accounts, administrative roles, privileges, granting, user, users, user accounts 
+summary: 您可以將系統管理角色指派給使用者帳戶、以便將一或多項服務的系統管理權限授予所選使用者。 
+---
+= 指派系統管理角色給使用者帳戶
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以將系統管理角色指派給使用者帳戶、以便將一或多項服務的系統管理權限授予所選使用者。
+
+您可以指派下列角色給使用者：
+
+* 全域租戶：授予所有服務、儲存目標和授權更新（續約/升級）的管理權限。
+* Exchange管理員：僅授予Microsoft Exchange Online管理權限。無法檢視或修改其他服務。
+* OneDrive管理員：僅將管理權限授予Microsoft OneDrive for Business。無法檢視或修改其他服務。
+* SharePoint管理員：僅授予Microsoft SharePoint Online管理權限。無法檢視或修改其他服務。
+
+
+.步驟
+. 按一下設定圖示 image:configure_icon.gif["組態圖示的快照"] 在畫面左上角的使用者ID旁。
+. 按一下*帳戶設定*。
+. 按一下*角色管理*。
+. 按一下 image:bluecircle_icon.gif["按一下圖示以顯示使用者角色選項的快照"] 圖示。
+. 輸入您要新增之使用者的電子郵件地址。
+. 按一下下拉式功能表以選取角色。您可以指派一或多個角色給使用者。
+. 按一下「 * 確認 * 」。
+

@@ -1,0 +1,97 @@
+---
+sidebar: sidebar 
+permalink: reference_new_archived.html 
+keywords: 'what"s new, features, new, release notes, enhancements' 
+summary: SaaS Backup for Microsoft 365會定期推出新版本、為您帶來新功能、增強功能和錯誤修正。 
+---
+= 新功能與更新-已歸檔
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+以下是SaaS Backup for Microsoft 365新增功能的歸檔清單。
+
+
+
+== 2018年12月
+
+* SaaS Backup for Microsoft 365現在可透過AppDirect Marketplace和CANBCOM Marketplace購買。
+
+
+
+
+== 2018年8月
+
+* 使用者介面經過重新設計、可改善使用者體驗與效率。
+* 資料保留原則已更新、可保留資料3年。<<concept_backup_policies.adoc#backup_policies,備份原則>>
+
+
+
+
+== 2018年5月
+
+* NetApp Cloud Control已重新命名為NetApp SaaS Backup for Microsoft 365。
+* 您現在可以清除使用者、網站集合和Microsoft 365群組、完全移除SaaS Backup for Microsoft 365的所有相關資料。<<task_purging.adoc#purging-a-user-site-collection-or-office-365-group,清除使用者、網站集合或Microsoft 365群組>>
+* SaaS備份現在可探索Microsoft 365群組的公有和私有群組。
+
+
+
+
+== 2018年4月
+
+* SaaS Backup for Microsoft 365現在支援Microsoft Office Exchange Online的共用信箱。
++
+共用信箱是透過使用自動建立的服務帳戶來探索。如果您在此更新之前尚未啟動Microsoft Office Exchange Online的服務、則當您啟動Microsoft Office Exchange Online時、SaaS Backup會建立共用信箱的自動服務帳戶。如果您的Microsoft Office Exchange Online服務已啟動、您必須授予SaaS備份權限才能建立自動服務帳戶、以便探索及備份您的共用信箱。 <<task_granting_permissions_to_enable_shared_mailboxes.adoc#granting-permissions-to-enable-shared-mailboxes,授與權限以啟用共用信箱>>
+
++
+建立自動服務帳戶之後、您的共享信箱將會在下次排程同步使用者帳戶時自動探索。如果您想要立即探索共用信箱、您可以 <<task_discovering_new.adoc#sdiscovering-new-mailboxes-sites-and-groups,立即探索您的使用者帳戶>>。
+
+
+
+
+
+== 2018年3月
+
+您輸入免費試用版啟動代碼的位置、已移至「Add a Service Provider（新增服務供應商）」精靈：
+
+image:subscription_types_free_trial.jpg["螢幕擷取畫面、顯示選取「免費試用」時、您在「訂閱」頁面中輸入啟動代碼的位置。"]
+
+
+
+== 2018年2月
+
+* Microsoft SharePoint Online現在提供以範本ID為基礎的篩選功能。<<task_creating_user_defined_filter.adoc#creating-a-user-defined-filer,建立使用者定義的篩選器>>
+* 您現在可以將適用於Microsoft 365的SaaS備份使用者帳戶活動記錄下載到一個.csv檔案。link:task_downloading_data.html["下載記錄"]
+* SaaS Backup for Microsoft 365與您的服務之間的使用者帳戶、站台及群組同步、現在預設為啟用。
+* 目前預設會啟用包含備份版本歷程記錄的功能。預設版本數為20。link:concept_backup_settings.html["備份設定"]
+
+
+
+
+== 2018年1月
+
+* 活動記錄現在會顯示與在SaaS Backup for Microsoft 365中執行的每個動作相關聯的使用者ID名稱。
+* 您現在可以從SaaS Backup for Microsoft 365手動將使用者權限與Azure Active Directory同步化。
+* Microsoft Exchange Online現在支援匯出至PST,以便在資料夾層級還原。
+
+
+
+
+== 2017年11月
+
+* SaaS Backup for Microsoft 365現在支援Azure Blob作為SaaS備份所提供儲存設備的選項。
+* SaaS Backup for Microsoft 365現在支援Microsoft 365群組進行備份與還原。您必須先啟動Microsoft Exchange Online或Microsoft SharePoint Online、才能啟動Microsoft 365群組。Microsoft 365群組只能受第3層備份原則保護。
+* Microsoft Exchange Online現在支援匯出至動力換檔系統、以便在信箱層級還原。
+
+
+
+
+== 2017年10月
+
+* 您可以建立規則、讓您根據預先定義的準則、自動將使用者移至預先選取的備份層。您可以為Microsoft Exchange Online和Microsoft OneDrive for Business建立規則。您無法為Microsoft SharePoint Online建立規則。<<task_creating_rules.adoc#creating-rules,建立新規則>>
+

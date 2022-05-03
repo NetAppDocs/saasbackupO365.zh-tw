@@ -1,0 +1,62 @@
+---
+sidebar: sidebar 
+permalink: task_scheduling_backup_or_changing_frequency.html 
+keywords: netapp, saas backup, microsoft 365, schedule, scheduling, backup policies, changing backup policies, canceling job, immediate backup, SharePoint Online templates, shared mailboxes, archive mailboxes, archive, archive, shared, mailboxes 
+summary: 您可以依照相同的程序來排程新的備份、或將其變更為目前備份的頻率。 
+---
+= 排程備份或變更備份頻率
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以將未受保護的資料指派給備份原則來備份資料。當未受保護的資料指派給備份原則時、它會移至*擱置*狀態、直到指派原則的下一次排程備份發生為止、之後便會移至*受保護*狀態。如果您想要變更受保護資料的備份頻率、可以將資料指派給不同的備份原則層。
+
+.步驟
+. 在儀表板中、在您要變更的服務方塊中、按一下「* protected *（受保護*）」或「* protected *（*未受保護*）」上方的數字。如果您要變更受保護資料的備份頻率、請按一下* protected *。如果您要備份新發現的信箱、站台或MySites、請選取*未受保護*。
++
+image:number_protected_unprotected.gif[""]
+
+. 選取備份選項。
++
+.. 適用於Exchange
++
+*** 如果您要備份共用信箱（僅限第3層）、請按一下*共享*索引標籤。
+*** 如果您要備份歸檔信箱（僅限第3層）、請按一下*歸檔*索引標籤。
+*** 如果您要備份或變更一般信箱、請保留在*使用者*索引標籤上。
+
+
+.. 適用於SharePoint
++
+*** 如果您要備份或變更站台的備份原則、請保留在*站台*索引標籤上。
+
+
+.. 適用於OneDrive
++
+*** 如果您要備份或變更使用者的備份原則、請保留在*使用者*索引標籤上。
+
+
+.. 適用於Microsoft 365群組
++
+*** 如果您要備份群組（僅限第3層）、請保留在* Groups *（群組*）索引標籤上。
+*** 如果您要備份群組（僅限第3層）、請按一下「*團隊*」索引標籤。
+
+
+
+
+. 選取您要備份的項目。
+. 按一下*群組*功能表。
++
+image:groups_menu.gif["群組功能表"]
+
+. 選取新的原則層進行備份。
++
+
+NOTE: Microsoft 365群組和歸檔信箱只能移至層級3原則。
+
+. 按一下「 * 套用 * 」。
+

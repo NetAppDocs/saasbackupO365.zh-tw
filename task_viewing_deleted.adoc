@@ -1,0 +1,33 @@
+---
+sidebar: sidebar 
+permalink: task_viewing_deleted.html 
+keywords: netapp, saas backup, microsoft 365, view, viewing, jobs, deleted, items, SharePoint, Exchange, OneDrive, Groups, Teams 
+summary: 如果您從「服務設定」開啟「刪除的項目」、則可以檢視所有服務中刪除的項目。 
+---
+= 檢視刪除的項目
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以隨時在服務設定中開啟*顯示刪除的項目*、以檢視所有服務中的刪除項目。這有助於節省時間、而非瀏覽已刪除項目的不同備份、請開啟交換器、立即尋找已刪除項目。
+
+依預設、交換器會關閉。
+
+.步驟
+. 按一下左側導覽窗格上的*服務*。
+. 按一下「設定」圖示 image:settings_icon.gif["圖顯示設定圖示"]。
++
+image:show_deleted_items_switch_off.gif["圖顯示已刪除項目已關閉"]
+
+. 開啟*顯示刪除的項目*交換器。
++
+image:show_deleted_items_switch_on.gif["影像顯示已刪除項目開啟、備份設定已更新"]
+
+. 按一下左側導覽窗格上的*工作*。
+. 開啟最近的備份以查看刪除的項目。
+

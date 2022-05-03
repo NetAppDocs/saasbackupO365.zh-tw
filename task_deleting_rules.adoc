@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: task_deleting_rules.html 
+keywords: netapp, saas backup, microsoft 365, delete, deleting, removing, rules 
+summary: 如果不再需要現有規則、您可以將其刪除。此外、如果您需要刪除規則中使用的安全性群組、則必須先使用安全性群組刪除規則、才能移除安全性群組。 
+---
+= 刪除規則
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果不再需要現有規則、您可以將其刪除。此外、如果您需要刪除規則中使用的安全性群組、則必須先使用安全性群組刪除規則、才能移除安全性群組。
+
+.步驟
+. 在儀表板的服務方塊中、按一下您要建立規則的*未受保護*上方號碼。
++
+image:number_protected_unprotected.gif[""]
+
+. 按一下*篩選*。
++
+image:filter.gif["篩選下拉式功能表按鈕的快照"]
+
+. 按一下*規則*。此時會顯示現有的規則。
+. 按一下 image:trash_can_icon.gif["刪除圖示的快照"] 可刪除規則。刪除規則時、先前套用規則的項目狀態不會變更。
+

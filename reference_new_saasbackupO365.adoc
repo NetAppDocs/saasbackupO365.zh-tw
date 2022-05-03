@@ -1,0 +1,183 @@
+---
+sidebar: sidebar 
+permalink: reference_new_saasbackupO365.html 
+keywords: 'what"s new, features, release notes, enhancements' 
+summary: SaaS Backup for Microsoft 365會定期推出新版本、為您帶來新功能、增強功能和錯誤修正。 
+---
+= 新功能與更新
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+此版本的NetApp SaaS Backup for Microsoft 365新增下列新功能與更新。
+
+
+
+== 2021年11月
+
+Microsoft 365目標為2021年10月、在Exchange Online中棄用基本驗證。如需詳細資訊、請參閱 link:https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-and-exchange-online-september-2021-update/ba-p/2772210["基本驗證與Exchange Online - 2021年9月更新"]。棄用之後、Microsoft 365群組、共享信箱和歸檔信箱可能會發生探索失敗。您可以隨時啟用「現代化驗證」、以避免這些失敗。
+
+如果您是新客戶、註冊時會啟用「現代化驗證」功能。無需採取任何行動。
+
+如果您是現有客戶、但尚未啟用「現代化驗證」、則必須採取行動。請參閱 link:task_enable_modern_authentication.html["啟用現代化驗證"]。
+
+
+
+== 2020年12月
+
+如果您在美國部署Microsoft Azure、您的資料將不會離開Microsoft環境。在SaaS Backup for Microsoft 365的註冊程序中、您可以使用Azure Blob儲存設備或自己的儲存設備。
+
+link:task_signing_up_for_saasbkup_free_trial.html["從免費試用版註冊SaaS備份"]
+
+link:task_signing_up_for_saasbkup_paid_subscription.html["透過付費訂閱註冊SaaS備份"]
+
+
+
+== 2020年11月
+
+* 從本月開始、您可以監控所有服務的使用者資料。有了這項新功能、您可以下載Excel檔案來監控多種使用者資料類型、例如電子郵件或URL位址、信箱類型、授權使用、探索狀態、上次探索、 備份狀態、備份層等。
++
+link:task_monitoring_data.html["監控使用者資料"]
+
+* 現在您可以將Microsoft Office 365群組還原至其他群組。
++
+link:task_performing_high_level_restore.html["執行高層級還原"]
+
+* OneDrive for Business授權持有者可在不受限制的情況下、釋出授權並清除使用者。
++
+link:task_releasing_a_user_license.html["發行使用者授權"]
+link:task_purging.html["清除使用者、網站集合或Microsoft 365群組"]
+
+* 在工作歷程記錄中搜尋時、除了工作類型、服務、開始時間和結束時間之外、您現在還可以依工作完成狀態進行篩選。
++
+link:task_viewing_history_and_activity.html["檢視工作記錄"]
+
+
+
+
+
+== 2020年6月
+
+* SaaS Backup for Microsoft 365現在支援Exchange Online使用者的進階搜尋功能。在*進階搜尋*啟用之後、您可以在備份資料的最後六個月內搜尋個別、共用及封存信箱項目。
++
+link:task_using_advanced_search.html["使用進階搜尋"]
+
++
+若要啟用此功能、請前往 link:https://mysupport.netapp.com/["支援"] 並提交申請。
+
++
+您也可以寄送電子郵件至saasbackupsupport@netapp.com與SaaS備份支援團隊聯絡。
+
+
+
+
+
+== 2020年3月/ 4月
+
+* 現在您可以選擇不同的時間範圍來瀏覽Microsoft 365 Exchange、SharePoint、OneDrive for Business和受保護使用者的群組備份。
++
+image:date_range_browse_feature.gif["圖顯示瀏覽備份的時間範圍選項"]
+
++
+link:task_browsing_backups.html["瀏覽備份"]
+
+* SaaS Backup for Microsoft 365現在支援備份至Microsoft TeamsChat。有了這項新功能、您可以備份及還原對話、通路、索引標籤、附件、成員、 及Microsoft TeamsChat中的設定。
++
+link:task_performing_immediate_backup_of_service.html["立即備份服務"]
+
++
+若要啟用此功能、請前往 link:https://mysupport.netapp.com/["支援"] 並提交申請。
+
++
+您也可以寄送電子郵件至saasbackupsupport@netapp.com與SaaS備份支援團隊聯絡。
+
+
+
+
+
+== 2020年1月
+
+* 您現在可以檢視已取消資源配置的信箱、站台、MySites、群組或帳戶。link:task_viewing_deprovisioned.html["檢視取消資源配置的項目"]
+* 使用者授權現在會在帳戶清除七天後自動釋出。您可以檢視排定在七天內清除的項目清單、以及已清除的項目清單。link:task_viewing_purged.html["檢視已清除資料的清單"]
+* Microsoft SharePoint Online和OneDrive for Business現在支援Microsoft OneNote筆記本的備份。link:task_enabling_onenote_backups.html["啟用OneNote備份"]
+
+
+
+
+== 2019年9月
+
+* 您現在可以啟動對SaaS Backup付費訂閱的支援。啟用支援可讓您透過電話、線上聊天或網路票務系統存取技術支援。
++
+link:task_activate_support.html["啟動支援"]
+
+
+
+
+
+== 2019年6月
+
+* SaaS Backup for Microsoft 365現在支援使用Microsoft SharePoint Online和Microsoft OneDrive for Business中的複製到功能所建立項目的備份與還原。
+* 已進行增強、以在還原統計資料中加入更多詳細資料、包括還原大小、還原位置及其他註解。
+
+
+
+
+== 2019年5月
+
+* SaaS備份現在支援附加授權。
++
+link:task_updating_subscription_information.html["更新訂閱資訊"]
+
+
+
+
+
+== 2019年4月
+
+* SaaS Backup for Microsoft 365現在支援刪除安全性群組。
++
+link:task_deleting_security_groups.html["刪除安全性群組"]
+
+* 共享信箱不再使用使用者授權。
+
+
+
+
+== 2019年3月
+
+* SaaS Backup for Microsoft 365現在支援每個受支援地區的多個備份位置。
++
+您現在可以選擇所選地區的任何可用位置做為資料備份的站台。建議您選擇地理位置最接近資料位置的位置。SaaS備份所建議的位置在選項清單中標示為*慣用*。
+
++
+
+NOTE: 如果您是從試用版升級、而選擇的備份位置與試用版使用的位置不同、則不會保留試用資料。
+
++
+link:task_upgrading_from_trial.html["從試用訂閱升級"]
+
+* 您現在可以釋出使用者授權、讓其他使用者使用。link:task_releasing_a_user_license.html["發行使用者授權"]
+
+
+
+
+== 2019年2月
+
+* SaaS Backup for Microsoft 365現在支援下列功能：
++
+** 備份與還原歸檔信箱。
+** 增強Microsoft Office Exchange Online、SharePoint及OneDrive for Business的備份與還原統計資料。
+
+
+
+
+
+
+== 已歸檔
+
+按一下 link:reference_new_archived.html["請按這裡"] 以取得新功能的歸檔清單

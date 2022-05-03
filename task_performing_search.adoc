@@ -1,0 +1,53 @@
+---
+sidebar: sidebar 
+permalink: task_performing_search.html 
+keywords: netapp, saas backup, microsoft 365, search, searching, advanced search, perform, performing, exchange, sharePoint, oneDrive, online 
+summary: 您可以使用內嵌搜尋來尋找特定內容。 
+---
+= 執行搜尋
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在SaaS Backup for Microsoft 365中、您可以在所有服務中搜尋受保護的資料、包括Exchange Online、SharePoint Online、OneDrive for Business、以及群組和團隊。
+
+您可以搜尋未受保護的執行個體、但只有在進行先前的備份時、才會產生搜尋結果。
+
+若要改善搜尋結果、請使用下列準則：
+
+* 至少三個字元
+
+
+
+NOTE: 如果您輸入超過3個字元、先前搜尋結果中可能會保留3個字元。
+
+* 英數字元輸入
+* 單引號可精確符合字詞、字串或數字。例如：「2014年預算」。
+
+
+請依照下列步驟搜尋受保護的執行個體。
+
+.步驟
+. 在儀表板中、按一下您要搜尋的任何服務中*受保護*上方的號碼。image:number_protected_unprotected_highlight_protected.gif["反白顯示的受保護執行個體快照"]
+. 在頁面右上角找到搜尋方塊。image:search_box_exchange.png["Exchange Online中搜尋方塊的快照"]
++
+然後輸入您在搜尋方塊中看到的提示資訊、例如搜尋方塊中的「名稱」或「電子郵件」。image:search_box_exchange_prompts.png["包含Exchange Online搜尋提示的搜尋方塊快照"]
+
++
+.. 依名稱或電子郵件地址搜尋Microsoft Exchange Online。
+.. 依名稱、電子郵件或MySite搜尋Microsoft OneDrive for Business。
+.. 依網站名稱或URL搜尋Microsoft SharePoint Online。
+.. 依群組名稱或群組名稱搜尋Microsoft 365群組和群組。
+
+
+. 符合或符合搜尋條件的任何結果都會出現。
+
+
+您也可以在每項服務中以更精細的層級執行搜尋。如果您在搜尋方塊右側看到下拉式功能表、請從下拉式功能表中選取*檔案*或*資料夾*、以縮小搜尋結果範圍。
+
+image:search_box_dropdown_menu_file&folder.png["含有檔案/資料夾下拉式功能表的搜尋方塊"]

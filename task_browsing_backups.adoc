@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: task_browsing_backups.html 
+keywords: netapp, saas backup, Microsoft, microsoft 365, protected, protected instances, backup, backed up items, backups, browse, browsing, OneDrive, SharePoint, Exchange, Microsoft 365 Groups, date range, days, items, user, users, group, groups 
+summary: 您可以在所有Microsoft 365服務中瀏覽備份。 
+---
+= 瀏覽備份
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以在最近的備份中瀏覽受保護的執行個體、或在Microsoft 365 Exchange、SharePoint、OneDrive for Business和群組的所有備份中瀏覽受保護的執行個體。
+
+
+NOTE: 預設的瀏覽設定為*顯示最近5天的備份*。如果您選取5天、則只會顯示過去5天內備份的項目。您可以視需要變更時間範圍。
+
+若要確定您找到想要的內容、請查看時間範圍下拉式功能表左側的日期。
+
+image:8_october_last_5_days_backup_highlight_date_&_count.png["影像會反白顯示使用者信箱瀏覽的日期和次數"]
+
+.步驟
+. 在*儀表板*中、選取您要瀏覽以尋找備份的服務、然後選取受保護的執行個體。
++
+image:number_protected_unprotected_highlight_protected.gif["強調顯示受保護的Exchange執行個體"]
+
+. 選取您要瀏覽的帳戶。
+. 選取您要瀏覽之備份項目的時間範圍。
++
+image:date_range_browse_feature.gif["圖顯示瀏覽備份的時間範圍選項"]
+
++
+
+NOTE: *檢視備份記錄*會顯示備份的行事曆檢視。如果您選取*檢視備份記錄*、並選取當天之前的日期、則會變更您看到的備份時間範圍。例如、如果今天是10月8日、您在行事曆檢視中選取「10月5日」、然後選取「從10月5日開始瀏覽過去5天」、您可以瀏覽的項目將從10月1日至5日開始。
+
+. 按一下您要檢視的項目類型：郵件、行事曆、工作、聯絡人、檔案、 內容或其他。
+. 瀏覽備份的項目。
+

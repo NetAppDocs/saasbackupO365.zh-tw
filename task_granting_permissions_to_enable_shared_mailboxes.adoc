@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: task_granting_permissions_to_enable_shared_mailboxes.html 
+keywords: netapp, saas backup, microsoft 365, grant, granting, permissions, enabling, shared, mailboxes, azure, grant, shared 
+summary: 在NetApp SaaS Backup for Microsoft 365中、您可以授予啟用共享信箱的權限。 
+---
+= 授與權限以啟用共用信箱
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以在NetApp SaaS Backup for Microsoft 365中授予啟用共享信箱的權限。
+
+.步驟
+. 按一下 image:services.gif["服務按鈕的快照"] 從左側導覽窗格。
+. 按一下Microsoft 365連結。
++
+image:mso365_settings.gif["Microsoft 365按鈕的快照"]
+
+. 按一下*「同意」*。
++
+image:grant_consent.gif["授與同意圖示的快照"]
+
++
+您會重新導向至Azure授權頁面進行驗證。
+
+. 選取您的租戶帳戶。
+. *接受*權限。您的共享信箱將在下一次排程*自動同步*期間被發現、您也可以執行*立即同步*。如果您*立即同步*、則需要幾分鐘的時間才能探索您的共享信箱。
+. 若要在*自動同步*或*立即同步*之後存取共用信箱、請執行下列步驟：
++
+.. 按一下 image:services.gif["服務按鈕的快照"] 從左側導覽窗格。
+.. 按一下「* Microsoft Exchange Online*」。
+.. 按一下未受保護的信箱數目。
+.. 按一下*共享*索引標籤。
+
+
+

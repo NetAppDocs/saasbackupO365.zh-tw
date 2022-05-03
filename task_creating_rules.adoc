@@ -1,0 +1,47 @@
+---
+sidebar: sidebar 
+permalink: task_creating_rules.html 
+keywords: netapp, saas backup, microsoft 365, create, creating, rules, user, users, applied 
+summary: 規則可讓您根據預先定義的準則、自動將使用者移至預先選取的備份層。 
+---
+= 建立新規則
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+規則可讓您根據預先定義的準則、自動將使用者移至預先選取的備份層。
+
+您可以為Microsoft Exchange Online、OneDrive for Business、SharePoint Online及Microsoft Office 365群組建立規則。
+
+您必須先將使用者定義的篩選套用至資料、才能建立規則。套用的篩選條件會顯示在*篩選*圖示下方。NetApp SaaS Backup for Microsoft 365預設篩選器顯示為灰色。使用者定義的篩選條件會以淺藍色顯示。image:rules.gif["使用者定義篩選器和SaaS備份定義篩選器的範例、用於建立規則"]
+
+<<task_creating_user_defined_filter.adoc#creating-user-defined-filter,建立使用者定義的篩選器>>
+
+您可以建立多個規則。這些規則的套用順序會依照它們在*管理規則*清單中的顯示順序。
+
+.步驟
+. 在儀表板的服務方塊中、按一下您要建立規則的*未受保護*上方號碼。
++
+image:number_protected_unprotected.gif[""]
+
++
+如果未套用使用者建立的篩選條件、 image:create_rule.gif["建立規則按鈕的快照"] 不會出現。
+
+. 按一下*篩選*。
++
+image:filter.gif["篩選按鈕"]
+
+. 按一下*選取*下拉式功能表、然後選取您的篩選條件。此時會出現搜尋欄位。
+. 輸入您的搜尋條件。
+. 按一下「*套用篩選條件*」。
+. 按一下「*建立規則*」。
+. 輸入規則名稱。
+. 對於*目的地群組*、請選取您要將符合規則條件的使用者移至哪個層級。
+. 如果希望規則立即套用至所有未受保護的項目、請選取*套用至現有項目*。如果未選取、則會在下次探索新項目時、套用規則至新發現的項目和任何未受保護的項目。
+. 如果您有多個規則、可以按一下 image:up_down_rules_icon.gif["用於優先上移或下移規則的按鈕"] 可在列表中上下移動規則。這些規則會依照其在清單中的顯示順序來套用。
+

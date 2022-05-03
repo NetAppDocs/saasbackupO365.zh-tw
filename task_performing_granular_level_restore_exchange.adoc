@@ -1,0 +1,187 @@
+---
+sidebar: sidebar 
+permalink: task_performing_granular_level_restore_exchange.html 
+keywords: netapp, saas backup, perform, performing, restore, microsoft 365, granular restores, Microsoft Exchange Online, archive, archive, shared, mailboxes, self service portal 
+summary: 您可以使用SaaS Backup for Microsoft 365、針對Microsoft Exchange Online 365執行精細層級還原。 
+---
+= 為Microsoft Exchange Online執行精細層級的還原
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在Microsoft Exchange Online中、您可以還原單一使用者的精細層級項目、例如個別電子郵件、工作、連絡人和行事曆事件。您也可以還原Microsoft 365群組信箱的精細層級項目。
+
+根據預設、只有最新的備份可供還原。其他可用選項包括：
+
+image:backup_for_restore_availability.png["可供還原的備份"]
+
+下表指出Exchange Online精細層級項目所支援的還原選項。
+
+[cols="20a,15a,15a,15a,40a"]
+|===
+| 項目類型 | 還原至相同的信箱 | 還原至其他信箱 | 匯出至PST/匯出至HTML | SaaS備份的位置 
+
+
+ a| 
+郵件/工作/聯絡人/等等
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+ a| 
+Exchange Online >信箱-使用者
+
+
+
+ a| 
+單一/多個信箱資料夾（收件匣、歸檔等）
+
+*附註*：排除對話記錄。
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+ a| 
+Exchange Online >信箱-使用者>
+
+
+
+ a| 
+收件匣下的資料夾層級
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+ a| 
+Exchange Online >信箱-使用者>
+
+
+
+ a| 
+收件匣下的子資料夾層級
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+ a| 
+Exchange Online >信箱-使用者>
+
+
+
+ a| 
+"郵件"資料夾下的"交談記錄"
+ a| 
+否
+ a| 
+否
+ a| 
+是的
+ a| 
+Exchange Online >信箱-使用者>
+
+
+
+ a| 
+單一/多個項目層級還原
+ a| 
+是的
+ a| 
+是的
+ a| 
+否
+ a| 
+Exchange Online >信箱-使用者>
+
+
+
+ a| 
+「取代現有內容」的單一/多個還原項目
+ a| 
+是的
+ a| 
+否
+ a| 
+否
+ a| 
+Exchange Online >信箱-使用者>
+
+|===
+.步驟
+. 在儀表板中、按一下Exchange方塊中*保護*上方的數字。
++
+image:number_protected_exchange.gif["Exchange中受保護執行個體數目的螢幕擷取畫面"]
+
+. 選取還原選項。
++
+.. 對於共享郵箱，請單擊*共享*選項卡。
+.. 對於歸檔信箱、請按一下*歸檔*索引標籤。
+.. 對於一般信箱、請保留在*使用者*索引標籤上。
+
+
+. 按一下您需要執行精細層級還原的信箱。
+. 還原整個Microsoft Office Exchange類別、或還原類別中的特定項目。對於Microsoft 365群組信箱、您只能選擇從郵件類別或行事曆類別還原。
+. 選取您需要還原的類別（「郵件」、「工作」、「聯絡人」或「其他」）。
++
+
+NOTE: 如果您要還原類別中的單一項目、請按一下類別、然後選取您要還原的項目。
+
+. 按一下 * 還原 * 。
+. 選取還原選項。
++
+** *還原至相同的信箱*
++
+如果您還原至相同的信箱、預設會在包含備份複本的原始內容位置建立具有目前日期和時間戳記的還原資料夾。如果您選取*取代現有內容*、則您目前的資料會完全由備份取代。
+
++
+對於Microsoft 365群組、您只能選擇還原至相同的信箱。預設會取代現有內容。對於Microsoft Exchange Online、您可以還原至相同的信箱、並取代現有的內容、也可以還原至其他信箱。
+
+** *還原至其他信箱*
++
+如果還原至其他信箱、您必須在搜尋欄位中輸入目的地信箱。您可以在搜尋欄位中輸入一部分目的地電子郵件地址、以開始自動搜尋相符的目的地信箱。
+
+** *匯出至PST*
++
+您可以選取加入所有類別子資料夾。
+
++
+如果您匯出至動力換檔（動力換檔）、匯出完成時、您會收到內含動力換檔檔案位置的通知電子郵件。
+
++
+
+NOTE: 此選項不適用於Microsoft 365群組。
+
++
+
+NOTE: 如果您選取*匯出至PST*還原選項、所提供的連結將在七天內有效、並已預先驗證。
+
+** *匯出至資料*（僅適用於Microsoft 365群組）：
++
+如果您匯出、則會建立兩個壓縮檔、一個壓縮檔用於Microsoft 365群組信箱、另一個壓縮檔用於Microsoft 365群組SharePoint網站。您將會收到一封通知電子郵件、其中包含動力換檔檔案的位置、以及已驗證的URL、以供您前往該.zip檔案的位置。
+
++
+
+NOTE: 如果您選取*匯出至Data*還原選項、所提供的連結將在七天內有效、並已預先驗證。
+
+
+
+. 按一下「 * 確認 * 」。
++
+此時會顯示一則訊息、指出已建立還原工作。
+
+. 按一下*檢視工作進度*以監控還原進度。
+
+
+若要瞭解如何使用自助服務入口網站還原Microsoft Exchange Online項目、請參閱 link:reference_about_ssp.hmtl["關於自助服務入口網站"]。

@@ -1,0 +1,47 @@
+---
+sidebar: sidebar 
+permalink: task_creating_user_defined_filter.html 
+keywords: netapp, saas backup, microsoft 365, create, creating, view, filtering, data, information, user defined filters, creating filters, search, viewing, job history, activity log, downloading log 
+summary: 您可以篩選信箱、網站或MySites的檢視、只顯示符合特定條件的結果。 
+---
+= 建立使用者定義的篩選器
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以篩選信箱、網站或MySites的檢視、只顯示符合特定條件的結果。例如、您可以將篩選條件設定為僅查看特定國家/地區的信箱、以及該國家/地區內的特定部門。
+
+.步驟
+. 在儀表板中、按一下您要建立篩選器之服務方塊中的*受保護*或*未受保護*以上數字。上述受保護的數量表示目前受備份原則保護的信箱、MySites或群組數量。上述未受保護的數目表示未受備份原則保護的信箱、MySites或群組數目。
++
+image:number_protected_unprotected.gif[""]
+
+. 按一下*篩選*。
++
+image:filter.gif["篩選下拉式功能表按鈕的快照"]
+
+. 按一下*選取*下拉式功能表、然後選取您要的篩選條件。
++
+對於Microsoft SharePoint Online、您可以依範本ID進行篩選。您可以輸入範本ID以進行搜尋、或從下拉式功能表中選取。
+
++
+對於所有其他服務、您可以依群組、國家/地區、辦公室、部門、職稱、 網域或國家/地區。如果您有安全性群組、這些群組也會列為篩選選項。
+
++
+第二個下拉式功能表會根據您選取的篩選條件、填入選項。例如、如果您選取「群組」做為第一個篩選器、您可以選取其中一個備份原則群組層做為次要篩選器。
+
++
+image:select_filter.gif["第一組篩選選項的快照"]
+
++
+此時會出現搜尋欄位。
+
+. 輸入您的搜尋條件。
+. 如果您想要新增更多篩選條件、請按一下*新增篩選條件*、然後進行選擇。
+. 按一下「*套用篩選條件*」。隨即顯示篩選結果。
+

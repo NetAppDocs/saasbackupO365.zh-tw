@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: task_monitoring_data.html 
+keywords: netapp, saas backup, microsoft office 365, sharepoint, onedrive for business, exchange, groups, monitor, monitoring, user, data, user data, email, url, mailbox, license, licenses, discovery state, discovery, backup status, backup tier 
+summary: 在SaaS Backup for Microsoft Office 365中、您可以監控所有服務的使用者資料、例如電子郵件或URL位址、信箱類型、授權使用、探索狀態、上次探索、 備份狀態、備份層等。 
+---
+= 監控使用者資料
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在SaaS Backup for Microsoft Office 365中、您可以監控所有服務的使用者資料、例如電子郵件或URL位址、信箱類型、授權使用、探索狀態、上次探索、 備份狀態、備份層等。
+
+.步驟
+. 按一下*服務*。
+. 按一下您要匯出使用者資料的服務。
++
+.. 若為Microsoft Exchange Online、請按一下受保護、擱置或未受保護的信箱數量。
+.. 若為Microsoft SharePoint Online、請按一下受保護、擱置或未受保護的網站數目。
+.. 對於Microsoft OneDrive for Business、請按一下受保護、擱置或未受保護的MySites數量。
+.. 若為Microsoft Office 365群組、請按一下受保護、擱置或未受保護的群組數目。
+
+
+. 按一下「*下載*」以匯出個別服務的使用者資料Excel檔案。
+

@@ -1,0 +1,56 @@
+---
+sidebar: sidebar 
+permalink: task_configuring_impersonation.html 
+keywords: netapp, saas backup, microsoft 365, getting started, configuring, impersonation, assigning, permissions, impersonate, user, accounts, 
+summary: 如果您打算搭配Microsoft Exchange Online使用SaaS備份、則必須設定模擬。 
+---
+= 設定Microsoft Exchange Online的模擬
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果您打算搭配Microsoft Exchange Online使用SaaS備份、則必須設定模擬。模擬可讓您的Microsoft 365服務帳戶模擬使用者帳戶並存取相關權限。
+
+
+
+== 自動設定模擬
+
+若要自動設定模擬、請執行 https://msdn.microsoft.com/en-us/library/office/dn722376(v=exchg.150).aspx["MSDN PowerShell命令"]。
+
+
+
+== 手動設定模擬
+
+您可以使用Microsoft 365系統管理員帳戶手動設定模擬、也可以在SaaS備份中新增Microsoft 365服務帳戶。如需Microsoft 365服務帳戶的詳細資訊、請參閱 link:task_creating_msservice_account_with_global_permissions.html["建立具有全域權限的Microsoft 365服務帳戶。"]
+
+若要手動設定模擬、請執行下列步驟：
+
+.步驟
+. 登入您的Microsoft 365服務帳戶。
+. 選取* Exchange *索引標籤。
+. 在左側的儀表板下、選取*權限*。
+. 按一下*管理角色*。
+. 在右窗格中按兩下以選取*探索管理*。
+. 在*角色*下、按一下*+*符號。
++
+image:365_discovery_management_impersonation_setup_roles.jpg["設定Microsoft Exchange Online模擬時寫入範圍視窗的螢幕擷取畫面"]
+
+. 從下拉式功能表中選取*應用程式模擬*。
+. 按一下「 * 新增 * 」。
+. 按一下「*確定*」。
+. 確認* ApplicationImpersonation*已新增至*角色*之下。
+. 在「Members（成員）」下、按一下*+*符號。
++
+image:365_discovery_management_impersonation_setup_members.jpg["設定Microsoft Exchange Online模擬時的成員視窗擷取畫面"]隨即出現新視窗
+
+. 選擇使用者名稱。
+. 按一下「 * 新增 * 」。
+. 按一下「*確定*」。
+. 驗證使用者名稱是否出現在*成員*區段中。
+. 按一下「 * 儲存 * 」。
+

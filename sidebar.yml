@@ -1,0 +1,194 @@
+---
+entries:
+- title: 適用於Microsoft 365的NetApp SaaS備份
+  url: "/index.html"
+- title: 版本資訊
+  entries:
+  - title: 新增功能
+    url: "/reference_new_saasbackupO365.html"
+  - title: 新增功能歸檔
+    url: "/reference_new_archived.html"
+  - title: 已知問題與限制
+    url: "/reference_kpls.html"
+- title: 概念
+  entries:
+  - title: 總覽
+    url: "/concept_overview.html"
+  - title: 您可以搭配SaaS備份使用的儲存類型
+    url: "/concept_storage_types.html"
+- title: 開始使用
+  entries:
+  - title: 開始免費試用
+    entries:
+    - title: 工作流程
+      url: "/concept_free_trial_workflow.html"
+    - title: 免費試用限制
+      url: "/concept_free_trial_restrictions.html"
+    - title: 註冊以取得免費試用版啟動代碼
+      url: "/task_registering_for_free_trial_activation_code.html"
+    - title: 註冊Microsoft 365免費試用帳戶
+      url: "/task_signing_up_for_o365_free_trial.html"
+    - title: 建立具有全域權限的Microsoft 365服務帳戶
+      url: "/task_creating_msservice_account_with_global_permissions.html"
+    - title: 設定Microsoft Exchange Online的模擬
+      url: "/task_configuring_impersonation.html"
+    - title: 註冊即可免費試用Microsoft 365的SaaS備份
+      url: "/task_signing_up_for_saasbkup_free_trial.html"
+    - title: 排程第一次備份
+      url: "/task_scheduling_first_backup.html"
+    - title: 執行即時備份
+      url: "/task_performing_immediate_backup_of_policy.html"
+    - title: 從試用訂閱升級
+      entries:
+      - title: 升級
+        url: "/task_upgrading_from_trial.html"
+      - title: 升級後啟動支援
+        url: "/task_activate_support.html"
+    - title: 免費試用資料刪除
+      url: "/reference_free_trial_data.html"
+  - title: 立即開始付費訂閱
+    entries:
+    - title: 工作流程
+      url: "/concept_paid_subscription_workflow.html"
+    - title: 建立具有全域權限的MS Office服務帳戶
+      url: "/task_creating_msservice_account_with_global_permissions.html"
+    - title: 設定Microsoft Exchange Online的模擬
+      url: "/task_configuring_impersonation.html"
+    - title: 註冊以付費訂閱Microsoft 365的SaaS備份
+      url: "/task_signing_up_for_saasbkup_paid_subscription.html"
+    - title: 排程第一次備份
+      url: "/task_scheduling_first_backup.html"
+    - title: 執行即時備份
+      url: "/task_performing_immediate_backup_of_policy.html"
+    - title: 付費訂閱資料刪除
+      url: "/reference_paid_subscription_data.html"
+- title: 管理服務
+  entries:
+  - title: 啟動服務
+    url: "/task_activating_a_service.html"
+  - title: 停用服務
+    url: "/task_deactivating_a_service.html"
+  - title: 啟動支援
+    url: "/task_activate_support.html"
+  - title: 探索新的信箱、站台及群組
+    url: "/task_discovering_new.html"
+  - title: 清除使用者、網站集合或Microsoft 365群組
+    url: "/task_purging.html"
+  - title: 啟用現代化驗證
+    url: "/task_enable_modern_authentication.html"
+- title: 管理設定
+  entries:
+  - title: 備份原則
+    url: "/concept_backup_policies.html"
+  - title: 備份設定
+    url: "/concept_backup_settings.html"
+  - title: 設定通知
+    url: "/task_setting_account_notifications.html"
+  - title: 權限
+    entries:
+    - title: 新增服務帳戶的權限
+      url: "/task_adding_permissions_to_service_accounts.html"
+    - title: 將使用者權限與Azure Active Directory同步化
+      url: "/task_syncing_user_permissions_with_azure.html"
+    - title: 授與權限以啟用共用信箱
+      url: "/task_granting_permissions_to_enable_shared_mailboxes.html"
+  - title: 角色型帳戶存取
+    entries:
+    - title: 指派系統管理角色給使用者帳戶
+      url: "/task_assigning_admin_roles_to_user_accounts.html"
+    - title: 更新指派給使用者帳戶的管理角色
+      url: "/task_updating_admin_roles_assigned_to_user_accounts.html"
+    - title: 從使用者帳戶刪除所有管理角色
+      url: "/task_deleting_admin_roles_from_a_user_account.html"
+- title: 管理使用者
+  entries:
+  - title: 授權
+    entries:
+    - title: 新增授權
+      url: "/task_adding_a_license.html"
+    - title: 更新訂閱資訊
+      url: "/task_updating_subscription_information.html"
+    - title: 發行使用者授權
+      url: "/task_releasing_a_user_license.html"
+  - title: 規則
+    entries:
+    - title: 建立新規則
+      url: "/task_creating_rules.html"
+    - title: 套用現有規則
+      url: "/task_applying_rules.html"
+    - title: 刪除規則
+      url: "/task_deleting_rules.html"
+  - title: 安全性群組
+    entries:
+    - title: 新增安全性群組
+      url: "/task_adding_security_groups.html"
+    - title: 刪除安全性群組
+      url: "/task_deleting_security_groups.html"
+- title: 管理備份
+  entries:
+  - title: 排程備份或變更備份頻率
+    url: "/task_scheduling_backup_or_changing_frequency.html"
+  - title: 立即執行備份
+    url: "/task_performing_immediate_backup_of_service.html"
+  - title: 瀏覽備份
+    url: "/task_browsing_backups.html"
+  - title: 取消工作
+    url: "/task_canceling_job.html"
+  - title: 更新備份保留期間
+    url: "/task_updating_backup_retention_period.html"
+  - title: 啟用OneNote備份
+    url: "/task_enabling_onenote_backups.html"
+  - title: Microsoft SharePoint Online支援的範本與應用程式
+    url: "/concept_supported_templates_and_apps.html"
+- title: 管理還原
+  entries:
+  - title: 關於還原
+    url: "/reference_about_restores.html"
+  - title: 執行高層級還原
+    url: "/task_performing_high_level_restore.html"
+  - title: 執行精細層級的還原
+    entries:
+    - title: 適用於Exchange
+      url: "/task_performing_granular_level_restore_exchange.html"
+    - title: 適用於SharePoint
+      url: "/task_performing_granular_level_restore_sharepoint.html"
+    - title: 適用於OneDrive
+      url: "/task_performing_granular_level_restore_onedrive.html"
+    - title: 適用於群組和團隊
+      url: "/task_performing_granular_level_restore_teams.html"
+  - title: 關於自助服務入口網站
+    url: "/reference_about_ssp.html"
+  - title: 使用自助服務入口網站
+    url: "/task_use_ssp.html"
+  - title: 從先前的備份還原
+    url: "/task_restoring_from_previous_backup.html"
+  - title: 取消工作
+    url: "/task_canceling_job.html"
+  - title: 尋找還原的檔案
+    url: "/task_viewing_restore_file_locations.html"
+- title: 檢視資料
+  entries:
+  - title: 建立使用者定義的篩選器
+    url: "/task_creating_user_defined_filter.html"
+  - title: 執行搜尋
+    url: "/task_performing_search.html"
+  - title: 使用進階搜尋
+    url: "/task_using_advanced_search.html"
+  - title: 檢視工作記錄和活動記錄
+    url: "/task_viewing_history_and_activity.html"
+  - title: 檢視取消資源配置的項目
+    url: "/task_viewing_deprovisioned.html"
+  - title: 檢視清除的資料
+    url: "/task_viewing_purged.html"
+  - title: 檢視刪除的項目
+    url: "/task_viewing_deleted.html"
+  - title: 下載資料
+    url: "/task_downloading_data.html"
+  - title: 監控使用者資料
+    url: "/task_monitoring_data.html"
+- title: 提供意見回饋
+  url: "/task_providing_feedback.html"
+- title: 何處可取得協助及尋找更多資訊
+  url: "/concept_get_help_find_info.html"
+- title: 法律聲明
+  url: "/reference_legal_notices.html"

@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: task_applying_rules.html 
+keywords: netapp, saas backup, microsoft 365, creating, rules, managing, adding, apply, applied, applying 
+summary: 您可以將現有規則套用至未受保護的項目、變更套用規則的順序、以及刪除規則。 
+---
+= 套用現有規則
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+規則可讓您根據預先定義的準則、自動將使用者移至預先選取的備份層。
+
+您可以將現有規則套用至未受保護的項目、變更套用規則的順序、以及刪除規則。
+
+.步驟
+. 在儀表板的服務方塊中、按一下您要建立規則的*未受保護*上方號碼。
++
+image:number_protected_unprotected.gif[""]
+
+. 按一下*篩選*。
++
+image:filter.gif["篩選下拉式功能表按鈕的快照"]
+
+. 按一下*規則*。此時會顯示現有的規則。
+. 按一下「*立即套用*」、將規則套用至現有的未受保護項目。
+

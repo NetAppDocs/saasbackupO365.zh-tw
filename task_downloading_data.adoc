@@ -1,0 +1,45 @@
+---
+sidebar: sidebar 
+permalink: task_downloading_data.html 
+keywords: netapp, saas backup, microsoft 365, jobs, history, activity, log, download, downloading 
+summary: 您可以檢視或下載SaaS備份活動和工作記錄的記錄。 
+---
+= 下載記錄
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup for Microsoft 365會在SaaS Backup中儲存一份工作記錄。您可以下載工作記錄和已完成工作的清單。
+
+
+
+== 下載活動記錄
+
+記錄會儲存在SaaS Backup for Microsoft 365內的所有活動。記錄包含每個執行動作的日期、以及執行動作的使用者名稱。您可以將活動記錄下載至一個.csf檔案。
+
+.步驟
+. 按一下 image:reporting.gif["報告按鈕的快照"] 在左側導覽窗格中。
+. 按一下「*活動記錄*」索引標籤。隨即顯示所有SaaS Backup for Microsoft 365活動清單。
+. 按一下 image:download_activitylog.gif["活動記錄右下角的下載按鈕擷取畫面"]。活動記錄會下載為.csf檔案。
+
+
+
+
+== 下載已完成工作的記錄
+
+您可以下載成功完成工作的Excel試算表。
+
+.步驟
+. 按一下左導覽窗格中的*工作*。
+. 按一下您要下載的最近完成工作。
+. 按一下「成功完成的工作數」下的「*成功*」。
++
+image:completed_jobs.gif["已完成工作的快照"]
+
+. 按一下右上角的*下載*。記錄即會下載。
+

@@ -1,0 +1,52 @@
+---
+sidebar: sidebar 
+permalink: task_viewing_history_and_activity.html 
+keywords: netapp, saas backup, microsoft 365, view, viewing, jobs, history, activity, log 
+summary: 您可以檢視或下載SaaS備份活動和工作記錄的記錄。 
+---
+= 檢視工作記錄和活動記錄
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup for Microsoft 365會儲存一份工作歷程記錄、以及SaaS Backup內部執行的所有活動記錄。
+
+
+
+== 檢視工作記錄
+
+您可以在NetApp SaaS Backup for Office 365中檢視或下載所有工作歷程記錄的報告。您可以依工作類型、服務、開始時間、結束時間和完成狀態來篩選搜尋結果。
+
+.步驟
+. 按一下左導覽窗格上的*報告*。所有SaaS備份工作的清單會顯示在*工作歷程記錄*索引標籤下。
+. 若要篩選結果、請按一下*篩選*。
+. 按一下*選取*下拉式功能表、然後選取篩選條件。您可以依原則、服務、類型或狀態進行篩選。選取篩選之後、會出現搜尋欄位。
+. 輸入您的搜尋條件。
+. 若要新增更多篩選條件、請按一下*新增篩選條件*。
+. 按一下「*套用篩選條件*」。隨即顯示篩選結果。
+. 按一下任何工作以展開檢視、以取得其他工作詳細資料。
+
+
+
+
+== 檢視活動記錄
+
+記錄會儲存在SaaS Backup for Microsoft 365內的所有活動。記錄包含每個執行動作的日期、以及執行動作的使用者名稱。您可以依服務和事件篩選活動記錄。例如、如果您需要查看Microsoft Exchange Online的所有還原作業、您可以篩選活動記錄以檢視這些特定結果。
+
+.步驟
+. 按一下左導覽窗格上的*報告*。
+. 按一下「*活動記錄*」索引標籤。隨即顯示所有SaaS Backup for Microsoft 365活動清單。
+. 若要篩選結果、請按一下*篩選*。
+. 按一下*選取*下拉式功能表、然後選取篩選條件。您可以依服務或事件篩選。選取篩選之後、會出現搜尋欄位。
+. 輸入您的搜尋條件。
+. 若要新增更多篩選條件、請按一下*新增篩選條件*。
+. 按一下「*套用篩選條件*」。
++
+隨即顯示篩選結果。
+
+

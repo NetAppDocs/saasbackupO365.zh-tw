@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: task_viewing_purged.html 
+keywords: netapp, saas backup, microsoft 365, view, viewing, jobs, purged, deleted, accounts, mailboxes, sites, mysites 
+summary: 您可以檢視已清除的信箱或使用者帳戶清單。 
+---
+= 檢視已清除資料的清單
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以檢視已清除的信箱或使用者帳戶清單。
+
+.步驟
+. 按一下 image:configure_icon.gif["組態圖示的快照"] 位於左上角的SaaS備份使用者ID旁。
+. 選擇*帳戶設定*。
+. 按一下*保留並清除*。
+. 在「*清除資料*」下、按一下「*顯示清除清單*」。
++
+您可以檢視已排定要清除的項目清單、以及已清除的項目清單。
+
+

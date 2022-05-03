@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: task_canceling_job.html 
+keywords: netapp, saas backup, microsoft 365, cancel, canceling, jobs, backup, restore, immediate 
+summary: 如果您已啟動立即備份或立即還原、但需要在完成之前取消、您可以這麼做。 
+---
+= 取消工作
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果您已啟動立即備份或立即還原、但需要在完成之前取消、您可以這麼做。
+
+.步驟
+. 按一下 image:jobs_button.gif["「工作」按鈕的快照"] 從左側導覽窗格。
+. 在*最近執行的工作*下、按一下您要取消的工作。
+. 按一下*取消*。取消工作的進度會顯示在*最近完成的工作*下。
+

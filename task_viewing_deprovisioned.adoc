@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: task_viewing_deprovisioned.html 
+keywords: netapp, saas backup, microsoft 365, view, viewing, jobs, deprovisioned, deleted, accounts, mailboxes, sites, mysites 
+summary: 您可以檢視已刪除的信箱或使用者帳戶清單。 
+---
+= 檢視取消資源配置項目清單
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+您可以檢視已取消資源配置的信箱或使用者帳戶清單。
+
+.步驟
+. 按一下左側導覽窗格上的*服務*。
+. 在所需的服務中、按一下未受保護項目的數量。
+. 按一下*取消資源配置*索引標籤。
+

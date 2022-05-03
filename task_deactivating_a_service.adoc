@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: task_deactivating_a_service.html 
+keywords: netapp, saas backup, microsoft 365, service, deactivate, deactivation, deactivating 
+summary: 如果停用某項服務、則會移除與該服務相關的所有排程、而且不會執行進一步的備份。您仍可檢視停用前的最後一次備份、而且仍可執行還原。 
+---
+= 停用服務
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如有需要、您可以停用一或多項適用於Microsoft 365的SaaS備份服務。如果停用某項服務、則會移除與該服務相關的所有排程、而且不會執行進一步的備份。您仍可檢視停用前的最後一次備份、而且仍可執行還原。
+
+.步驟
+. 按一下 image:services.gif["服務按鈕的快照"] 從左側導覽窗格。
+. 按一下Microsoft 365連結。
++
+image:mso365_settings.gif["Microsoft 365按鈕的快照"]
+
+. 按一下 image:deactivate.gif["停用按鈕的快照"] 在您要停用的服務旁。
+. 按一下「 * 確認 * 」。
+

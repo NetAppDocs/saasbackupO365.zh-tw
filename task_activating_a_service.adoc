@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: task_activating_a_service.html 
+keywords: netapp, saas backup, microsoft 365, activate, activating, service, services 
+summary: 如有需要、您可以啟動一或多個適用於Microsoft 365服務的SaaS備份。您必須先啟動Microsoft Exchange Online或Microsoft SharePoint Online、才能啟動Microsoft 365群組。 
+---
+= 啟動服務
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如有需要、您可以啟動一或多個適用於Microsoft 365服務的SaaS備份。您必須先啟動Microsoft Exchange Online或Microsoft SharePoint Online、才能啟動Microsoft 365群組。
+
+.步驟
+. 按一下 image:services.gif["服務按鈕的快照"] 從左側導覽窗格。
+. 按一下Microsoft 365連結。
++
+image:mso365_settings.gif["Microsoft 365按鈕的快照"]
+
+. 按一下您要啟動之服務旁的*啟動*。
+. 按一下「 * 確認 * 」。
+

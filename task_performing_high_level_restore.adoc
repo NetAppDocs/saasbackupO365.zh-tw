@@ -1,0 +1,75 @@
+---
+sidebar: sidebar 
+permalink: task_performing_high_level_restore.html 
+keywords: netapp, saas backup, perform, high-level restore, microsoft 365, Exchange, OneDrive 
+summary: 您也可以依照相同的程序、針對Microsoft Exchange Online、Microsoft OneDrive for Business的MySites、Microsoft SharePoint Online網站及Microsoft 365群組執行信箱的高層級還原。 
+---
+= 執行高層服務還原
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您也可以依照相同的程序、針對Microsoft Exchange Online、Microsoft OneDrive for Business的MySites、Microsoft SharePoint Online網站及Microsoft 365群組執行信箱的高層級還原。
+
+根據預設、只有最新的備份可供還原。其他可用選項包括：
+
+image:backup_for_restore_availability.png["可供還原的備份"]
+
+.步驟
+. 在儀表板中、按一下您要執行還原之服務方塊中*保護*上方的數字。
+. 選取要還原的信箱、群組、小組、MySite或站台名稱。
+. 選取還原選項：
++
+
+NOTE: 如果您選取「匯出至動力換檔（PSTE）還原」選項、則所提供的連結將在七天內有效、並已預先驗證。
+
++
+.. 如果您要還原* Microsoft Exchange Online*的信箱、請選取下列其中一個選項：
++
+
+NOTE: 還原訊息大於140 MB的信箱時、可能會發生上傳失敗、並傳回伺服器。我們建議您使用「匯出至動力換檔（Export to動力換檔）」選項執行高層級還原。如需詳細資訊、請參閱 link:https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#message-limits["Microsoft Exchange Online限制：訊息限制"]。
+
++
+*** 還原至相同的信箱
+*** 匯出至動力換檔系統如果您匯出至動力換檔（動力換檔）、匯出完成後、您將會收到內含動力換檔檔案位置的通知電子郵件。
+*** 還原至其他信箱如果還原至其他信箱、則必須在搜尋欄位中輸入目的地信箱。您可以在搜尋欄位中輸入一部分目的地電子郵件地址、以開始自動搜尋相符的目的地信箱。
+
+
+.. 如果您要還原* Microsoft Office 365群組*的群組、請選取下列其中一個選項：
++
+*** 還原至相同群組
+*** 還原至其他群組
+*** 匯出資料如果您匯出、系統會以Microsoft Exchange檔案建立一個動力換檔檔檔案、並使用Microsoft SharePoint網站建立一個.Zip檔案。您將會收到一封通知電子郵件、其中包含動力換檔檔案的位置、以及已驗證的URL、以供您前往該.zip檔案的位置。
+
+
+.. 如果您要還原* Microsoft Office 365群組*之下的群組、請選取下列其中一個選項：
++
+*** 還原至相同的群組
+*** 還原至其他團隊這是從Microsoft 365刪除團隊的理想選擇。您應該建立新的群組來使用此還原選項。如果您最近在MS團隊中建立新團隊、請透過同步服務來探索。請前往左側的*服務設定*。按一下「* Office 365*」。在「*管理服務*」下、按一下「*立即同步*適用於Microsoft 365群組」。
+*** 匯出資料如果您匯出資料、則需要下載。移至左側功能表上的「報告」。尋找您的匯出資料工作。按一下*資料夾總數*。然後按一下*匯出資料下載連結*。下載壓縮檔。開啟壓縮檔以擷取資料。
+
+
+.. 如果您要還原* Microsoft OneDrive for Business*的MySites、請選取下列其中一個選項：
++
+*** 還原至相同的MySite
+*** 還原至不同的MySite如果還原至不同的MySite、請在搜尋欄位中輸入目的地MySite。您可以在搜尋欄位中輸入目的地MySite的一部分、以啟動自動搜尋符合目的地MySites的功能。
+*** 匯出資料如果您匯出、則會以MySites建立一個.Zip檔案。您將會收到一封通知電子郵件、其中包含已驗證的URL、以傳送至該.zip檔案的位置。
+
+
+.. 如果您要還原* Microsoft SharePoint Online*的網站、請選取下列其中一個選項：
++
+*** 還原至相同站台如果您選取*僅還原角色*、則只會還原角色和權限。image:sharepoint_restore_only_roles.png["影像顯示已選取「僅還原角色」選項的還原視窗"]
+*** 還原至其他站台如果您還原至其他站台、請在搜尋欄位中輸入目的地站台。您可以在搜尋欄位中輸入目的地站台的一部分、以開始自動搜尋相符的目的地站台。
+*** 匯出資料如果您匯出、則會以您的網站集合建立一個.Zip檔案。您將會收到一封通知電子郵件、其中包含已驗證的URL、以傳送至該.zip檔案的位置。
+
+
+
+
+. 按一下「 * 確認 * 」。此時會顯示一則訊息、指出已建立還原工作。
+. 按一下*檢視工作進度*以監控還原進度。
+

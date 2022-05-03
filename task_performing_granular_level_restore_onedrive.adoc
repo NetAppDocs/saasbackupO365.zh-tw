@@ -1,0 +1,116 @@
+---
+sidebar: sidebar 
+permalink: task_performing_granular_level_restore_onedrive.html 
+keywords: netapp, saas backup, perform, performing, restore, microsoft 365, high-level restores, granular restores, Microsoft OneDrive for Business 
+summary: 您可以使用SaaS Backup for Microsoft 365、為Microsoft OneDrive for Business執行高層級且精細的層級還原。 
+---
+= 為Microsoft OneDrive for Business執行精細層級的還原
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在Microsoft OneDrive for Business中、您可以還原清單或文件庫的精細層級項目、例如個別資料夾或檔案。您也可以還原OneNote筆記本或群組。
+
+根據預設、只有最新的備份可供還原。其他可用選項包括：
+
+image:backup_for_restore_availability.png["可供還原的備份"]
+
+下表指出OneDrive for Business所支援的精細層級項目還原選項。
+
+[cols="20,20a,20a,20a,40"]
+|===
+| 項目類型 | 還原至相同的MySite | 還原至其他MySite | 匯出資料 | SaaS備份的位置 
+
+
+| 單一磁碟機  a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| 商務用OneDrive > MySites 
+
+
+| 多個磁碟機  a| 
+否
+ a| 
+否
+ a| 
+否
+| 商務用OneDrive > MySites 
+
+
+| 單一/多個資料夾  a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| OneDrive for Business > MySites ><磁碟機名稱>> Files 
+
+
+| 單一/多個項目  a| 
+是的
+ a| 
+是的
+ a| 
+否
+| OneDrive for Business > MySites ><磁碟機名稱>> Files 
+
+
+| 筆記型電腦資料夾  a| 
+是的
+ a| 
+是的
+ a| 
+否
+| OneDrive for Business > MySites ><磁碟機名稱>> Files 
+
+
+| OneNote單一/多個資料夾  a| 
+是的
+ a| 
+是的
+ a| 
+否
+| OneDrive for Business > MySites ><磁碟機名稱>檔案>筆記型電腦 
+|===
+.步驟
+. 在儀表板中、按一下OneDrive方塊中的*受保護*上方數字。
+. 按一下您需要執行還原的MySite。
+. 選取檔案群組。
++
+如果您要還原群組內的個別資料夾或檔案、請按一下檔案群組。若要還原整個資料夾、請選取該資料夾。若要還原資料夾內的個別檔案、請選取包含檔案的資料夾、然後選取個別檔案。
+
+. 按一下 * 還原 * 。
+. 選取還原選項：
++
+** *還原至相同的MySite*
++
+如果您要將個別檔案還原至相同的MySite、預設會在包含備份複本的原始內容位置建立具有目前日期和時間戳記的還原資料夾。
+
++
+如果您選取*取代現有內容*、則您目前的資料會完全由備份取代。
+
+** *還原至其他MySite*
++
+如果您還原至其他MySite、則必須在搜尋欄位中輸入目的地MySite。您可以在搜尋欄位中輸入目的地MySite的一部分、以啟動自動搜尋符合目的地MySites的功能。
+
+** *匯出資料*
++
+如果您匯出資料、則需要下載。移至左側功能表上的「報告」。尋找您的匯出資料工作。按一下*資料夾總數*。然後按一下*匯出資料下載連結*。下載壓縮檔。開啟壓縮檔以擷取資料。
+
++
+
+NOTE: 如果您選取*匯出資料*還原選項、所提供的連結將在七天內有效、並已預先驗證。
+
+
+
+. 按一下「 * 確認 * 」。
+. 按一下*檢視工作進度*以監控還原進度。
+

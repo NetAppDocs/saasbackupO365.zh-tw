@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: task_adding_security_groups.html 
+keywords: netapp, saas backup, microsoft 365, security, groups, add, adding, creating 
+summary: 安全性群組可用來做為篩選選項、以檢視您的資料並建立規則。 
+---
+= 新增安全性群組
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+安全性群組可用來做為篩選選項、以檢視您的資料並建立規則。
+
+您最多可以新增3個安全性群組。接著您可以在SaaS備份中使用安全性群組做為篩選選項。
+
+新的安全性群組必須透過AutoSync或手動同步來探索、才能新增。https://docs.microsoft.com/en-us/office365/admin/email/create-edit-or-delete-a-security-group?view=o365-worldwide["在管理中心中建立、編輯或刪除安全性群組"]。
+
+.步驟
+. 按一下*帳戶設定*。
+. 按一下*安全性群組*。
+. 在搜尋欄位中、輸入您要新增的安全性群組名稱。
+. 按一下「 * 新增 * 」。
+

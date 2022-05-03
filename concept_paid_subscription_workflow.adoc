@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: concept_paid_subscription_workflow.html 
+keywords: netapp, saas backup, microsoft 365, getting started, paid, subscription, workflow 
+summary: 若要開始使用付費訂閱的Microsoft 365 SaaS備份、您必須決定要用於備份的儲存類型、建立具有全域權限的Microsoft 365服務帳戶、而且必須完成註冊程序。 
+---
+= 入門工作流程
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+若要開始使用適用於Microsoft 365的SaaS備份、您必須執行下列動作：
+
+. 決定您是否要使用SaaS備份所提供的Amazon S3或Azure Blob儲存設備。
++
+link:concept_storage_types.html["您可以搭配SaaS備份使用的儲存類型"]。
+
+. link:task_creating_msservice_account_with_global_permissions.html["建立具有全域權限的MS Office服務帳戶"]。
+. 如有需要、 link:task_configuring_impersonation.html["設定Microsoft Exchange Online的模擬"]。
+. link:task_signing_up_for_saasbkup_paid_subscription.html["註冊SaaS Backup for Microsoft 365"] 使用您的Microsoft 365帳戶或NetApp SSO帳戶。
+. link:task_scheduling_first_backup.html["排程第一次備份"]
+. link:task_performing_immediate_backup_of_policy.html["選用：立即備份資料"]
+
+
+image:O365_workflow_paid_subscription_signup.gif["付費訂閱登錄程序的工作流程"]

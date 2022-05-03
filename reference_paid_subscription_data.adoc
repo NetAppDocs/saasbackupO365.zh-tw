@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: reference_paid_subscription_data.html 
+keywords: paid, subscription, data, saas, backup, microsoft 365 
+summary: 如果您未續約Microsoft 365的SaaS備份授權版本、則訂閱期間所使用的資料將會刪除。 
+---
+= 資料刪除
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果您未續約Microsoft 365的SaaS備份授權版本、則訂閱期間所使用的資料將會刪除、如下所示：
+
+|===
+| 如果您的SaaS備份付費訂閱是... | 付費訂閱結束後的天數 | 您的資料是... 
+
+
+| 已過期 | 1至30天 | 可用：系統管理員具有正常存取權、可執行手動備份與還原。SaaS備份會持續顯示警示並傳送通知。 
+
+
+| 已停用 | 31至60天 | 停用：系統管理員無法存取SaaS備份入口網站。如果在此期間續訂、則可重新啟動資料。 
+
+
+| 已取消資源配置 | 61天以上 | 刪除：刪除所有資料、並移除租戶帳戶。 
+|===

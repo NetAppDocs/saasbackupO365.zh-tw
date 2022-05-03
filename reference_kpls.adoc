@@ -1,0 +1,90 @@
+---
+sidebar: sidebar 
+permalink: reference_kpls.html 
+keywords: 'what"s new, features, new, release notes, known, problems, limitations, application' 
+summary: SaaS Backup for Microsoft 365會定期推出新版本、為您帶來新功能、增強功能和錯誤修正。 
+---
+= 已知問題與限制
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+以下是SaaS Backup for Microsoft 365應用程式層級已知的限制。
+
+
+
+== 適用於SharePoint Online
+
+SaaS備份不支援歸檔SharePoint網站的備份。
+
+
+
+== 適用於商務用OneDrive
+
+在手動完成服務同步之前、不會偵測新增的磁碟機。
+
+
+
+== 適用於Exchange Online
+
+* SaaS備份不支援公用資料夾的備份。
+* *進階搜尋*僅適用於Exchange Online。此設定預設為停用。客戶必須要求啟用此功能。啟用*啟用進階搜尋*設定之後、系統管理員必須手動為個別使用者啟用搜尋功能。
+
+
+
+
+== 適用於團隊
+
+* 已還原通路組態、但內容和對話則未還原。
+* 由於API限制、SaaS備份無法區分SaaS備份中的公有和私有通道。
+* 高層級還原僅還原信箱與SharePoint資料、而非對話。
+* 團隊聊天不支援Emojis和gifs的備份或還原。
+* 「僅限團隊聊天對話匯出」選項為「匯出至HTML」。在對話中張貼的附件連結不會顯示在HTML文件中。
+
+
+
+
+== 適用於OneNote
+
+* 無法匯出至資料。
+* 遞增備份工作可能會失敗、並顯示下列錯誤訊息：「部分失敗。無法備份少數的OneNote節。
+* OneDrive備份包括.onewak檔案的備份。
+* 無法下載還原統計資料。
+* 不支援資料匯出和資料清除。
+
+
+
+
+== 其他問題與限制
+
+下列已知問題和限制並非僅適用於單一應用程式。
+
+所有使用Microsoft 365服務帳戶註冊的使用者：
+
+* SaaS備份僅支援基本驗證。
+
+
+免費試用使用者：
+
+* 在24小時內、每項服務最多允許10次還原。
+
+
+授權使用者：
+
+* 在24小時內、每項服務最多允許10次匯出資料還原。所有其他還原選項均不受限制。
+
+
+若要還原網站集合群組：
+
+* 如果刪除整個網站集合群組、集合中的私有群組還原將會失敗、導致還原工作狀態為「部分失敗」。 如果發生這種情況、則無法從GUI存取站台。
+
+
+*進階搜尋*：
+
+* 在24小時內最多允許10個搜尋工作。
+

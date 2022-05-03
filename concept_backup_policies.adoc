@@ -1,0 +1,57 @@
+---
+sidebar: sidebar 
+permalink: concept_backup_policies.html 
+keywords: netapp, saas backup, microsoft 365, backup, policies, byos, provides, storage, tiers, tier 1, tier 2, tier 3, frequency, default, data, retention, 
+summary: SaaS Backup for Microsoft 365有三個預先定義的備份原則層級。這些原則層在備份頻率和資料保留期間各不相同、視您使用的是SaaS備份提供的儲存設備或BYOS而定。 
+---
+= 備份原則
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup for Microsoft 365有三個預先定義的備份原則層級。這些原則層在備份頻率和資料保留期間各不相同、視您使用的是SaaS備份提供的儲存設備或BYOS而定。
+
+您可以在三個原則之間移動資料、但無法建立新原則或變更預先定義階層的參數。
+
+
+
+== SaaS備份的備份原則提供儲存設備
+
+|===
+| 備份原則 | 備份頻率 | 預設資料保留期間 
+
+
+| 第1層 | 每12小時一次 | 3年 
+
+
+| 第2層 | 每18小時一次 | 3年 
+
+
+| 第3層 | 每24小時一次 | 3年 
+|===
+
+NOTE: 身為系統管理員、您可以將SaaS備份所提供的儲存設備的資料保留期間變更為無限長。如果訂閱有效、SaaS備份會保留保留保留期間內的備份資料。
+
+
+
+== BYOS的備份原則
+
+BYOS僅適用於現有客戶。
+
+|===
+| 備份原則 | 備份頻率 | 預設資料保留期間 
+
+
+| 第1層 | 每12小時一次 | 無限 
+
+
+| 第2層 | 每18小時一次 | 無限 
+
+
+| 第3層 | 每24小時一次 | 無限 
+|===

@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: task_deleting_admin_roles_from_a_user_account.html 
+keywords: netapp, saas backup, microsoft 365, delete, deleted, deleting, role-based accounts, administrative roles, privileges, removing 
+summary: 如果從使用者帳戶刪除所有管理角色、則使用者會自動登出適用於Microsoft 365的SaaS Backup。 
+---
+= 從使用者帳戶刪除所有管理角色
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果從使用者帳戶刪除所有管理角色、則使用者會自動登出適用於Microsoft 365的SaaS Backup。
+
+.步驟
+. 按一下設定圖示 image:configure_icon.gif["組態圖示的快照"] 在畫面左上角的使用者ID旁。
+. 按一下*帳戶設定*。
+. 按一下*角色管理*。
+. 按一下您要移除之使用者名稱旁的*刪除使用者*。
+. 按一下「*是*」。
+

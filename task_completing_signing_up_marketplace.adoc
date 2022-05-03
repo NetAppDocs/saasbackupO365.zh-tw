@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: task_completing_signing_up_marketplace.html 
+keywords: netapp, saas backup, microsoft 365, getting started, sign up, signing up, paid, subscription, licensed, version 
+summary: 您可以使用Microsoft 365服務帳戶或NetApp SSO帳戶註冊SaaS Backup for Microsoft 365。 
+---
+= 透過Marketplace以付費訂閱方式註冊
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果您是透過Marketplace購買授權、則會顯示授權資訊。請依照下列步驟完成註冊程序。
+
+.步驟
+. 單擊 * 下一步 * 。
+. 選擇您的* Amazon S2*或* Azure Blob *作為儲存類型。
+. 選取備份所需的儲存區域。您應該選取最接近所備份資料實體位置的區域。*慣用*區域會標示為此。
+. 單擊 * 下一步 * 。
+. 檢查組態、然後按一下*「Save"（儲存）。
+. 如果您尚未這麼做、 link:task_activate_support.html["啟動支援"]。
+

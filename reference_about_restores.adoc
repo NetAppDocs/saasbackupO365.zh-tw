@@ -1,0 +1,347 @@
+---
+sidebar: sidebar 
+permalink: reference_about_restores.html 
+keywords: netapp, saas backup, microsoft 365, restores, microsoft teams, groups, sharepoint, exchange, onedrive, teams data, teams data locations, locations, teams, email, channels, documents, channel, chat, private channel, individual user chat, group chats, files 
+summary: SaaS Backup for Microsoft 365為每項服務提供高層級且精細層級的還原選項。 
+---
+= 關於還原
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+有了適用於Microsoft 365的SaaS備份、您可以針對Exchange Online、SharePoint Online、OneDrive for Business、以及Microsoft 365群組和團隊、執行高層級且精細的還原。
+
+瞭解如何執行高層級和精細層級的還原：
+
+* link:task_performing_high_level_restore.html["執行高層級還原"]
+* link:task_performing_granular_level_restore_exchange.html["為Exchange Online執行精細層級的還原"]
+* link:task_performing_granular_level_restore_sharepoint.html["為SharePoint Online執行精細層級的還原"]
+* link:task_performing_granular_level_restore_onedrive.html["針對OneDrive for Business執行精細層級的還原"]
+* link:task_performing_granular_level_restore_teams.html["為群組和團隊執行精細層級的還原"]
+
+
+下表顯示每項服務所支援的高層級還原選項、以及在SaaS備份中找到還原資料的位置。
+
+
+NOTE: 刪除或取消資源配置資料時、您可以將資料還原至其他位置（信箱、站台、MySite、群組或群組）、或匯出資料。您無法還原至相同位置。
+
+
+
+== Exchange Online
+
+[cols="15a,15a,15a,15a,40"]
+|===
+| 項目類型 | 還原至相同的信箱 | 還原至其他信箱 | 匯出至動力換檔變速箱 | SaaS備份的位置 
+
+
+ a| 
+單一信箱
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| Exchange Online >信箱-使用者/共享/歸檔 
+
+
+ a| 
+多個信箱
+ a| 
+是的
+ a| 
+是的
+ a| 
+否
+| Exchange Online >信箱-使用者/共享/歸檔 
+
+
+ a| 
+信箱內容
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| Exchange Online >信箱-使用者/共享/歸檔><使用者名稱> 
+|===
+
+
+== SharePoint Online
+
+[cols="15a,15a,15a,15a,40"]
+|===
+| 項目類型 | 還原至相同站台 | 還原至其他站台 | 匯出資料 | SaaS備份的位置 
+
+
+ a| 
+單一SharePoint網站
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| SharePoint Online >網站 
+
+
+ a| 
+多個SharePoint網站
+ a| 
+是的
+ a| 
+是的
+ a| 
+否
+| SharePoint Online >網站 
+
+
+ a| 
+SharePoint網站內容
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| SharePoint Online >網站><網站名稱> 
+
+
+ a| 
+單一SharePoint網站啟用僅還原角色
+ a| 
+是的
+ a| 
+否
+ a| 
+否
+| SharePoint Online >網站 
+
+
+ a| 
+單一子站台
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| SharePoint Online >網站><網站名稱> 
+
+
+ a| 
+多個子網站
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| SharePoint Online >網站><網站名稱> 
+
+
+ a| 
+SharePoint子網站內容
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| SharePoint Online >網站><網站名稱> 
+
+
+ a| 
+啟用僅還原角色的單一/多個子網站
+ a| 
+是的
+ a| 
+否
+ a| 
+否
+| SharePoint Online >網站><網站名稱> 
+|===
+
+
+== 商務用OneDrive
+
+[cols="15a,15a,15a,15a,40"]
+|===
+| 項目類型 | 還原至相同的MySite | 還原至其他MySite | 匯出資料 | SaaS備份的位置 
+
+
+ a| 
+單一磁碟機
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| 商務用OneDrive > MySites 
+
+
+ a| 
+多個磁碟機
+ a| 
+否
+ a| 
+否
+ a| 
+否
+| 商務用OneDrive > MySites 
+
+
+ a| 
+單一磁碟機內容
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| OneDrive for Business > MySites><OneDrive使用者> 
+|===
+
+
+== 群組
+
+[cols="15a,15a,15a,15a,40"]
+|===
+| 項目類型 | 還原至相同群組 | 還原至其他群組 | 匯出資料 | SaaS備份的位置 
+
+
+ a| 
+單一群組
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| Office 365群組>群組 
+
+
+ a| 
+多個群組
+ a| 
+是的
+ a| 
+否
+ a| 
+否
+| Office 365群組>群組 
+
+
+ a| 
+群組內容
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| Office 365群組>群組> 
+
+
+ a| 
+信箱內容
+ a| 
+是的
+ a| 
+否
+ a| 
+是的
+| Office 365群組>群組>（群組電子郵件）>群組名稱 
+
+
+ a| 
+SharePoint內容
+ a| 
+是的
+ a| 
+否
+ a| 
+是的
+| Office 365群組>群組><群組名稱><站台名稱> 
+|===
+
+
+== 團隊
+
+[cols="15a,15a,15a,15a,40"]
+|===
+| 項目類型 | 還原至相同的群組 | 還原至其他團隊 | 匯出資料 | SaaS備份的位置 
+
+
+ a| 
+單一團隊
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| Office 365群組>團隊 
+
+
+ a| 
+多個團隊
+ a| 
+是的
+ a| 
+否
+ a| 
+否
+| Office 365群組>團隊 
+
+
+ a| 
+團隊內容
+ a| 
+是的
+ a| 
+是的
+ a| 
+是的
+| Office 365群組>團隊> 
+
+
+ a| 
+信箱內容
+ a| 
+是的
+ a| 
+否
+ a| 
+是的
+| Office 365群組>團隊>（團隊電子郵件）>團隊名稱 
+
+
+ a| 
+SharePoint內容
+ a| 
+是的
+ a| 
+否
+ a| 
+是的
+| Office 365群組>團隊><團隊名稱><網站名稱> 
+
+
+ a| 
+通路
+ a| 
+是的
+ a| 
+否
+ a| 
+否
+| Office 365群組>團隊>（團隊電子郵件） 
+|===

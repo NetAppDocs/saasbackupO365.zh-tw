@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: task_enabling_onenote_backups.html 
+keywords: netapp, saas backup, microsoft 365, backup, setting, enable, enabling, onenote 
+summary: 您可以啟用OneNote筆記本的備份。 
+---
+= 啟用OneNote備份
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+根據預設、OneNote筆記本的備份會啟用附註功能。如果您想要備份OneNote筆記本，則必須在所需的服務中啟用備份。
+
+.步驟
+. 按一下左導覽窗格中的*服務*。
++
+image:services.gif["服務按鈕的快照"]
+
+. 按一下Microsoft 365。
++
+image:mso365_settings.gif["Microsoft 365按鈕的快照"]
+
+. 在*管理服務*下、按一下備份設定圖示 image:configure_icon.gif["組態圖示的快照"] 在您需要更新的服務旁。
++
+隨即顯示可供所選服務使用的備份設定清單。
+
+. 選取*啟用OneNote備份*。
+. 按一下「 * 確認 * 」。筆記型電腦將會納入下次排程的備份中。如果您想要立即備份、請執行 link:task_performing_immediate_backup_of_service.html["立即備份"]。
+

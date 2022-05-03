@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: task_purging.html 
+keywords: netapp, saas backup, microsoft 365, purge, purged, purging, site collection, groups 
+summary: 您可以在NetApp SaaS備份中以多種方式管理服務、包括啟動新服務、停用現有服務、清除資料及取消工作。 
+---
+= 清除使用者、網站集合或Microsoft 365群組
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以完全移除與使用者、網站集合或Microsoft 365群組相關的所有資料。清除的資料可在七天內恢復。七天後、資料會永久刪除、使用者授權會自動釋出。
+
+.步驟
+. 按一下組態圖示 image:configure_icon.gif["組態圖示的快照"] 位於左上角的SaaS備份使用者ID旁。
+. 選擇*帳戶設定*。
+. 按一下*保留並清除*。
+. 在*清除資料*下、從下拉式功能表中選取*服務類型*（Exchange、OneDrive或SharePoint）。
+. 搜尋您要清除的使用者、網站集合或Microsoft 365群組。若為Microsoft Exchange Online或OneDrive for Business、請輸入使用者或Microsoft 365群組名稱。若為SharePoint Online、請輸入網站集合名稱。+附註：如果使用者有歸檔信箱、則歸檔信箱的使用者名稱會以「就地歸檔」為前置位。
+. 當搜尋結果傳回時、按一下 image:bluecircle_icon.gif["藍色加號圖示"] 選取使用者、網站集合或Microsoft 365群組。
+. 按一下「 * 儲存 * 」。
+. 按一下「*是*」以確認您要清除資料。
+

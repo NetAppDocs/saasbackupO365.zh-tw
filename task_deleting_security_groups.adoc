@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: task_deleting_security_groups.html 
+keywords: netapp, saas backup, microsoft 365, delete, deleting, security, groups 
+summary: 如果使用者定義的規則正在使用安全性群組、則無法將其刪除。您必須移除使用者定義的規則、然後刪除安全性群組。 
+---
+= 刪除安全性群組
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果使用者定義的規則正在使用安全性群組、則無法將其刪除。您必須移除使用者定義的規則、然後刪除安全性群組。<<task_deleting_rules.adoc#deleting-rules,刪除規則>>
+
+.步驟
+. 按一下*帳戶設定*。
+. 按一下*安全性群組*。
+. 按一下您要移除之群組旁的刪除圖示。
+

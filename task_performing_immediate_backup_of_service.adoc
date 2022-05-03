@@ -1,0 +1,66 @@
+---
+sidebar: sidebar 
+permalink: task_performing_immediate_backup_of_service.html 
+keywords: netapp, saas backup, microsoft 365, perform, performing, immediate, backup, service 
+summary: 視需要、您可以立即備份任何Microsoft 365服務。 
+---
+= 立即備份服務
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+視需要、您可以立即備份任何Microsoft 365服務。
+
+.步驟
+. 在儀表板的服務方塊中、按一下「* protected *（*受保護*）」上方的數字、即可立即執行備份。
+. 選取備份選項。
++
+.. 適用於Exchange
++
+*** 如果您要備份共用信箱、請按一下*共享*索引標籤。
+*** 如果要備份歸檔信箱、請按一下*歸檔*索引標籤。
+*** 如果您要備份一般信箱、請保留在*使用者*索引標籤上。
+
+
+.. 適用於SharePoint
++
+*** 如果您要備份站台、請保留在*站台*索引標籤上。
+
+
+.. 適用於OneDrive
++
+*** 如果您要備份使用者、請保留在*使用者*索引標籤上。
+
+
+.. 適用於Microsoft 365群組
++
+*** 如果您要備份群組、請保留在*群組*索引標籤上。
+*** 如果您要備份群組、請按一下*群組*索引標籤。
++
+
+NOTE: 只有在設定下啟用TeamsChat時、才會備份TeamsChat訊息。聯絡人 link:https://mysupport.netapp.com/["支援"] 以啟用此功能。
+
++
+
+NOTE: 由於API限制、SaaS備份無法區分公有和私有通道。
+
+
+
+
+
+. 選取您要備份的項目。
+. 按一下*立即備份*。
++
+image:backup_now.gif["立即備份按鈕"]
+
++
+畫面會顯示訊息、指出所選服務將置於工作佇列中進行備份。
+
+. 按一下「 * 確認 * 」。此時會顯示一則訊息、指出已建立備份工作。
+. 按一下*檢視工作進度*以監控備份進度。
+

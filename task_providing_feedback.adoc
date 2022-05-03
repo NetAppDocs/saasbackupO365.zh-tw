@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: task_providing_feedback.html 
+keywords: netapp, saas backup, microsoft 365, provide, providing, feedback, backup policies, changing backup policies, canceling job, immediate backup, SharePoint Online templates 
+summary: 提供意見回饋、協助我們為您提供更好的服務。 
+---
+= 提供意見回饋
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您對NetApp SaaS Backup for Microsoft 365產品的意見反應、有助於我們為您提供更好的服務。您可以從Microsoft 365的內部SaaS備份提供意見反應。
+
+.步驟
+. 按一下 image:support.png[""] 在左窗格導覽中。
+. 選擇*意見反應*。
+. 完成簡短的意見回饋調查。
+. 按一下*提交*。
+
+
+如果您想要在正式作業層級文件發行或現有正式作業層級文件有重大變更時自動收到通知、請追蹤Twitter帳戶@NetAppDoc。

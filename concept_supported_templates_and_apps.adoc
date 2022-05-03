@@ -1,0 +1,88 @@
+---
+sidebar: sidebar 
+permalink: concept_supported_templates_and_apps.html 
+keywords: netapp, saas backup, microsoft 365, backup, supported, templates, apps 
+summary: Microsoft SharePoint Online僅支援某些範本和應用程式。 
+---
+= Microsoft SharePoint Online支援的範本與應用程式
+:toc: macro
+:hardbreaks:
+:toclevels: 1
+:allow-uri-read: 
+:toc: 
+:toclevels: 1
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+Microsoft SharePoint Online備份僅支援特定範本和特定應用程式。
+
+
+
+== 支援的範本
+
+Microsoft SharePoint Online備份僅支援下列範本。
+
+* STS#0（團隊站台）
+* 部落格#0（部落格網站）
+* 開發#0（開發人員網站）
+* PROJECTSIT#0（專案網站）
+* 社群#0（社群網站）
+* BDR#0（文件中心）
+* COMMunitYPORTAL#0（社群入口網站）
+* ENTIERWIKI#0（企業維客）
+* EHS#1（根站台）
+* EHS#0（根站台）
+* SITEPAGEPUBLISHING #0（通訊站台）
+* 群組#0（群組網站集合首碼）
+* STS#1（空白站台）
+* STS#2（文件工作區）
+* STS#3（現代團隊網站）
+* 應用程式#0（應用程式範本）
+
+
+
+
+== 支援的應用程式
+
+Microsoft SharePoint Online備份支援下列應用程式。
+
+* 自訂清單
+* 徽章（社群網站）
+* 文件庫
+* 樣式庫
+* 調查
+* 連結
+* 公告
+* 聯絡人
+* 行事曆
+* 討論區
+* 照片
+* 圖片庫
+* 內容網頁組件
+* 清單範本庫
+* 主版頁面庫
+* 網站頁面
+* 資料集檢視中的自訂清單
+* 解決方案庫
+* 主題庫
+* 組成風格
+* 促銷連結
+* 工作
+* 文章（部落格網站）
+* 意見（部落格網站）
+* 社群討論（社群網站）
+* 類別（部落格網站）
+* 社群類別（社群網站）
+* 報告
+* 維客頁面
+* 網站集合映像
+* 社群成員（社群網站）
+* 問題追蹤
+* 記錄庫
+* 分享連結
+

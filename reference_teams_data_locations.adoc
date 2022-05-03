@@ -1,0 +1,73 @@
+---
+sidebar: sidebar 
+permalink: reference_teams_data_locations.html 
+keywords: netapp, saas backup, microsoft 365, microsoft teams, groups, sharepoint, exchange, onedrive, teams data, teams data locations, locations, teams, email, channels, documents, channel, chat, private channel, individual user chat, group chats, files 
+summary: 表格參考資料會顯示在SaaS備份中的何處可找到團隊資料。 
+---
+= 團隊資料位置
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Microsoft團隊的資料在SaaS Backup for Microsoft 365中有不同的位置。
+
+下表顯示如何在SaaS備份中找到團隊資料。
+
+[cols="12,64a"]
+|===
+| 團隊資料 | SaaS備份的位置？ 
+
+
+| 團隊電子郵件  a| 
+Microsoft 365群組>團隊> SampleTeam > Mailbox
+
+
+
+| 團隊通路  a| 
+Microsoft 365群組>團隊> SampleTeam > Channels
+
+
+
+| 團隊標準通路文件  a| 
+Microsoft 365群組>團隊> SampleTeam > SharePoint網站>文件> SampleTeam-StdChannel
+
+
+
+| 團隊標準通路聊天  a| 
+* Microsoft 365群組>團隊> SampleTeam > Mailbox > Conversations > Team Chat
+* Microsoft 365群組>團隊> SampleTeam > Mailbox > Mail > Conversation History > Team Chat（實際位置）
+
+
+
+
+| 團隊私有通路文件  a| 
+SharePoint > SampleTeam–SampleTeam-Private Channel >文件> SampleTeam-Private Channel
+
+
+NOTE: 您會發現另一個網站集合、其名稱為「<您的團隊名稱–私有通路名稱>」。您可以使用範本ID：TEAMCHANNEL#0篩選這些網站集合。
+
+
+
+| 團隊私人通路聊天  a| 
+* Exchange >「私人通路的使用者」>「郵件」>「對話」>「團隊聊天」
+* Exchange >「私人通路使用者」>「郵件」>「對話記錄」>「團隊聊天」（實際位置）
+
+
+
+
+| 個別使用者聊天和群組聊天  a| 
+* Exchange >「使用者」>「郵件」>「對話」>「團隊聊天」
+* Exchange >「User」（使用者）>「Mail」（郵件）>「Conversation History」（對話記錄）>「Team Chat（團隊聊天）」
+
+
+
+
+| 在個別使用者聊天室和群組聊天室中共用的檔案  a| 
+OneDrive >「使用者」>「檔案」>「Microsoft團隊聊天檔案」
+
+|===

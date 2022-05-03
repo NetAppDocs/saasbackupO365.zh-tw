@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: task_updating_subscription_information.html 
+keywords: netapp, saas backup, renew, update, updating, add-on, add, on, license, subscription, extension 
+summary: 您可以更新、新增或更新授權。 
+---
+= 更新訂閱資訊
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+購買附加授權或訂閱延長線之後、您可以在SaaS備份中更新訂閱詳細資料。
+
+
+NOTE: 任何一般使用者信箱、無論受保護或未受保護、都會使用授權。共享信箱不會使用授權。
+
+.步驟
+. 按一下左導覽窗格中的*服務*。
+. 按一下 image:configure_icon.gif["組態圖示的快照"] 在右角。
+. 按一下「訂購詳細資料」旁邊的*更新*。
+. 輸入您第一次登錄時使用的相同使用者名稱和密碼。
+. 按一下*提交*。
+

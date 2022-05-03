@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: task_discovering_new.html 
+keywords: netapp, saas backup, microsoft 365, discover, discovery, discovering, new, mailboxes, sites, groups, teams, shared, archive 
+summary: 在NetApp SaaS Backup for Microsoft 365中、您可以管理服務帳戶、探索新增的帳戶、以及設定帳戶通知。 
+---
+= 探索新的信箱、站台及群組
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS備份與Microsoft 365帳戶之間必須進行同步處理、以便讓SaaS備份能夠探索新信箱（包括共享信箱和歸檔信箱）、站台、群組和團隊。依預設、同步處理會每24小時自動執行一次。不過、如果您進行變更、並想要在下次排程*自動同步*之前進行探索、您可以立即啟動同步。
+
+.步驟
+. 按一下 image:services.gif["服務按鈕的快照"] 從左側導覽窗格。
+. 按一下Microsoft 365設定圖示。image:mso365_settings.gif["Microsoft 365按鈕的快照"]
+. 按一下您要同步的服務旁的*立即同步*。image:sync_now.png[""]新使用者、共享信箱及歸檔信箱會被發現並以無保護狀態新增。如果您想要備份新發現的使用者、共享信箱或歸檔信箱、您必須將使用者的備份原則從未受保護變更為預先定義的其中一個階層群組。
+. 按一下「 * 確認 * 」。
+. 按一下*檢視工作進度*以監控進度。當工作完成時、您可以按一下「*最近完成的工作*」下的工作、以檢視同步期間新增或移除的使用者數量。使用者帳戶的變更如下所示：
++
+** *重新探索*使用者表示未變更的使用者帳戶數。
+** *停用*使用者表示刪除的使用者帳戶數。
+** *新增的*使用者表示新使用者帳戶的數量。
+
+
+

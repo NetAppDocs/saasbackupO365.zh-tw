@@ -1,0 +1,73 @@
+---
+sidebar: sidebar 
+permalink: task_signing_up_for_saasbkup_paid_subscription.html 
+keywords: netapp, saas backup, microsoft 365, getting started, sign up, signing up, paid, subscription, licensed, version 
+summary: 您可以使用Microsoft 365服務帳戶或NetApp SSO帳戶註冊SaaS Backup for Microsoft 365。 
+---
+= 註冊SaaS Backup for Microsoft 365
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+您可以使用Microsoft 365服務帳戶或NetApp SSO帳戶註冊SaaS Backup for Microsoft 365。
+
+
+
+== 註冊Microsoft 365服務帳戶
+
+.步驟
+. 在網頁瀏覽器中輸入SaaS Backup for Microsoft 365 URL：https://saasbackup.netapp.com[]
+. 選取您所在的地區。您的租戶是在所選區域中建立。您的資料將儲存在該資料中心位置、日後無法變更。
+. 按一下登陸頁下方的*「註冊*」。
+. 接受終端使用者授權合約。
+. 按一下*註冊Office 365*。image:sign_up_0365.gif["按一下按鈕以使用Microsoft 365服務帳戶簽署SaaS Backup for Microsoft 365的螢幕擷取畫面"]
+. 輸入Microsoft 365全域系統管理員服務帳戶的電子郵件地址和密碼、然後按一下*登入*。隨即顯示SaaS Backup for Microsoft 365所要求的權限清單。
+. 按一下*接受*。
+. 輸入要求的使用者資訊。
+. 按一下*註冊*。系統會顯示您的使用者名稱和授予SaaS Backup for Microsoft 365的權限清單。
+. 單擊 * 下一步 * 。隨即顯示可用的Microsoft 365服務清單。
+. 選取您要啟動的Microsoft 365服務。
+. 單擊 * 下一步 * 。
+. 如果您是透過NetApp購買授權、則會顯示您的訂閱類型、請按一下 link:task_completing_signing_up_ipa.html["請按這裡"] 以瞭解更多步驟。
+. 如果您是透過AWS等Cloud Marketplace購買授權、則會顯示授權資訊。按一下 link:task_completing_signing_up_marketplace.html["請按這裡"] 以瞭解更多步驟。
+
+
+
+
+== 註冊NetApp SSO帳戶
+
+若要驗證您的訂閱、您必須擁有NetApp SSO使用者ID和密碼。如果您沒有NetApp SSO帳戶、請前往 https://mysupport.netapp.com/eservice/public/now.do[] 註冊一項。處理完您的申請後、您將會收到一封電子郵件通知、其中包含您的NetApp SSO認證資料。處理申請並傳送通知電子郵件約需24小時。
+
+.步驟
+. 在網頁瀏覽器中輸入SaaS Backup for Microsoft 365 URL：https://saasbackup.netapp.com[]
+. 按一下登陸頁底部的「註冊」。
+. 接受終端使用者授權合約。
+. 單擊*註冊NetApp SSO *。image:sign_up_sso.gif["按一下按鈕以使用NetApp SSO帳戶簽署適用於Microsoft 365的SaaS備份的快照"]
+. 輸入您的NetApp SSO和密碼、然後按一下*登入*。
+. 輸入要求的使用者資訊、然後按一下*「註冊」*。
+. 按一下*服務* image:bluecircle_icon.gif["SaaS Backup for Microsoft 365服務圖示的快照"] 圖示。
+. 按一下Microsoft 365 image:O365_icon.gif["Microsoft 365圖示"] 圖示以選取SaaS服務。
+. 按一下「*新增Microsoft Office 365帳戶*」。
+. 輸入Microsoft 365全域系統管理員服務帳戶的電子郵件地址和密碼、然後按一下*登入*。隨即顯示SaaS Backup for Microsoft 365所要求的權限清單。
+. 按一下*接受*。
+. 單擊 * 下一步 * 。隨即顯示可用的Microsoft 365服務清單。
+. 選取您要啟動的Microsoft 365服務。
+. 單擊 * 下一步 * 。
+. 選擇*授權*作為訂閱類型。
+. 輸入要求的資訊、然後驗證訂閱。
+. 單擊 * 下一步 * 。
+. 選取您的備份儲存選項。
++
+.. 按一下「* SaaS備份提供的儲存設備*」。
+.. 選擇* Amazon S2*或* Azure Blob *儲存選項。
+.. 選取* AWS S1*或* Azure Blob *區域進行備份。您應該選取最接近所備份資料實體位置的區域。
+.. 單擊 * 下一步 * 。
+.. 檢查組態、然後按一下*「Save"（儲存）。
+
+
+

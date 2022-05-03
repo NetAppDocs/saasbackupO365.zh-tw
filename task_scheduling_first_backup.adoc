@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: task_scheduling_first_backup.html 
+keywords: netapp, saas backup, microsoft 365, getting started, schedule, scheduling, first, performing 
+summary: 當您為Microsoft 365設定SaaS備份時、您的資料預設不會受到保護、也不會排定進行備份。您必須將資料移至受保護的層級、才能開始進行第一次備份。 
+---
+= 排程第一次備份
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+當您為Microsoft 365設定SaaS備份時、資料預設為無保護。您必須將資料從無保護層移至其中一個受保護層、以便在所選層的下次排程備份期間備份資料。
+
+.步驟
+. 從儀表板中、選取含有未受保護資料的服務。
+. 按一下「未受保護的信箱、MySites、站台或群組數量」旁邊的*檢視*。
+. 選取您要保護的項目。
+. 按一下*群組*功能表。image:groups_menu.gif["SaaS備份群組功能表按鈕的快照"]
+. 選取您要指派的備份原則*層級*。請參閱 link:concept_backup_policies.html["備份原則"] 以取得備份原則層級的說明。
+. 按一下「 * 套用 * 」。
+

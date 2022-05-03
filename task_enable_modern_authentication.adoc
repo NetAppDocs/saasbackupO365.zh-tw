@@ -1,0 +1,44 @@
+---
+sidebar: sidebar 
+permalink: task_enable_modern_authentication.html 
+keywords: saas backup, microsoft 365, setting, settings, enable, modern authentication, basic authentication, discovery, failure 
+summary: 您可以啟用適用於Microsoft 365的SaaS備份的現代化驗證、以避免Microsoft 365群組、共享和歸檔信箱的探索失敗。 
+---
+= 啟用現代化驗證
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Microsoft 365目標為2021年10月、在Exchange Online中棄用基本驗證。棄用之後、Microsoft 365群組、共享信箱和歸檔信箱可能會發生探索失敗。
+
+您可以隨時啟用現代化驗證。
+
+新客戶不需要採取任何行動。當您註冊時、會啟用「現代化驗證」。
+
+現有客戶需要採取行動。請依照下列指示啟用「現代化驗證」。
+
+
+NOTE: 若要啟用「現代化驗證」、請使用租戶帳戶認證登入；帳戶名稱可在Microsoft 365服務設定中找到（請參閱以下*選項2步驟*）。確定已將全域管理員角色指派給此帳戶。成功啟用現代化驗證之後、您可以從管理員使用者移除全域管理員角色。
+
+.選項1步驟
+. 登入SaaS Backup for Microsoft 365。隨即會彈出下列訊息。image:enable_mod_auth_pop-up.png["啟用現代驗證的快顯訊息「Microsoft Basic驗證即將停用」。請啟用「現代化驗證」、以避免Microsoft 365群組、歸檔信箱及共用信箱發生探索失敗。是否要立即啟用？"]
+. 選擇* Confirm（確認）*以啟用Modern驗證。
+. 接受所有權限。現在已啟用「現代化驗證」。ZZZ組態服務帳戶已移除。
+
+
+.選項2步驟
+. 在SaaS Backup for Microsoft 365中、前往「設定」 image:settings_icon.png["齒輪圖示"]>服務設定> Microsoft 365服務設定。image:microsoft365_service_settings.png["指向Microsoft 365服務設定的箭號"]
+. 選取*「啟用現代化驗證」*。image:enable_mod_auth_service_settings_button.png["從「服務設定」中選取「啟用現代化驗證」"]
+. 接受所有權限。現在已啟用「現代化驗證」。ZZZ組態服務帳戶已移除。
+
+
+如果收到失敗通知、您可以重試啟用「現代化驗證」。
+
+如需支援、請寄送電子郵件至saasbackupsupport@netapp.com。
+
+如需詳細資訊、請參閱 link:https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-and-exchange-online-september-2021-update/ba-p/2772210["基本驗證與Exchange Online - 2021年9月更新"]。

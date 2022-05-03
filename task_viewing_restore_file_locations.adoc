@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: task_viewing_restore_file_locations.html 
+keywords: netapp, saas backup, microsoft 365, find, viewing, jobs, log, restore, file, locations 
+summary: 您可以下載已還原檔案和資料夾的標題和位置記錄。 
+---
+= 尋找還原的檔案
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+還原部分檔案或資料夾時、這些檔案或資料夾會包含在新建立的還原資料夾中。為了協助您輕鬆找到還原的項目、您可以下載含有還原檔案和資料夾名稱和位置的Excel檔案。
+
+.步驟
+. 按一下 image:jobs_button.gif["「工作」按鈕的快照"] 在左側導覽窗格中。
+. 在*最近完成的工作*下、按一下您要尋找已還原檔案的工作。
+. 按一下右上角的*下載*。本機下載的Excel檔案包含特定工作的還原檔案名稱和位置。
+

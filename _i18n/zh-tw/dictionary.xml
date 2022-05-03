@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="d0237117579def0f9ce41ac02e334a5a" category="summary">您可以下載已還原檔案和資料夾的標題和位置記錄。</block>
+  <block id="65512882fe38fcc7733153860abf51e2" category="doc">尋找還原的檔案</block>
+  <block id="7fe5358a31cca8be2fe9fad27bbf5dbd" category="paragraph">還原部分檔案或資料夾時、這些檔案或資料夾會包含在新建立的還原資料夾中。為了協助您輕鬆找到還原的項目、您可以下載含有還原檔案和資料夾名稱和位置的Excel檔案。</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步驟</block>
+  <block id="95b7f4d6a198fdf63d26ec910aefe409" category="inline-image-macro">「工作」按鈕的快照</block>
+  <block id="f0997eb0d9eac290b2d22c536116679c" category="list-text">按一下 <block ref="57896efc0de0d48cea535446c297cd85" category="inline-image-macro-rx" type="image"></block> 在左側導覽窗格中。</block>
+  <block id="6fd64f207f0e6134860235423954cfc2" category="list-text">在*最近完成的工作*下、按一下您要尋找已還原檔案的工作。</block>
+  <block id="f978b75b2595eb7b23b77cfcf1faf1d7" category="list-text">按一下右上角的*下載*。本機下載的Excel檔案包含特定工作的還原檔案名稱和位置。</block>
+  <block id="a92427a42a49d5f28c89b26746343201" category="summary">您可以使用SaaS Backup for Microsoft 365群組/團隊執行精細層級還原。</block>
+  <block id="04687a55cad16eeb46f2e4bfbd7dd95b" category="doc">為Microsoft 365群組和團隊執行精細層級的還原</block>
+  <block id="08a8cab38f1da1c94492a57028d46365" category="paragraph">在Microsoft 365群組和團隊中、您可以還原精細層級的項目、例如信箱、SharePoint、對話、通路和索引標籤。</block>
+  <block id="307507606358033c7b7356d64b288c58" category="paragraph">根據預設、只有最新的備份可供還原。其他可用選項包括：</block>
+  <block id="3afa9ce911c7556e33f1481ed3f9f806" category="inline-image-macro">可供還原的備份</block>
+  <block id="cc16850ab63d07d2c68712085f701c8e" category="paragraph"><block ref="cc16850ab63d07d2c68712085f701c8e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0cc249a1ff9522b5f305ab1ef65a6afe" category="paragraph">下表指出精細層級項目所支援的還原選項、以及在SaaS備份中的位置。</block>
+  <block id="f28bc3f217e602fc1f5eb4085dd42385" category="paragraph">（*群組*）</block>
+  <block id="b739e39d2ac5533c519af082ff2d48e4" category="cell">項目類型</block>
+  <block id="b0189b01c3d471d3a36db4ed52c834cc" category="cell">還原至相同群組</block>
+  <block id="3c4182507d21bd1049547ede229598e9" category="cell">還原至其他群組</block>
+  <block id="5e20646580da584d76435da00d6face4" category="cell">匯出資料</block>
+  <block id="b6c2e9d14610275b24d114ad4e420765" category="cell">SaaS備份的位置</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="doc"></block>
+  <block id="7f6bcffecf37269d3869f221601d18c0" category="paragraph">單一/多個資料夾</block>
+  <block id="93cba07454f06a4a960172bbd6e2a435" category="paragraph">是的</block>
+  <block id="bafd7322c6e97d25b6299b5d6fe8920b" category="paragraph">否</block>
+  <block id="bf65e3c0f451615e7d1d629a3288ad9f" category="paragraph">Office 365群組&gt;群組&gt;（群組名稱）&gt;信箱</block>
+  <block id="3882d32c66e7e768145ecd8f104b0c08" category="paragraph">收件匣</block>
+  <block id="00bc065dd3c71fd5d4b0086481d268cc" category="paragraph">單一/多個項目（電子郵件或事件）</block>
+  <block id="317c6e15341cbd153b04ade35a6bfaab" category="paragraph">Office 365群組&gt;群組&gt;（群組名稱）&gt;信箱&gt;郵件</block>
+  <block id="4da59e4209ff5c6096e08b048a0dd376" category="paragraph">適用於*團隊*</block>
+  <block id="cb8bd7ca133970cb92cb4fbd663152bf" category="cell">還原至相同的群組</block>
+  <block id="3817dd3d0c55260f20f8e6529a44c8bf" category="cell">還原至其他團隊</block>
+  <block id="aba1ef02d1c3b81808de23459d88ee09" category="paragraph">單一/多個資料夾</block>
+  <block id="3cbb79dcb8ac4c162d56bf19f72f52e3" category="paragraph">Office 365群組&gt;團隊&gt;（團隊名稱）&gt;信箱</block>
+  <block id="5d795763df018483abcbcbd76b870443" category="paragraph">Office 365群組&gt;團隊&gt;（團隊名稱）&gt;信箱&gt;郵件</block>
+  <block id="03241f4c0b0c3bb57e878f3c7f829b6b" category="paragraph">對話/聊天</block>
+  <block id="93c8813020bc0571ed7f343c44da47e9" category="paragraph">是（僅匯出至HTML）</block>
+  <block id="b811081d6ff6e1e9f6c4a27dae543f1d" category="list-text">Office 365群組&gt;團隊&gt;（團隊名稱）&gt;信箱&gt;對話&gt;團隊聊天</block>
+  <block id="4a3fbfae9983b97867ad7a017c366db7" category="list-text">Office 365群組&gt;團隊&gt;（團隊名稱）&gt;信箱&gt;郵件&gt;對話記錄&gt;團隊聊天（實際位置）</block>
+  <block id="75503cea14d1fde62464cd36f797cac7" category="paragraph">對話單一/多個項目</block>
+  <block id="fd6a73d4ba32ae4f3ede4ee332d84996" category="paragraph">Office 365群組&gt;團隊&gt;（團隊名稱）&gt;信箱&gt;對話記錄&gt;團隊聊天</block>
+  <block id="9c26be940e95cf4878da122d939b8784" category="paragraph">單一/多個通道</block>
+  <block id="a9ecb1e1b3e01a7620a18c19cecd31ee" category="paragraph">Office 365群組&gt;團隊&gt;（團隊名稱）&gt;通路</block>
+  <block id="a1ab5ce0720ebbbda3918cd012a68184" category="paragraph">*附註*：還原僅包含通道名稱和索引標籤名稱。</block>
+  <block id="b3b725dd37253b15311071af8c23f7fe" category="paragraph">索引標籤</block>
+  <block id="042d61a3d926d53635966eaeb6a937f7" category="paragraph">通路標準文件</block>
+  <block id="6b30d71b8cc2aaaeb93d0ff1f9134eb0" category="paragraph">Office 365群組&gt;團隊&gt;（團隊名稱&gt; SharePoint網站&gt;文件&gt;（通路名稱）</block>
+  <block id="48f6c780a94480642bedbd564750b7a2" category="paragraph">通路私有文件</block>
+  <block id="1c8b0ac9b58ed797a8aa6dc307b23527" category="paragraph">SharePoint &gt;（私有通路網站名稱）&gt;文件&gt;（私有通路名稱）</block>
+  <block id="e5efd2bf375c66135f8862e063b4eddf" category="paragraph">*附註*：您將會找到另一個名為「&lt;您的團隊名稱–私有通路名稱&gt;」的網站集合。您可以使用範本ID：TEAMCHANNEL#0篩選這些網站集合。</block>
+  <block id="cc7c0ba37cf0f01092372b1d869e22ec" category="paragraph">OneNote內容</block>
+  <block id="d5b7e08e324912d3ca99a4d20efa3835" category="paragraph">Office 365群組&gt;團隊&gt;（團隊名稱）&gt; SharePoint網站&gt;文件&gt;（通路名稱）</block>
+  <block id="50ed22c9a34ec5933b28ffc086e3dc3c" category="paragraph">維客內容</block>
+  <block id="1722203907c0ea278b769a7c97a2bfa9" category="paragraph">Office 365群組&gt;團隊&gt;（團隊名稱）&gt; SharePoint網站&gt;團隊維客資料&gt;（通路名稱）</block>
+  <block id="91f3a2c0e4424c87689525da44c4db11" category="paragraph">檔案</block>
+  <block id="3e84a960f12c9f006b87ee3ec0305678" category="paragraph">個別使用者聊天和群組聊天</block>
+  <block id="8549ef96f3965f413ca1f13ece7089b8" category="paragraph">*附註*：Exchange Online備份中包含的聊天室。</block>
+  <block id="15233ac19418cfc534ea8fafc8eac28a" category="list-text">Exchange &gt;「使用者」&gt;「郵件」&gt;「對話」&gt;「團隊聊天」</block>
+  <block id="73d50530c59e846603b0a000c8c5bd03" category="list-text">Exchange &gt;「使用者」&gt;「郵件」&gt;「對話記錄」&gt;「團隊聊天」</block>
+  <block id="6bbc5707d695de8c090582eed7caa4ba" category="paragraph">個別使用者聊天和群組聊天中的檔案</block>
+  <block id="f16b3cb45c9a49849f9defdf2c168963" category="paragraph">*附註*：商務備份OneDrive中包含的檔案。</block>
+  <block id="ad64dadeddce0a9e824b9d43c40cb699" category="paragraph">OneDrive &gt;「使用者」&gt;「檔案」&gt;「Microsoft團隊聊天檔案」</block>
+  <block id="f055327f9ee8af772de45c830bfb8744" category="section-title">還原信箱</block>
+  <block id="222bdf4318c1779d19d17f8d5da196d2" category="paragraph">選取此精細層級還原、即可還原收件匣、行事曆和對話記錄。</block>
+  <block id="97bffa1060b6d680992b0461b9a85f68" category="list-text">在「儀表板」中、按一下* Microsoft 365群組*中的*受保護*上方號碼。</block>
+  <block id="f66e84de6f78f8e89d7975442ebe2c30" category="list-text">選取*群組*或*群組*索引標籤。</block>
+  <block id="26d392d76b406f2e677048da456d7872" category="list-text">按一下您需要執行精細層級還原的群組或群組。</block>
+  <block id="898bf5c2d8f7a8ecf881c264543c9976" category="list-text">選取信箱類別。</block>
+  <block id="0aae4c2c3d004100b3d329b383d9558f" category="inline-image-macro">反白顯示的信箱選項影像</block>
+  <block id="fcce7879592f679fe46e28fadafa7032" category="paragraph"><block ref="fcce7879592f679fe46e28fadafa7032" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="78676bdb287bac69a9ca2d7171159a45" category="admonition">對於群組、*通道*無法使用。</block>
+  <block id="e9500dac70654a926ec898192e52bfd8" category="inline-image-macro">反白郵件選項的影像</block>
+  <block id="e6c11b9b64fe4f0269eb5d91f17a315b" category="list-text">選取*郵件*選項可將收件匣或交談記錄還原至相同的信箱或匯出資料。<block ref="bff26c3ddeb1a5b2f280be0ccf937a47" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="091e6df933ea1d7b5050e63c29a8e545" category="admonition">對於群組、*對話*無法使用。</block>
+  <block id="37ea2ac8fc59309b917bd13aacb7cf10" category="list-text">若要還原收件匣、請選取*收件匣*、然後按一下*還原*。</block>
+  <block id="823111e9e43524b5ad68065cccf6ee22" category="list-text">選擇*還原至同一個信箱*或*匯出資料*。</block>
+  <block id="9f4e67a899612efbb024bcba557762f9" category="paragraph">如果您匯出資料、則需要下載。請移至左側功能表的*報告*。尋找您的匯出資料工作。按一下*資料夾總數*。然後按一下*匯出資料下載連結*。下載壓縮檔。開啟壓縮檔以擷取資料。</block>
+  <block id="45c370720bd5903ae015d8bc9114b227" category="admonition">如果您選取*匯出資料*還原選項、所提供的連結將在七天內有效、並已預先驗證。</block>
+  <block id="8183c9dbb2354fb933c18a1e36501526" category="list-text">按一下「 * 確認 * 」。</block>
+  <block id="cbd694347035514758399bfa4ec87c6c" category="inline-image-macro">反白行事曆選項的影像</block>
+  <block id="463479ac5bb89d51751be7c3e32261f1" category="list-text">選擇*日曆*選項可將日曆恢復到同一個郵箱或導出數據。<block ref="25a84e3970d4507a5fcfae23d0092c0d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e179aa3127e281f8eeccec769841d494" category="list-text">選擇*日曆*並按一下*還原*。</block>
+  <block id="48d90378be01b2e385520fa18e6b71cf" category="paragraph">如果您匯出資料、則需要下載。移至左側功能表上的「報告」。尋找您的匯出資料工作。按一下*資料夾總數*。然後按一下*匯出資料下載連結*。下載壓縮檔。開啟壓縮檔以擷取資料。</block>
+  <block id="9b250fa6692e261314c82375ce8f0505" category="inline-image-macro">反白對話選項的影像</block>
+  <block id="4e4e9243bd2775e76dd61f5726eb192c" category="list-text">選擇*對話*選項以恢復對話。唯一的還原選項是匯出至HTML。<block ref="f03470d5b2cd03f5e545af9a3442df5b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8f03479c260fabaff3fd9083a40b7765" category="list-text">選取您要還原的對話、然後按一下*還原*。</block>
+  <block id="edfe68b68ca01421a4609f1315fda6f4" category="admonition">*檢視對話*會顯示從上次「x」天備份到最後30次備份的所有對話清單。例如、如果您在過去五天內備份七次、則只能看到過去七次備份的對話。</block>
+  <block id="994847d583b132322185fd9df72456f1" category="section-title">還原SharePoint網站</block>
+  <block id="9b41e52e4790497525e787212a031e84" category="paragraph">選取此精細層級還原、即可還原索引標籤和附件。</block>
+  <block id="968b0b25e38521140a7cc1612b81175a" category="inline-image-macro">反白站台選項的影像</block>
+  <block id="66e694d53260747fa68bd16b3a61d0b4" category="list-text">選取SharePoint網站選項。<block ref="1b00e0174a6e6a900092fbbeadd9377e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="457f3067cf20a637f4d13a493d51a825" category="list-text">按一下您需要執行精細層級還原的站台。</block>
+  <block id="8902cc1a61ad05ff637487a25d4f30fe" category="list-text">選取您需要還原的類別。</block>
+  <block id="9f8f2a9d6b6ac5da8babae08ca68f2cd" category="admonition">如果您要還原類別中的特定個別項目、請按一下內容類別、然後選取個別項目。</block>
+  <block id="357a35aedd0c37deb3a881df778a9bb4" category="list-text">按一下 * 還原 * 。</block>
+  <block id="d1b0c7294d4efa4e343862f44dd254db" category="list-text">選取還原選項：</block>
+  <block id="dfdef9c277c5aaab909a4e2cc17336d7" category="list-text">*還原至同一個站台*</block>
+  <block id="741db08c491f8df04ba197ff0e201e49" category="paragraph">如果您還原至相同站台、預設會在包含備份複本的原始檔案位置建立具有目前日期和時間戳記的還原資料夾。如果您選取*「覆寫為合併*」選項、則不會建立還原資料夾。如果備份檔案的版本與目前檔案相符、則備份會還原至原始位置。目的地中的任何新內容都會被忽略且不受影響。例如、如果備份包含File1版本5、且目的地包含File1版本6、則選取* Overwrite with Merge*（以合併*覆寫）選項的還原將會失敗。如果您選取*取代現有內容*選項、則目前的資料版本會完全取代為備份複本。</block>
+  <block id="4525aa9916e4ec6ac852fb1b9c24f43c" category="list-text">*匯出資料*</block>
+  <block id="2eebf0e3b52a756e17193a5f7c194624" category="section-title">還原通道</block>
+  <block id="8443a96039a729f8a601986fe002e753" category="paragraph">選取此精細層級還原以還原通道。</block>
+  <block id="71d8eb3aadcaf34b2d8b4d10b59c210c" category="list-text">選取*群組*索引標籤。</block>
+  <block id="dc77dbe345f3f17cf3704eff2aa21b60" category="list-text">按一下您需要執行精細層級還原的團隊。</block>
+  <block id="2da6ba36cf461b42a7b144e4f6eb5e47" category="inline-image-macro">反白頻道選項的影像</block>
+  <block id="fa19fea59c145c89e8564e309d8675bc" category="list-text">選擇*通道*。<block ref="1d0f0df9a15034c90722c46d5c6218ba" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="332280e6e0db60cdbe9f221cbba62ed1" category="list-text">選取要還原的通道。</block>
+  <block id="e0ced1542a71f016647743cb1885fa44" category="list-text">選取還原選項：</block>
+  <block id="75a455dc16fefe23a94e52a2fd75fb4d" category="list-text">按一下*還原至相同的群組*。</block>
+  <block id="eb5e191008ef787789afcbcbf6c31c05" category="list-text">按一下*還原至其他群組*。</block>
+  <block id="1e5527a860cfaaab1ea287d439954c5c" category="paragraph">若要選擇其他團隊、請在搜尋方塊中搜尋其他團隊。</block>
+  <block id="bd0e9f65e5502f75a4a32e0c53f61df1" category="summary">根據預設、只有您最近的備份可供還原。</block>
+  <block id="d505a1372838988b9d892d82c774daf7" category="doc">從先前的備份還原</block>
+  <block id="58aacc02460b3e3da762722a417d4812" category="list-text">在儀表板中、按一下您要執行還原之服務方塊中*保護*上方的數字。</block>
+  <block id="6d9653c6364c67e9540ed73b28a04b91" category="list-text">對於共享郵箱，請單擊*共享*選項卡。</block>
+  <block id="cdaa60ce381ae758f03680ef5200eee4" category="list-text">對於歸檔信箱、請按一下*歸檔*索引標籤。附註：歸檔信箱會還原至使用者的一般信箱。</block>
+  <block id="b812e74499674a89895b5dfe6e821710" category="list-text">對於一般信箱、請保留在*使用者*索引標籤上。</block>
+  <block id="892e60fc51cb13858f23ffd51b548ea1" category="list-text">按一下您要還原的項目。</block>
+  <block id="3bb7cf21162455d4d3d958f085ec5852" category="list-text">按一下*檢視備份記錄*。</block>
+  <block id="f240ea1197d77fd071d9388c614fcae2" category="paragraph">隨即顯示行事曆。備份可用的日期會以綠色圓圈表示。</block>
+  <block id="39df67cbbec479ac75577b3b202f9186" category="list-text">如果您要顯示在選取天數內備份的項目、請按一下*顯示選取的備份*、然後從下拉式功能表中選取預先定義的天數之一。</block>
+  <block id="0ed9050b0a62d53339509aaa90a20c64" category="list-text">否則、請按一下您要還原的備份日期、然後選取特定備份。</block>
+  <block id="4bc6b16c7992bb0bc02890066fe6e66a" category="list-text">選取您要還原的項目。</block>
+  <block id="37cbfdb341ef3492f74543d2f04f3a12" category="inline-image-macro">還原按鈕的影像</block>
+  <block id="453cf13878c8ad80ab0d468df49e16d7" category="list-text">按一下 <block ref="bac505eacc7dbd53ea845154c58d45dc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8719a699df85113ce08265022d9eea9c" category="list-text">如果您要還原* Microsoft Exchange Online*或Microsoft 365群組信箱的信箱、請選取下列其中一個選項：</block>
+  <block id="7904dcb5b08feede0f977790487a3ba6" category="list-text">*還原至相同的信箱*</block>
+  <block id="152b65a0ba00eca7ff95d6f6c2e0e3c0" category="paragraph">如果您要還原至相同的信箱、預設會在包含備份複本的原始內容位置建立具有目前日期和時間戳記的還原資料夾。如果您選取*取代現有內容*、則您目前的資料會完全由備份取代。</block>
+  <block id="a343f842a7faecd99dc33f3823488bd3" category="list-text">*還原至其他信箱*</block>
+  <block id="92d5b95100bdb504b2626b2ec27ac203" category="paragraph">如果還原至其他信箱、您必須在搜尋欄位中輸入目的地信箱。您可以在搜尋欄位中輸入一部分目的地電子郵件地址、以開始自動搜尋相符的目的地信箱。</block>
+  <block id="c59d3c8a70c476e7cea53ba2a594946d" category="list-text">如果您要還原* Microsoft OneDrive for Business*的MySites、請選取下列其中一個選項：</block>
+  <block id="720b2eeeb71a356a55c9e314df3cc3a0" category="list-text">*還原至相同的MySite*</block>
+  <block id="44369af8482ff55615818d6d72462c95" category="paragraph">如果您要將個別檔案還原至相同的MySite、預設會在包含備份複本的原始內容位置建立具有目前日期和時間戳記的還原資料夾。如果您選取*取代現有內容*、則您目前的資料會完全由備份取代。如果您要還原整個資料夾、則無法使用*取代現有內容*選項。</block>
+  <block id="3c7b6e2fdc769ab47eb54aa1aad8a9d5" category="list-text">*還原至不同的MySite*</block>
+  <block id="6000d0af76f2140b5651f51533e6aa9c" category="paragraph">如果您還原至不同的MySite、則必須在搜尋欄位中輸入目的地MySite。您可以在搜尋欄位中輸入目的地MySite的一部分、以啟動自動搜尋符合目的地MySites的功能。</block>
+  <block id="186ae3ee39e4c735d4338944cee20d84" category="list-text">如果您要還原* Microsoft SharePoint Online*的網站、可以還原到相同的網站或不同的網站。如果您要還原Microsoft 365群組網站、則只能還原至相同的網站。</block>
+  <block id="592ea2f8d36940a6ca66242f54706521" category="paragraph">如果您還原到相同的站台、則預設會在包含備份複本的原始檔案位置建立具有目前日期和時間戳記的還原資料夾。如果您選取*「覆寫為合併*」選項、則不會建立還原資料夾。如果備份檔案的版本與目前檔案相符、則備份會還原至原始位置。目的地中的任何新內容都會被忽略且不受影響。例如、如果備份包含File1版本5、且目的地包含File1版本6、則選取* Overwrite with Merge*（以合併*覆寫）選項的還原將會失敗。如果您選取*取代現有內容*選項、則目前的資料版本會完全取代為備份複本。</block>
+  <block id="640aebe1e739e90da341acdc07382260" category="list-text">*還原至其他站台*</block>
+  <block id="19cfd4ae5dac380b64b69dab1b160eb6" category="paragraph">如果您還原至其他站台、則必須在搜尋欄位中輸入目的地站台。您可以在搜尋欄位中輸入目的地站台的一部分、以啟動自動搜尋相符站台。</block>
+  <block id="25b29418d9c6575969ec7daa90fcc97f" category="paragraph">此時會顯示一則訊息、指出已建立還原工作。</block>
+  <block id="db0a14d5142d27cd10a1a5a3853bad29" category="list-text">按一下*檢視工作進度*以監控還原進度。</block>
+  <block id="6717d37b6834e1656959896157ee6fcd" category="summary">如有需要、您可以啟動一或多個適用於Microsoft 365服務的SaaS備份。您必須先啟動Microsoft Exchange Online或Microsoft SharePoint Online、才能啟動Microsoft 365群組。</block>
+  <block id="411cf5e870e6c2877290b249e0c12581" category="doc">啟動服務</block>
+  <block id="4caf2a417fda014d9642d15608a05642" category="inline-image-macro">服務按鈕的快照</block>
+  <block id="83ad3239e67dfcbf95287a1e7ea84635" category="list-text">按一下 <block ref="5dae113680257bfa8a9a9f41c78b194f" category="inline-image-macro-rx" type="image"></block> 從左側導覽窗格。</block>
+  <block id="8e1f5330825bb765d62481c37ddd02aa" category="list-text">按一下Microsoft 365連結。</block>
+  <block id="92fdf17a32b5b5cb9be97afb8513883a" category="inline-image-macro">Microsoft 365按鈕的快照</block>
+  <block id="f9631d5c739c4c4b4fe570c209766ce1" category="paragraph"><block ref="f9631d5c739c4c4b4fe570c209766ce1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4cfc0abdc343554651425620b5108cfd" category="list-text">按一下您要啟動之服務旁的*啟動*。</block>
+  <block id="471dec26ded6b7c1186f46ab9997db3c" category="summary">歡迎使用適用於Microsoft 365的NetApp SaaS備份文件入口網站。</block>
+  <block id="d6caea3522b7366df1ef706e69eb7090" category="doc">NetApp SaaS Backup for Microsoft 365文件</block>
+  <block id="4b90c0fa551e1b95c98ebe0691603d94" category="paragraph">NetApp SaaS Backup是一項安全的網路型軟體即服務（SaaS）產品、可將Microsoft 365資料備份至Amazon S3儲存設備和Microsoft Azure Blob儲存設備。</block>
+  <block id="be11c74c1dd7f307bb80183a90dc2067" category="section-title">開始使用</block>
+  <block id="cf9b65815de15d6e0a7614ea04503b18" category="inline-link-macro">立即開始付費訂閱</block>
+  <block id="66a8e9a920b348a656e5d56c7551b93b" category="paragraph"><block ref="66a8e9a920b348a656e5d56c7551b93b" category="inline-link-macro-rx"></block></block>
+  <block id="c96ecffde6280d2fa1507c88f273acb6" category="section-title">提供意見反應、取得協助或尋找更多資訊</block>
+  <block id="1ae8a55f317d3b2570e79a0b4a668040" category="inline-link-macro">提供意見回饋</block>
+  <block id="c59ff83bf11a6531408fc11e8902566c" category="list-text"><block ref="c59ff83bf11a6531408fc11e8902566c" category="inline-link-macro-rx"></block></block>
+  <block id="3cd12697cda279c9c99b093a265c1ba8" category="inline-link-macro">何處可取得協助及尋找更多資訊</block>
+  <block id="60eb37087de824a31913cb25c89ee64d" category="list-text"><block ref="60eb37087de824a31913cb25c89ee64d" category="inline-link-macro-rx"></block></block>
+  <block id="235e8d1a54ecddcf1d3ff533331ed416" category="inline-link-macro">產品頁面</block>
+  <block id="8656d7c0c01b2d64d35ced199a5e32e8" category="list-text"><block ref="8656d7c0c01b2d64d35ced199a5e32e8" category="inline-link-macro-rx"></block></block>
+  <block id="8c0b7124c43b10c0d456f666884deded" category="inline-link-macro">解決方案簡介</block>
+  <block id="94c4d110d7d7c45d9f0401f3e894e286" category="list-text"><block ref="94c4d110d7d7c45d9f0401f3e894e286" category="inline-link-macro-rx"></block></block>
+  <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="summary">法律聲明提供版權聲明、商標、專利等存取權限。</block>
+  <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">法律聲明</block>
+  <block id="6016a2b341113bf496b719905398ecd2" category="section-title">版權</block>
+  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
+  <block id="126a02652da6de02962cf1b654fd6376" category="section-title">商標</block>
+  <block id="c4ce4761e466527d26b3e3d5ed1006fd" category="paragraph">NetApp 、 NetApp 標誌及 NetApp 商標頁面上列出的標章均為 NetApp 、 Inc. 的商標。其他公司與產品名稱可能為其各自所有者的商標。</block>
+  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
+  <block id="be89498d2f8a22ce47c02ba9795fe2af" category="section-title">專利</block>
+  <block id="d0b19d36be2c5f16e9aef46c8a452d3d" category="paragraph">如需最新的 NetApp 擁有專利清單、請參閱：</block>
+  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
+  <block id="56c34c6410dd45c5cec44149ad0ce037" category="section-title">隱私權政策</block>
+  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
+  <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">開放原始碼</block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">通知檔案提供有關 NetApp 軟體所使用之協力廠商版權與授權的資訊。</block>
+  <block id="af482b62e5f593026c0e1f3b25e33b22" category="inline-link-macro">SaaS備份注意事項</block>
+  <block id="6adebe2fbffbd6dcb646696cd1bfc9ee" category="paragraph"><block ref="6adebe2fbffbd6dcb646696cd1bfc9ee" category="inline-link-macro-rx"></block></block>
+  <block id="da19b7c2e291b2b5c0f2a8511e2d737a" category="summary">提供意見回饋、協助我們為您提供更好的服務。</block>
+  <block id="af22736009e4717f895610ea5e484db8" category="paragraph">您對NetApp SaaS Backup for Microsoft 365產品的意見反應、有助於我們為您提供更好的服務。您可以從Microsoft 365的內部SaaS備份提供意見反應。</block>
+  <block id="b94bf479616c645e1d92893ad9ee316d" category="list-text">按一下 <block ref="745b42c40461b85675b54d346e429160" category="inline-image-macro-rx" type="image"></block> 在左窗格導覽中。</block>
+  <block id="1c841320f46ae6c1639dc5e080e3fbf3" category="list-text">選擇*意見反應*。</block>
+  <block id="63b9a8e49a30f185f4f2d726a08afb6d" category="list-text">完成簡短的意見回饋調查。</block>
+  <block id="4b5d2dd70af718ebe67bfea5b43d8667" category="list-text">按一下*提交*。</block>
+  <block id="6be364524b60c8ce2362d8a248ae8458" category="paragraph">如果您想要在正式作業層級文件發行或現有正式作業層級文件有重大變更時自動收到通知、請追蹤Twitter帳戶@NetAppDoc。</block>
+  <block id="7de26495523771d8cefe28297f0f8359" category="summary">您也可以依照相同的程序、針對Microsoft Exchange Online、Microsoft OneDrive for Business的MySites、Microsoft SharePoint Online網站及Microsoft 365群組執行信箱的高層級還原。</block>
+  <block id="ec35161e4b60f2239e64a0e4d77c6f33" category="doc">執行高層服務還原</block>
+  <block id="d1e3fe66f5e62b80b26fb1bd320ed958" category="list-text">在儀表板中、按一下您要執行還原之服務方塊中*保護*上方的數字。</block>
+  <block id="256a7248dea88eb85865095b79ee3ad7" category="list-text">選取要還原的信箱、群組、小組、MySite或站台名稱。</block>
+  <block id="6e5d4c3475dd8385b64b8f525196abc7" category="admonition">如果您選取「匯出至動力換檔（PSTE）還原」選項、則所提供的連結將在七天內有效、並已預先驗證。</block>
+  <block id="b6281bd84352e832e3d5d6140be8d0ce" category="list-text">如果您要還原* Microsoft Exchange Online*的信箱、請選取下列其中一個選項：</block>
+  <block id="3268b398df77a34bc3dc7c2eee28b5d5" category="inline-link-macro">Microsoft Exchange Online限制：訊息限制</block>
+  <block id="6567b22ffc8f6ae02aa92f63c67f763a" category="admonition">還原訊息大於140 MB的信箱時、可能會發生上傳失敗、並傳回伺服器。我們建議您使用「匯出至動力換檔（Export to動力換檔）」選項執行高層級還原。如需詳細資訊、請參閱 <block ref="005c12c4f12807842a060236e5445890" category="inline-link-macro-rx"></block>。</block>
+  <block id="99c5fbd0a596474428d050af247f198c" category="list-text">還原至相同的信箱</block>
+  <block id="e81d9c1953190b260c8a9cfe0119f2c7" category="list-text">匯出至動力換檔系統如果您匯出至動力換檔（動力換檔）、匯出完成後、您將會收到內含動力換檔檔案位置的通知電子郵件。</block>
+  <block id="e8ef8ab221052018d9ae0bfa7639e29e" category="list-text">還原至其他信箱如果還原至其他信箱、則必須在搜尋欄位中輸入目的地信箱。您可以在搜尋欄位中輸入一部分目的地電子郵件地址、以開始自動搜尋相符的目的地信箱。</block>
+  <block id="6c83abef123f7b77996a25d7acf1ab27" category="list-text">如果您要還原* Microsoft Office 365群組*的群組、請選取下列其中一個選項：</block>
+  <block id="94801fa959a52acea62e5791f11b35c1" category="list-text">匯出資料如果您匯出、系統會以Microsoft Exchange檔案建立一個動力換檔檔檔案、並使用Microsoft SharePoint網站建立一個.Zip檔案。您將會收到一封通知電子郵件、其中包含動力換檔檔案的位置、以及已驗證的URL、以供您前往該.zip檔案的位置。</block>
+  <block id="b84f8c8fa604b6012a4485f9811d6fe5" category="list-text">如果您要還原* Microsoft Office 365群組*之下的群組、請選取下列其中一個選項：</block>
+  <block id="a32b48318dd9af27f9b7b137d2c91279" category="list-text">還原至其他團隊這是從Microsoft 365刪除團隊的理想選擇。您應該建立新的群組來使用此還原選項。如果您最近在MS團隊中建立新團隊、請透過同步服務來探索。請前往左側的*服務設定*。按一下「* Office 365*」。在「*管理服務*」下、按一下「*立即同步*適用於Microsoft 365群組」。</block>
+  <block id="6639873842164597156a9ec6e1810356" category="list-text">匯出資料如果您匯出資料、則需要下載。移至左側功能表上的「報告」。尋找您的匯出資料工作。按一下*資料夾總數*。然後按一下*匯出資料下載連結*。下載壓縮檔。開啟壓縮檔以擷取資料。</block>
+  <block id="b44cb0a6ed7f30f99a01005eae6383ba" category="list-text">還原至相同的MySite</block>
+  <block id="8788fa589e97f94c210bd16cab18836e" category="list-text">還原至不同的MySite如果還原至不同的MySite、請在搜尋欄位中輸入目的地MySite。您可以在搜尋欄位中輸入目的地MySite的一部分、以啟動自動搜尋符合目的地MySites的功能。</block>
+  <block id="bb461b1db3507546209683727d395be6" category="list-text">匯出資料如果您匯出、則會以MySites建立一個.Zip檔案。您將會收到一封通知電子郵件、其中包含已驗證的URL、以傳送至該.zip檔案的位置。</block>
+  <block id="c541ae3faba8f2f099a68e75b093b2f2" category="list-text">如果您要還原* Microsoft SharePoint Online*的網站、請選取下列其中一個選項：</block>
+  <block id="5277371788fdb6ca6d4579114903a0bb" category="inline-image-macro">影像顯示已選取「僅還原角色」選項的還原視窗</block>
+  <block id="46a9fdb21eaadd7618e8b94de642fa8f" category="list-text">還原至相同站台如果您選取*僅還原角色*、則只會還原角色和權限。<block ref="850d5cf073f61478f71f91dd9da02f5b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cd51e6f54324fe9a0b45c44457a6f627" category="list-text">還原至其他站台如果您還原至其他站台、請在搜尋欄位中輸入目的地站台。您可以在搜尋欄位中輸入目的地站台的一部分、以開始自動搜尋相符的目的地站台。</block>
+  <block id="741ca8fc0ec3acbfcb60a057541fddb1" category="list-text">匯出資料如果您匯出、則會以您的網站集合建立一個.Zip檔案。您將會收到一封通知電子郵件、其中包含已驗證的URL、以傳送至該.zip檔案的位置。</block>
+  <block id="14c24beebb6f641dbbf0779363a7d3c3" category="list-text">按一下「 * 確認 * 」。此時會顯示一則訊息、指出已建立還原工作。</block>
+  <block id="00d00355ef5711acd5599efd3315cf5a" category="summary">您可以啟用OneNote筆記本的備份。</block>
+  <block id="5d3e7c02e2249ebaa04369c32c97e7e3" category="doc">啟用OneNote備份</block>
+  <block id="d5e9bda7904a428d68232d420c3c087b" category="paragraph">根據預設、OneNote筆記本的備份會啟用附註功能。如果您想要備份OneNote筆記本，則必須在所需的服務中啟用備份。</block>
+  <block id="573e26a27d5af2a3ee2613d71b6f3bd6" category="list-text">按一下左導覽窗格中的*服務*。</block>
+  <block id="5dae113680257bfa8a9a9f41c78b194f" category="paragraph"><block ref="5dae113680257bfa8a9a9f41c78b194f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="33989930102951f2d357835c47ab758c" category="list-text">按一下Microsoft 365。</block>
+  <block id="5ace6f088ad9ed4c2fc20561712be550" category="inline-image-macro">組態圖示的快照</block>
+  <block id="d52057f77121ba5d329ef88b3f129278" category="list-text">在*管理服務*下、按一下備份設定圖示 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 在您需要更新的服務旁。</block>
+  <block id="ae37372db7f9078c06178418ba51642b" category="paragraph">隨即顯示可供所選服務使用的備份設定清單。</block>
+  <block id="057376ad330227f899f9aaacfd22dabf" category="list-text">選取*啟用OneNote備份*。</block>
+  <block id="9846982bfecd18e5a3a222687054cefb" category="inline-link-macro">立即備份</block>
+  <block id="883e688529c085dc1c7223323e70395c" category="list-text">按一下「 * 確認 * 」。筆記型電腦將會納入下次排程的備份中。如果您想要立即備份、請執行 <block ref="1a879ada2b33330864ad3e17ea446b89" category="inline-link-macro-rx"></block>。</block>
+  <block id="f7e61cdf1c25fcf090b1f63ffcb62715" category="summary">您可以檢視已刪除的信箱或使用者帳戶清單。</block>
+  <block id="dbd42b173460f8ab5605c5aefd0802e1" category="doc">檢視取消資源配置項目清單</block>
+  <block id="c150a355a3b55bafa8eec832496358f4" category="paragraph">您可以檢視已取消資源配置的信箱或使用者帳戶清單。</block>
+  <block id="f26fcdd98806ea6214fcadf06f10cfd1" category="list-text">按一下左側導覽窗格上的*服務*。</block>
+  <block id="221a9dc7613775b39236128c54864acf" category="list-text">在所需的服務中、按一下未受保護項目的數量。</block>
+  <block id="b745fbebbf86b08986f5bfd2380aa485" category="list-text">按一下*取消資源配置*索引標籤。</block>
+  <block id="1a6c0852bc4cf3c92e38de75f70af41c" category="summary">在NetApp SaaS Backup for Microsoft 365中、您可以使用Azure Active Directory管理權限。</block>
+  <block id="eafac00ae1f3bb3038f2dfec18a92f47" category="doc">將使用者權限與Azure Active Directory同步化</block>
+  <block id="90ad7a12c47aa1f3742250d3a05db8ce" category="paragraph">您可以從SaaS Backup for Microsoft 365手動將使用者權限與Azure Active Directory同步化。</block>
+  <block id="f539d7f1bdbf16c50af991895771bbf1" category="list-text">按一下*重新探索權限*。</block>
+  <block id="fbce842955659213032c20e4ddbbbf37" category="inline-image-macro">重新探索權限圖示</block>
+  <block id="1587302f361278e6e8f58e4089765634" category="paragraph"><block ref="1587302f361278e6e8f58e4089765634" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1bb1174e1fd4bf448666d9f46f3d55e1" category="paragraph">如果發現服務的權限、則會顯示該服務、並顯示啟用選項。</block>
+  <block id="118a5414cacce486de3b92817ef0fe94" category="summary">建議在註冊SaaS Backup for Microsoft 365時、建立具有全域系統管理員權限的新Microsoft 365服務帳戶。</block>
+  <block id="7c655a6168c9e197c82ded816cff150b" category="doc">建立新的Microsoft 365服務帳戶</block>
+  <block id="4bd45d06f9871744e10e2123eb1797cb" category="paragraph">當您建立新的Microsoft 365帳戶時、此帳戶必須具有全域管理權限、並具有有效且指派的Microsoft Office 365授權。</block>
+  <block id="48c466a3b30139c9596b9b755f86d608" category="paragraph">這不是唯一用來管理Microsoft 365 SaaS備份的服務帳戶。下圖指出不同的服務帳戶類型、並說明如下。</block>
+  <block id="4a9b8df2da2aa8f729da4ec5418ad136" category="paragraph">*服務帳戶說明*</block>
+  <block id="0eff159375ae2a355a3eeb4485038d4d" category="inline-image-macro">服務帳戶類型</block>
+  <block id="45c8d220d9eea59e8b41b248063dcd0a" category="paragraph"><block ref="45c8d220d9eea59e8b41b248063dcd0a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8e63f7e2ba7ffa9a33982b4227a64e05" category="inline-image-macro">紅色數字1</block>
+  <block id="36800229bb8c9b166323037bb647be04" category="inline-image-macro">紅色數字2.</block>
+  <block id="f8e57abf7b1ab0f1a13d1fcfa42a1bee" category="inline-image-macro">紅色數字3.</block>
+  <block id="c0afe19b37d8d68ab2805eb365e8f569" category="paragraph"><block ref="3f6ca1eadf75a5bc523be0ab0decd8d3" category="inline-image-macro-rx" type="image"></block> 用來註冊SaaS備份的帳戶；在註冊期間、需要具有有效Microsoft 365授權的全域管理權限。它可用於備份與還原作業。<block ref="a4880b4ac8004f3fc5430fe64280d54f" category="inline-image-macro-rx" type="image"></block> 系統會自動將* zzzCCconfigacct*建立為服務帳戶、以探索Microsoft 365群組。啟用「現代化驗證」時、您沒有ZZZZ Config服務帳戶。<block ref="6c9ad94934e447521fdd01be977df60c" category="inline-image-macro-rx" type="image"></block> 您可以新增額外的服務帳戶、以提升備份與還原作業的效能。</block>
+  <block id="17ec37f7e4cb59380aa0ce4555554bf3" category="section-title">建立具有全域系統管理員權限的新MS 365服務帳戶</block>
+  <block id="751a71d636892cbf66cfcaa823fb51ba" category="paragraph">在註冊期間、建立具有全域權限和有效Microsoft 365授權的帳戶。您可以在完成註冊之後、從此帳戶移除全域管理權限和授權。</block>
+  <block id="1a3f62512f1649d7c2d278df12d6a29a" category="list-text">使用具有管理權限的帳戶登入Microsoft 365管理入口網站。</block>
+  <block id="99fe7b3fbf552951ac69f84baed6cdea" category="list-text">按一下「*使用者*」。</block>
+  <block id="e8a3f369f7aea8805d660e7fad0cec5f" category="inline-image-macro">使用者圖示的快照</block>
+  <block id="8319e061d4cde21c648e4bbf823d63cc" category="paragraph"><block ref="8319e061d4cde21c648e4bbf823d63cc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="16a1b33f8ec3768b5420fb2e4d9802be" category="list-text">選取*作用中的使用者*、然後按一下*「Add a user*（新增使用者*）」。</block>
+  <block id="4ee40d9a2af73e3448d1189d6a267e61" category="inline-image-macro">Microsoft 365管理中心的快照</block>
+  <block id="af8e0c590a6202f4fd3ff65fc2bb2258" category="paragraph"><block ref="af8e0c590a6202f4fd3ff65fc2bb2258" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ebc2bf6b0c8687d635b0a72d8f6652e4" category="list-text">輸入新服務帳戶的詳細資料。</block>
+  <block id="20db0bfeecd8fe60533206a2b5e9891a" category="list-text">名字</block>
+  <block id="8d3f5eff9c40ee315d452392bed5309b" category="list-text">姓氏</block>
+  <block id="bc9e270b7b1a09eeac794d32b3d9dc8f" category="list-text">顯示名稱</block>
+  <block id="e1c548dfee241e6a271b8779b7c777f4" category="list-text">使用者名稱使用者名稱是服務帳戶的名稱。</block>
+  <block id="a593b5503558b6488ac5d2afb4077e34" category="list-text">展開*角色*、選取*全域管理員*做為角色、然後按一下*新增*。</block>
+  <block id="053677d1f062c4fc0d73d79e2a9a0327" category="inline-image-macro">Microsoft 365中可用系統管理員角色的快照</block>
+  <block id="c5ea5a7b3930b93ff34bed084a59ea38" category="paragraph"><block ref="1b086ef7a53bad9f613f20d483710302" category="inline-image-macro-rx" type="image"></block>服務帳戶詳細資料會傳送給系統管理員。</block>
+  <block id="008e3413bf3128f4bba846ae136ed6a3" category="list-text">使用新帳戶登入Microsoft 365 Management Portal以進行啟動。</block>
+  <block id="7309a58659aaaff8f88210e4063ffe2b" category="list-text">註冊之後、請確定此服務帳戶擁有三項權限：</block>
+  <block id="d0305102d085d77de52b61207909d47e" category="list-text">Exchange管理員</block>
+  <block id="7c69695c5fae4b8a30117ad3da3b34b0" category="list-text">SharePoint管理員</block>
+  <block id="cde8b2b845367a9ef3323f0b1321e90d" category="list-text">應用程式模擬角色</block>
+  <block id="8c8883c0392732f098d638ca9570adf3" category="paragraph">如果您限制全域系統管理員角色的個別授權、這點就特別重要。</block>
+  <block id="4a08e661e1b50d206e4d343f8bddae4d" category="section-title">zzz Config服務帳戶</block>
+  <block id="93cbfc166ef53f05a312ae934dca3120" category="paragraph">zzz Config服務帳戶是自動建立的帳戶、如果您使用基本驗證、則可用來探索共享/歸檔信箱及私有群組。IT應有Exchange和SharePoint權限（M365中的自訂管理員）。建議您將此帳戶排除在MFA原則之外。若要避免任何探索或備份失敗、請保留帳戶不變。</block>
+  <block id="8a473533f223a2aaaff4bb0dee2e40f8" category="paragraph">如果啟用「現代化驗證」、則ZZZ Config服務帳戶會移除。</block>
+  <block id="b1704dfbe6f842e95ceaea412c2f3141" category="paragraph">新客戶沒有ZZZ Config服務帳戶。</block>
+  <block id="b153d6df04986e031e8cdcee42514143" category="section-title">建立其他服務帳戶</block>
+  <block id="71f827eb8de41b274dee83ee2a67caab" category="paragraph">您可以在SaaS Backup for Microsoft 365中新增服務帳戶、以改善客戶的備份效能。服務帳戶是不含授權的Microsoft 365使用者帳戶、用於備份與還原作業。</block>
+  <block id="ebe7ee976226a8fc0a086901cc35b2ec" category="paragraph">此類帳戶需要3種權限：</block>
+  <block id="65745cfa854e2d246b0db140661516ba" category="list-text">Exchange系統管理員</block>
+  <block id="ec564c8443249a8ff6ea69218134ff74" category="list-text">SharePoint管理員</block>
+  <block id="a42a9d9d8fadbaec0e1d4229ccab3f7d" category="list-text">應用程式模擬角色</block>
+  <block id="0d75fdd856c16738b2215a01a4769262" category="paragraph">若要新增額外的服務帳戶、您的Microsoft 365環境中必須已存在該服務帳戶。如果您沒有現有的帳戶、請建立一個帳戶。</block>
+  <block id="8d9cbf036fe97b0df26a68a540b482a8" category="admonition">若要最佳化效能、建議您在Office 365中為每1000位使用者新增1個服務帳戶。</block>
+  <block id="55ad18c25923fabae2ed0e076bec70fe" category="list-text">登入SaaS Backup for Microsoft 365。</block>
+  <block id="631cb6d0304ba6853f2f328d341ededc" category="inline-image-macro">設定檔位圖示</block>
+  <block id="8753946956023dc5b9115512b60b950c" category="list-text">按一下 <block ref="b1edfb541d9b2da7c3aa3ac273577864" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="893a8ddaf0af1dc163da6dcc1f26a639" category="list-text">按一下*服務設定*。</block>
+  <block id="50402350bb3e81c75496f877906980d1" category="inline-image-macro">按一下「服務設定」</block>
+  <block id="4bfff1f5683f164bc4120c8395aa9d0d" category="paragraph"><block ref="4bfff1f5683f164bc4120c8395aa9d0d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="768d18144454e6cec5a96d61cb09fd9c" category="inline-image-macro">加號圖示</block>
+  <block id="e433e518ca9b4fe60684ddc7f5581bb7" category="list-text">若要新增服務帳戶、請按一下 <block ref="b85a0429d8ca07f2019bbb29bac661e7" category="inline-image-macro-rx" type="image"></block> 在*管理服務帳戶*下。</block>
+  <block id="20633c67d5bb6033748d448908d3ab39" category="inline-image-macro">按一下加號圖示以新增服務帳戶</block>
+  <block id="993c5a4a97ad1b9085ce6eb9cc4a8e75" category="paragraph"><block ref="993c5a4a97ad1b9085ce6eb9cc4a8e75" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a8e2f7769bc8afae460acb597b749db7" category="paragraph">隨即出現確認訊息。</block>
+  <block id="3fe77a73bf9ea3e704bc6cbed44832f8" category="inline-image-macro">新增服務帳戶快顯確認訊息</block>
+  <block id="41cb17958d9becc3c217a565cd39ed37" category="paragraph"><block ref="41cb17958d9becc3c217a565cd39ed37" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6d9c1757137522dd3b832ee1850c5c89" category="list-text">在Microsoft 365登入頁面上、提供上述服務帳戶的認證資料、將其新增至SaaS備份。</block>
+  <block id="32554193fa248d429a5c303d9f299cb5" category="summary">您可以將現有規則套用至未受保護的項目、變更套用規則的順序、以及刪除規則。</block>
+  <block id="c5740bfb2b88ba0a9944eae7a1e35c50" category="doc">套用現有規則</block>
+  <block id="afa4a3e5d1b7ea0bb4463dbc220816cd" category="paragraph">規則可讓您根據預先定義的準則、自動將使用者移至預先選取的備份層。</block>
+  <block id="bb735796521a9288c104ac4da6e8319b" category="list-text">在儀表板的服務方塊中、按一下您要建立規則的*未受保護*上方號碼。</block>
+  <block id="92255e0954cb3755ebcf92c8861747e3" category="paragraph"><block ref="92255e0954cb3755ebcf92c8861747e3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8e6dd3fc1948fff834e92e1bc58be40a" category="list-text">按一下*篩選*。</block>
+  <block id="0b3d1161a9d66ac7d27ab7303cb3ceea" category="inline-image-macro">篩選下拉式功能表按鈕的快照</block>
+  <block id="7c33a0a38bfd59300b422201e28ff4a9" category="paragraph"><block ref="7c33a0a38bfd59300b422201e28ff4a9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f757be9dd327b424b244847b06036431" category="list-text">按一下*規則*。此時會顯示現有的規則。</block>
+  <block id="78386b15f34158b994f4ab5cd8644568" category="list-text">按一下「*立即套用*」、將規則套用至現有的未受保護項目。</block>
+  <block id="5b335e9f3b0633102d36e44b53625fd3" category="summary">您可以更新備份設定、以控制各種備份選項。可用的備份設定會因服務而異。</block>
+  <block id="85a86867d1d4ec61a552e99542bdde26" category="doc">更新備份設定</block>
+  <block id="6b09ab256ee91abfcbae14dc82d761dc" category="inline-xref">備份設定</block>
+  <block id="dd391d5eb69f6ac3ad69cdea778bd111" category="paragraph">您可以更新 <block ref="2e592cc5a678838965aee2c9a9ecd6e7" category="inline-xref-macro-rx"></block> 以控制各種備份選項。可用 <block ref="2e592cc5a678838965aee2c9a9ecd6e7" category="inline-xref-macro-rx"></block> 視服務而定。</block>
+  <block id="f3a09c346a0939534943e1765af14ca8" category="list-text">在*管理服務*下、按一下備份設定圖示 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 在您需要更新的服務旁。隨即顯示可供所選服務使用的備份設定清單。</block>
+  <block id="28cc97006f71a367003b706a5e09da20" category="list-text">選取所需的備份設定。</block>
+  <block id="17a7f7612ee5c332c72c543bfc879c0a" category="summary">SaaS Backup for Microsoft 365有三個預先定義的備份原則層級。這些原則層在備份頻率和資料保留期間各不相同、視您使用的是SaaS備份提供的儲存設備或BYOS而定。</block>
+  <block id="9f02509e5496e861df4c341dba05386e" category="doc">備份原則</block>
+  <block id="a0f6625830185faf63102ac6f8475d06" category="paragraph">SaaS Backup for Microsoft 365有三個預先定義的備份原則層級。這些原則層在備份頻率和資料保留期間各不相同、視您使用的是SaaS備份提供的儲存設備或BYOS而定。</block>
+  <block id="4dc87dc04732df6a76651e7d1f0cb0e7" category="paragraph">您可以在三個原則之間移動資料、但無法建立新原則或變更預先定義階層的參數。</block>
+  <block id="cce23dfd8a8429eb8a553d0789561b40" category="section-title">SaaS備份的備份原則提供儲存設備</block>
+  <block id="7759a4720271a1ab3b4e6b1c36a67058" category="cell">備份原則</block>
+  <block id="4e92547e997fe98c132fd1cfb873bc65" category="cell">備份頻率</block>
+  <block id="fd597450368b610e3110c7036f852ae9" category="cell">預設資料保留期間</block>
+  <block id="538a4400e894e9e5dbff6dcd6e9d6e17" category="cell">第1層</block>
+  <block id="82875668baf626071ef9cf3c751ec69c" category="cell">每12小時一次</block>
+  <block id="89ee81dad12fa06ec6a5b8461129cdd0" category="cell">3年</block>
+  <block id="3e335d546de3fa7d51e6942ccc8339b7" category="cell">第2層</block>
+  <block id="585a8bd659fa917cebfb861f91e2e30b" category="cell">每18小時一次</block>
+  <block id="83ee9728e65dff5bbbf6297550157b9e" category="cell">第3層</block>
+  <block id="81ab7d159caeeff3fad2829d4a3d72bd" category="cell">每24小時一次</block>
+  <block id="ba2732ae170f2661137875b2933074e1" category="admonition">身為系統管理員、您可以將SaaS備份所提供的儲存設備的資料保留期間變更為無限長。如果訂閱有效、SaaS備份會保留保留保留期間內的備份資料。</block>
+  <block id="98d7bf286c797b48801a0d31c2bae53c" category="section-title">BYOS的備份原則</block>
+  <block id="c9830d418bce60d67ea2c8c1282b22c6" category="paragraph">BYOS僅適用於現有客戶。</block>
+  <block id="545f6c2f382c04810103b3e5e6f7d841" category="cell">無限</block>
+  <block id="41b34773b64b2abaab2984b716ed65b0" category="summary">您可以啟用「進階搜尋」、在Microsoft 365 Exchange Online中搜尋備份的項目。</block>
+  <block id="6b23667f3cbba43813b5f6399ec4babd" category="doc">使用Microsoft Exchange Online的進階搜尋</block>
+  <block id="23e9dcfa8b97aaea186eaaeb1177dea4" category="paragraph">您可以使用*進階搜尋* for Microsoft Exchange Online來搜尋個別或共用的信箱項目、並將這些項目還原至原始信箱。</block>
+  <block id="db5eb84117d06047c97c9a0191b5fffe" category="inline-link-macro">支援</block>
+  <block id="c7f1896c455334213518b5df2a860b44" category="paragraph">系統管理員可前往*啟用「進階搜尋」 <block ref="f87e0976e00f26ec4930aef7f830024f" category="inline-link-macro-rx"></block> 並提交申請。您也可以寄送電子郵件至saasbackupsupport@netapp.com與SaaS備份支援團隊聯絡。</block>
+  <block id="013131a779f73f268793ce1212aee294" category="inline-link-macro">關於自助服務入口網站</block>
+  <block id="4c6fa9a7d2c0c345bf057d6d3e77c80a" category="paragraph">啟用*進階搜尋*之後、您可以開啟個別租戶的自助服務入口網站（SSP）。如果您在第一次備份之前未啟用*進階搜尋*、則不會顯示任何搜尋結果。若要深入瞭解自助服務入口網站、請參閱 <block ref="b51bb0ef6b11f946c31f52683a5d978b" category="inline-link-macro-rx"></block>。</block>
+  <block id="267a5275d92e0cb500ece7c264c7eafe" category="inline-image-macro">進階搜尋設定的快照</block>
+  <block id="4c1d3f657745aa4fa7c5b961a2f7a82f" category="paragraph"><block ref="4c1d3f657745aa4fa7c5b961a2f7a82f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6e1c6cab6487c8b15e4140bfb0d5fd69" category="list-text"><block ref="7d190c308c24e5fb4e4af67edbc1dd47" category="inline-xref-macro-rx"></block></block>
+  <block id="1b5251c4623800d15616db1b5ad13ddc" category="list-text"><block ref="f533942d5f67ff90ffc7ef3d110249d7" category="inline-xref-macro-rx"></block></block>
+  <block id="2e678cfb6692fccd97fdd915d5b3a27e" category="list-text"><block ref="dfaa1db65f916ed1ff476bafd651fc3a" category="inline-xref-macro-rx"></block></block>
+  <block id="5e23ff9d9c602cb7300fedbed1382b43" category="section-title">啟用進階搜尋</block>
+  <block id="2bea3c3804042a7b5ec982475df525c9" category="paragraph">您可以在「進階搜尋設定」中啟用*進階搜尋*功能。</block>
+  <block id="b0eb2396acd040d98c146d201fe5307e" category="admonition">授權和未獲授權的使用者可以使用進階搜尋功能（如果已啟用）。</block>
+  <block id="c44cc41dbd8bd91ac75451de23ec8eb6" category="list-text">在儀表板中、按一下左功能表中的*進階搜尋*。</block>
+  <block id="8a6a52b70517fecd0af84069290395fb" category="list-text">按一下*進階搜尋設定*。</block>
+  <block id="a9bd2ff124301f94dad1b83933f1de41" category="list-text">依預設、清單會顯示所有授權使用者。在*顯示所有使用者*和*僅顯示授權使用者*之間切換、以篩選清單中的使用者類型。</block>
+  <block id="8fd454c9753a4c3d03fcb074d79d2f5e" category="list-text">使用「搜尋」工具、輸入至少三個字元以尋找唯一的使用者。</block>
+  <block id="57c9b7b109956f01ec6fbd27f9e51071" category="list-text">若要啟用使用者、請在*進階搜尋*欄下、選取*開啟*。下次在完整或遞增備份中保護啟用該功能的使用者時、您可以搜尋任何新的電子郵件項目。</block>
+  <block id="14242c99845a0bf338d45c648e061643" category="list-text">按一下 * 儲存設定 * 。</block>
+  <block id="9d26c855a2d401584a2885908a0440b0" category="inline-link-macro">排程備份或變更備份頻率</block>
+  <block id="0af305178ed17ffd2d65f6827dd96941" category="list-text">若要備份已啟用的使用者、請前往 <block ref="a56fa16a0623b92158e702c35634bdf7" category="inline-link-macro-rx"></block> 並保留在*使用者*索引標籤上、以選取要備份的使用者。</block>
+  <block id="eb988e6b170684f13ddc8f2e3974559a" category="section-title">執行搜尋</block>
+  <block id="6b2edf93f90ba6f21a0eae49dddc7440" category="paragraph">您可以搜尋個別或共用的信箱項目、並將這些項目還原至*執行搜尋*下的原始信箱。</block>
+  <block id="30368d13df374be30faccbf80332ec3d" category="list-text">按一下*執行搜尋*。</block>
+  <block id="d749315637e107f4e49a204009181ccf" category="inline-image-macro">圖顯示執行含有兩個必要項目的搜尋選項</block>
+  <block id="c2f947ac394b258702e93f2950da3014" category="list-text">在必填欄位中輸入星號（*）。選用欄位：條件與查詢條件。<block ref="94a613604503bf5de5b1927c26f3eadc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7a41dfb51c4cdf013ddd679e98de9298" category="list-text">*選取使用者*：在使用者名稱中輸入至少三個字母、以尋找您要選取的使用者。</block>
+  <block id="23c24dab11d24ab575fb8613517086e7" category="list-text">*搜尋*：在關鍵字中輸入至少三個字元。如果您要搜尋片語、請將片語中的字詞放在引號內（例如：「Hello world」）。如果可以分別搜尋這些字詞、則不需要報價。</block>
+  <block id="6f9f601869ed6ab8936bf0acbb2c26f9" category="list-text">*完全符合*：如果您只想搜尋確切的關鍵字、請選取。</block>
+  <block id="f4365e4a5fca3c5860dbf2feb7544e69" category="list-text">*條件*：</block>
+  <block id="d3a512d9332bf24815914af5abe76227" category="list-text">*項目*：選取項目以搜尋信箱中的所有項目。</block>
+  <block id="0f5a5a4accd5a1d07ea5b18cc53c6e64" category="list-text">*資料夾名稱*：選取資料夾名稱以搜尋信箱中特定資料夾中的項目。在提供的文字方塊中輸入資料夾名稱。</block>
+  <block id="aec3cdf63384910a576a0fe3adedf8af" category="list-text">*日期範圍*：從日期範圍下拉式功能表中、選取*過去7天*或*自訂範圍*以輸入搜尋的開始和結束日期。</block>
+  <block id="b45b9f14da02cd97cc8dbdab2f60f291" category="list-text">*大小（以位元組為單位）*：從「大小（以位元組為單位）」下拉式功能表中、選取「*大於（&gt;）*」或「*小於（&lt;）*」。然後輸入以位元組為單位的大小。</block>
+  <block id="97a92796e14587540ffb629ea37aa03e" category="list-text">*寄件者*：輸入寄件者的電子郵件地址。</block>
+  <block id="ee31a416b5a87739039dde2ca5307492" category="list-text">*收件人*：輸入接收者的電子郵件地址。</block>
+  <block id="56a5c3ef7cc99d2aa813936a77ec81bd" category="list-text">* Subject *：選擇僅依主旨搜尋。</block>
+  <block id="8f2f9d84e3bf13f607b4b96381ae7c45" category="list-text">*有附件*：選取電子郵件項目是否有附件。</block>
+  <block id="b68e3baaece85a7fd6bb5480a8b002d0" category="list-text">按一下*搜尋*。</block>
+  <block id="9b3bc7bd4ed5e46080b209bdd7facb88" category="list-text">若要尋找您的搜尋工作、請前往下方尋找先前的搜尋工作。</block>
+  <block id="57f7a88c0574298291b51b4649bf4229" category="section-title">尋找先前的搜尋工作</block>
+  <block id="f6b15d7324df7c5169155143d4b34912" category="paragraph">您可以在*上一個搜尋工作*下找到先前的搜尋工作。</block>
+  <block id="6578ea0c53e911e0fbac32ce91fa2510" category="list-text">按一下*上一個搜尋工作*。</block>
+  <block id="4b3a8290be8aa16413045effb70c314a" category="list-text">尋找您先前執行的搜尋工作。如果出現零搜尋結果、表示沒有項目符合您輸入的搜尋條件。</block>
+  <block id="13510659f5f468ab16f6832afdd05e17" category="list-text">按一下搜尋結果總數以顯示。</block>
+  <block id="3256acd5628ee1e52fa96f0c6a9bb5b4" category="list-text">從結果顯示檢視中、您可以還原項目、使用下拉式功能表*顯示#項目*來選取顯示的項目數、或是搜尋以進一步縮小結果範圍。</block>
+  <block id="a400f6683b626003bec087df9811459d" category="inline-image-macro">影像顯示搜尋結果顯示畫面、其中會強調顯示還原、項目數及搜尋功能</block>
+  <block id="74336c770170c7097da19acb3a2c9e7c" category="paragraph"><block ref="74336c770170c7097da19acb3a2c9e7c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c338b09600084dabac11ca51f9bb51cc" category="admonition">還原的項目會使用命名慣例CC_search_MM.DD_Time回到原始信箱。若要尋找還原工作、請前往左功能表中的*工作*。</block>
+  <block id="8d5f80c87fb73b96182c0d6e116fa42c" category="list-text">若要結束搜尋結果顯示、請按一下*返回搜尋工作*。</block>
+  <block id="925e46990837a614fb2da6c0ab87e998" category="summary">如果從使用者帳戶刪除所有管理角色、則使用者會自動登出適用於Microsoft 365的SaaS Backup。</block>
+  <block id="10aba5d6ead75cd92ab6422b8c0a09c8" category="doc">從使用者帳戶刪除所有管理角色</block>
+  <block id="77e568ce24fa92de1ba7644fce6ab87a" category="list-text">按一下設定圖示 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 在畫面左上角的使用者ID旁。</block>
+  <block id="fe31ae091ef6472576514f4b01733356" category="list-text">按一下*帳戶設定*。</block>
+  <block id="b8f29be2600f101e351d72a11f05a114" category="list-text">按一下*角色管理*。</block>
+  <block id="43965d369bf81397d3394c94c930e27f" category="list-text">按一下您要移除之使用者名稱旁的*刪除使用者*。</block>
+  <block id="86ce5961ef6624058f736d93459d1889" category="list-text">按一下「*是*」。</block>
+  <block id="ededc6ad5e601dceeeb3a254cbfcaf3a" category="summary">您可以使用SaaS Backup for Microsoft 365、針對Microsoft Exchange Online 365執行精細層級還原。</block>
+  <block id="be33608724ad271a268dffbc9ce48900" category="doc">為Microsoft Exchange Online執行精細層級的還原</block>
+  <block id="3b1b3661830c7552093c2673dc985a45" category="paragraph">在Microsoft Exchange Online中、您可以還原單一使用者的精細層級項目、例如個別電子郵件、工作、連絡人和行事曆事件。您也可以還原Microsoft 365群組信箱的精細層級項目。</block>
+  <block id="7a8dc2e013d979e0d1428c667b1195e4" category="paragraph">下表指出Exchange Online精細層級項目所支援的還原選項。</block>
+  <block id="4181d3951004347da212263b10f49a5e" category="cell">還原至其他信箱</block>
+  <block id="83e5846f13d6165a910564d76985d2f2" category="cell">匯出至PST/匯出至HTML</block>
+  <block id="7e2408f033322afc1501e88155ea97b5" category="paragraph">郵件/工作/聯絡人/等等</block>
+  <block id="12bbb80e602c6804dcffd389d09794ba" category="paragraph">Exchange Online &gt;信箱-使用者</block>
+  <block id="2ce2d7d52f6efd367945e8ff48b8e110" category="paragraph">單一/多個信箱資料夾（收件匣、歸檔等）</block>
+  <block id="16f345c293087f19c380f130e732d040" category="paragraph">*附註*：排除對話記錄。</block>
+  <block id="4de55c0dee2da7f055099e41eb896a86" category="paragraph">Exchange Online &gt;信箱-使用者&gt;</block>
+  <block id="72af896412e5a3498896e988caeb2667" category="paragraph">收件匣下的資料夾層級</block>
+  <block id="a654073e92e52bc895410744d3ed19aa" category="paragraph">收件匣下的子資料夾層級</block>
+  <block id="bf62d0beb30daa6e7b0aeb55862816e0" category="paragraph">"郵件"資料夾下的"交談記錄"</block>
+  <block id="a7a7f9d318dc06cf789a581ea74dccd0" category="paragraph">單一/多個項目層級還原</block>
+  <block id="aff1add6fd6374350e3abe25824a4473" category="paragraph">「取代現有內容」的單一/多個還原項目</block>
+  <block id="f00f10dc480c1feeccffc63cd66d98d0" category="list-text">在儀表板中、按一下Exchange方塊中*保護*上方的數字。</block>
+  <block id="4cba3dae453d4a0fc72eb7583690a011" category="inline-image-macro">Exchange中受保護執行個體數目的螢幕擷取畫面</block>
+  <block id="e8ba24e9166367a3b0ff58de4dc6ae1f" category="paragraph"><block ref="e8ba24e9166367a3b0ff58de4dc6ae1f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2846152c244d8e6fbbd8a0660b6e8361" category="list-text">選取還原選項。</block>
+  <block id="1fd2f891b92fd621f712d2acbe6fa2de" category="list-text">對於歸檔信箱、請按一下*歸檔*索引標籤。</block>
+  <block id="ae8180380fe555e30cec3e9f3e02cc5d" category="list-text">按一下您需要執行精細層級還原的信箱。</block>
+  <block id="ade948bcfdfdfeea29a4c666ba72ebd4" category="list-text">還原整個Microsoft Office Exchange類別、或還原類別中的特定項目。對於Microsoft 365群組信箱、您只能選擇從郵件類別或行事曆類別還原。</block>
+  <block id="30cdc5fd38d012a70637e34e6a985f56" category="list-text">選取您需要還原的類別（「郵件」、「工作」、「聯絡人」或「其他」）。</block>
+  <block id="eaf3be256f5933b9ee353f265ad78f5d" category="admonition">如果您要還原類別中的單一項目、請按一下類別、然後選取您要還原的項目。</block>
+  <block id="0e29911c075e29d2f52fcf8c94b9123e" category="list-text">選取還原選項。</block>
+  <block id="734c77efdf03a2aa22de3b849656d08b" category="paragraph">如果您還原至相同的信箱、預設會在包含備份複本的原始內容位置建立具有目前日期和時間戳記的還原資料夾。如果您選取*取代現有內容*、則您目前的資料會完全由備份取代。</block>
+  <block id="d2e8213b2a4845cdbca4ccd8956414d2" category="paragraph">對於Microsoft 365群組、您只能選擇還原至相同的信箱。預設會取代現有內容。對於Microsoft Exchange Online、您可以還原至相同的信箱、並取代現有的內容、也可以還原至其他信箱。</block>
+  <block id="f59998acaf678573d3888529543a32fb" category="paragraph">如果還原至其他信箱、您必須在搜尋欄位中輸入目的地信箱。您可以在搜尋欄位中輸入一部分目的地電子郵件地址、以開始自動搜尋相符的目的地信箱。</block>
+  <block id="e7ec2eb55740bd6c5031005706b6b021" category="list-text">*匯出至PST*</block>
+  <block id="950720958846f6a74f07c4bd65d20d8b" category="paragraph">您可以選取加入所有類別子資料夾。</block>
+  <block id="fb94e1eeb9c83823d4aa2e28278123ed" category="paragraph">如果您匯出至動力換檔（動力換檔）、匯出完成時、您會收到內含動力換檔檔案位置的通知電子郵件。</block>
+  <block id="58b0cd28cb714d6567c53e5db8c0b3f6" category="admonition">此選項不適用於Microsoft 365群組。</block>
+  <block id="afbc2ecece46182264304a31e2b5da73" category="admonition">如果您選取*匯出至PST*還原選項、所提供的連結將在七天內有效、並已預先驗證。</block>
+  <block id="9a4ec68ff98c2d86c487beb46f9b4659" category="list-text">*匯出至資料*（僅適用於Microsoft 365群組）：</block>
+  <block id="4ce57defce9dac056d069386ab60e048" category="paragraph">如果您匯出、則會建立兩個壓縮檔、一個壓縮檔用於Microsoft 365群組信箱、另一個壓縮檔用於Microsoft 365群組SharePoint網站。您將會收到一封通知電子郵件、其中包含動力換檔檔案的位置、以及已驗證的URL、以供您前往該.zip檔案的位置。</block>
+  <block id="441c6e9fc22b169f47087797e47a4e78" category="admonition">如果您選取*匯出至Data*還原選項、所提供的連結將在七天內有效、並已預先驗證。</block>
+  <block id="6e1b2e76136fef4e065dc537ac7bec7d" category="paragraph">此時會顯示一則訊息、指出已建立還原工作。</block>
+  <block id="38d0504911fa47808177f1d71c40e7e1" category="paragraph">若要瞭解如何使用自助服務入口網站還原Microsoft Exchange Online項目、請參閱 <block ref="8bd99ae3cbd2ccc3f81def50302f803d" category="inline-link-macro-rx"></block>。</block>
+  <block id="a64afcb574fca4c96b15a10e22a0c39d" category="summary">在NetApp SaaS Backup for Microsoft 365中、您可以授予啟用共享信箱的權限。</block>
+  <block id="4f77d86ba01ed01cc7689b609c3a0e0a" category="doc">授與權限以啟用共用信箱</block>
+  <block id="95f3075215d2bc775164c818bdb73dc1" category="paragraph">您可以在NetApp SaaS Backup for Microsoft 365中授予啟用共享信箱的權限。</block>
+  <block id="3020a4b1514f0cb1e3361ec6aa64c424" category="list-text">按一下*「同意」*。</block>
+  <block id="c7dc1d3f720e6d88cc639bc7357d091d" category="inline-image-macro">授與同意圖示的快照</block>
+  <block id="68f6dd0b0b4c264c7db656eaa11d8e71" category="paragraph"><block ref="68f6dd0b0b4c264c7db656eaa11d8e71" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9715f71b9933d29dc5f912c216bb441d" category="paragraph">您會重新導向至Azure授權頁面進行驗證。</block>
+  <block id="0d845fd5a39ea33b7fec7e5555e21866" category="list-text">選取您的租戶帳戶。</block>
+  <block id="8773db42e927ef3e4990df3c5eda63ed" category="list-text">*接受*權限。您的共享信箱將在下一次排程*自動同步*期間被發現、您也可以執行*立即同步*。如果您*立即同步*、則需要幾分鐘的時間才能探索您的共享信箱。</block>
+  <block id="9fcd7ad814c5e9f3d9fe76e295e8b851" category="list-text">若要在*自動同步*或*立即同步*之後存取共用信箱、請執行下列步驟：</block>
+  <block id="a310d658bc1a2f57b470e15e1e89cb0c" category="list-text">按一下「* Microsoft Exchange Online*」。</block>
+  <block id="4faf1251828cc6acc6b3b36ba5f25f79" category="list-text">按一下未受保護的信箱數目。</block>
+  <block id="bc58035dc37b9c7a8c2441d74af2073c" category="list-text">按一下*共享*索引標籤。</block>
+  <block id="0292df1cde394a7f4bcde7c13f731961" category="summary">在NetApp SaaS Backup for Microsoft 365中、您可以管理服務帳戶、探索新增的帳戶、以及設定帳戶通知。</block>
+  <block id="b2b6d10003a21b40160d053ed3a00ba2" category="doc">設定通知</block>
+  <block id="1e176ca8879f6fc670eb851ef5779172" category="paragraph">您可以將使用者新增至帳戶通知、然後選取您要每位使用者接收的特定通知。例如、您可以選擇讓使用者在每次還原失敗時收到電子郵件通知。</block>
+  <block id="cf46b5c723d03816ad4b8dd9fba743b9" category="list-text">按一下*通知管理*。</block>
+  <block id="9250b78e6a328eacd44a07c99d2a0cab" category="list-text">輸入您要接收通知之帳戶的電子郵件地址。</block>
+  <block id="25d81c81026caeb07b553fb6ba5526fd" category="list-text">按一下*新增通知*。使用者會新增至通知的帳戶清單下方。</block>
+  <block id="1c6b9805f5abf62ed9eddc51c5139d8e" category="list-text">選取您要使用者接收的特定通知。</block>
+  <block id="4cc186df234138a57b2e8c5d8e5f7f8d" category="list-text">按一下「 * 儲存 * 」。</block>
+  <block id="acbb1f4785507a3281441e4a4d68c2cc" category="summary">您可以使用SaaS Backup for Microsoft 365、為Microsoft OneDrive for Business執行高層級且精細的層級還原。</block>
+  <block id="faa0f5a1248e536d78604c8e797d3ee7" category="doc">為Microsoft OneDrive for Business執行精細層級的還原</block>
+  <block id="d23cc6f5e569225d12d5cdee886dac91" category="paragraph">在Microsoft OneDrive for Business中、您可以還原清單或文件庫的精細層級項目、例如個別資料夾或檔案。您也可以還原OneNote筆記本或群組。</block>
+  <block id="61d6d9cdb505aceb7d54415f3c9d7708" category="paragraph">下表指出OneDrive for Business所支援的精細層級項目還原選項。</block>
+  <block id="f4358c8d61b9142502c84ec14f5d48e9" category="cell">還原至其他MySite</block>
+  <block id="ad2eec7f4375455e1590fcbe1e146676" category="cell">單一磁碟機</block>
+  <block id="8de39125da3a7480f054a0db5c87f290" category="cell">商務用OneDrive &gt; MySites</block>
+  <block id="fa0b9f12a25cf3ea895539b7c94e44e9" category="cell">多個磁碟機</block>
+  <block id="5aa55f0093275bb98034a23ee84b73b9" category="cell">OneDrive for Business &gt; MySites &gt;&lt;磁碟機名稱&gt;&gt; Files</block>
+  <block id="93585961ab4a4d9fac26a01661b87a8b" category="cell">單一/多個項目</block>
+  <block id="8b580b7571abfc9d2a2f7d6a9eae5dc0" category="cell">OneDrive for Business &gt; MySites &gt;&lt;磁碟機名稱&gt;&gt; Files</block>
+  <block id="eafc4250fe746260edca6f7954cd60c6" category="cell">筆記型電腦資料夾</block>
+  <block id="f837bf7d5d37157b44ff2886f10041c3" category="cell">OneNote單一/多個資料夾</block>
+  <block id="e662d72b26f52bc8b331814844a8878e" category="cell">OneDrive for Business &gt; MySites &gt;&lt;磁碟機名稱&gt;檔案&gt;筆記型電腦</block>
+  <block id="aa035d0217f517223b6298f2cf434dff" category="list-text">在儀表板中、按一下OneDrive方塊中的*受保護*上方數字。</block>
+  <block id="2e47d1736eecdf1bef2489dba6c07bfd" category="list-text">按一下您需要執行還原的MySite。</block>
+  <block id="c5f9ef8c43e0575336db0fc08d09df7b" category="list-text">選取檔案群組。</block>
+  <block id="cda61438ef2996027749b3f20e484032" category="paragraph">如果您要還原群組內的個別資料夾或檔案、請按一下檔案群組。若要還原整個資料夾、請選取該資料夾。若要還原資料夾內的個別檔案、請選取包含檔案的資料夾、然後選取個別檔案。</block>
+  <block id="e49a66199f1cb7f668137d1d20aa3123" category="paragraph">如果您要將個別檔案還原至相同的MySite、預設會在包含備份複本的原始內容位置建立具有目前日期和時間戳記的還原資料夾。</block>
+  <block id="3076ca58beea18b1652a582b24651a89" category="paragraph">如果您選取*取代現有內容*、則您目前的資料會完全由備份取代。</block>
+  <block id="07ecb71860048ba38a93da189f63d9ea" category="list-text">*還原至其他MySite*</block>
+  <block id="54524b98ef4427ca0093341d47a0325e" category="paragraph">如果您還原至其他MySite、則必須在搜尋欄位中輸入目的地MySite。您可以在搜尋欄位中輸入目的地MySite的一部分、以啟動自動搜尋符合目的地MySites的功能。</block>
+  <block id="b9edeb03bae560ed54e9938540c9a244" category="summary">您可以檢視或下載SaaS備份活動和工作記錄的記錄。</block>
+  <block id="2b100896fd5ace4912e319bc7463b16e" category="doc">下載記錄</block>
+  <block id="71e10f307eb67cf11b3c8491ba81ada2" category="paragraph">SaaS Backup for Microsoft 365會在SaaS Backup中儲存一份工作記錄。您可以下載工作記錄和已完成工作的清單。</block>
+  <block id="f39d5e4a0ca51b5797a15d5a59800636" category="section-title">下載活動記錄</block>
+  <block id="683a30dcf68da19fa7d752c8a646ea55" category="paragraph">記錄會儲存在SaaS Backup for Microsoft 365內的所有活動。記錄包含每個執行動作的日期、以及執行動作的使用者名稱。您可以將活動記錄下載至一個.csf檔案。</block>
+  <block id="f8c22c875f33cf292d73c2bd4b796b94" category="inline-image-macro">報告按鈕的快照</block>
+  <block id="62dfcc416a909d0b514ad9498c15b330" category="list-text">按一下 <block ref="4d37c5c06095f49489880486f6cecedf" category="inline-image-macro-rx" type="image"></block> 在左側導覽窗格中。</block>
+  <block id="a98816c0ba5cdc990c24c73fd169f615" category="list-text">按一下「*活動記錄*」索引標籤。隨即顯示所有SaaS Backup for Microsoft 365活動清單。</block>
+  <block id="efbc204072818255ba9c14dc629ecef6" category="inline-image-macro">活動記錄右下角的下載按鈕擷取畫面</block>
+  <block id="0451932b8f9f16771678dd8444b05db0" category="list-text">按一下 <block ref="8285a9a440103314bcc682b074e144c6" category="inline-image-macro-rx" type="image"></block>。活動記錄會下載為.csf檔案。</block>
+  <block id="a63c048cb125925e1dea8559a15a73d2" category="section-title">下載已完成工作的記錄</block>
+  <block id="206cafe50afeceb05656e65b5eeea3d1" category="paragraph">您可以下載成功完成工作的Excel試算表。</block>
+  <block id="dc2296bcbbf577d0c71c246ab0dc16ab" category="list-text">按一下左導覽窗格中的*工作*。</block>
+  <block id="8e8a9acf98ec7d0411283da387bff609" category="list-text">按一下您要下載的最近完成工作。</block>
+  <block id="dc495b0a8dcf317d914282ad520f23df" category="list-text">按一下「成功完成的工作數」下的「*成功*」。</block>
+  <block id="ca152ee44aaca7ea331cd6414faef3b6" category="inline-image-macro">已完成工作的快照</block>
+  <block id="4f79d34e8a67f46e4d44fe71bfa9e224" category="paragraph"><block ref="4f79d34e8a67f46e4d44fe71bfa9e224" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="44a9afe6289f79f3f0b2cdf6f756c7d3" category="list-text">按一下右上角的*下載*。記錄即會下載。</block>
+  <block id="1ec574257b8a9d0b57e964b4eba66ddf" category="summary">您可以檢視已清除的信箱或使用者帳戶清單。</block>
+  <block id="90d150ad765ab3f96aae750d3759c8c2" category="doc">檢視已清除資料的清單</block>
+  <block id="6d997e84fe0c81277b98ea3c000c76ec" category="list-text">按一下 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 位於左上角的SaaS備份使用者ID旁。</block>
+  <block id="ff0244144bc03606b2edcb1e3bcd4350" category="list-text">選擇*帳戶設定*。</block>
+  <block id="b4e9d8e1645ce21b7cb93c733b1a0a1c" category="list-text">按一下*保留並清除*。</block>
+  <block id="e5c1d95016a1ed09953b597cad3e8d3a" category="list-text">在「*清除資料*」下、按一下「*顯示清除清單*」。</block>
+  <block id="d8091fc55883e9e6fecd0030e2b022a3" category="paragraph">您可以檢視已排定要清除的項目清單、以及已清除的項目清單。</block>
+  <block id="2423846ae54ff4d69d2a834f8a8971fc" category="doc">檢視工作記錄和活動記錄</block>
+  <block id="66ded934122f399530ce8733141f4ba9" category="paragraph">SaaS Backup for Microsoft 365會儲存一份工作歷程記錄、以及SaaS Backup內部執行的所有活動記錄。</block>
+  <block id="49b8313eea377b0b8bbefc62a904d114" category="section-title">檢視工作記錄</block>
+  <block id="f28ed8af0cff73798f4f5cd103fd6669" category="paragraph">您可以在NetApp SaaS Backup for Office 365中檢視或下載所有工作歷程記錄的報告。您可以依工作類型、服務、開始時間、結束時間和完成狀態來篩選搜尋結果。</block>
+  <block id="999bcd77c4e33a6918284c583271b071" category="list-text">按一下左導覽窗格上的*報告*。所有SaaS備份工作的清單會顯示在*工作歷程記錄*索引標籤下。</block>
+  <block id="aeeacd02195ea6f4b02483630b5e0a23" category="list-text">若要篩選結果、請按一下*篩選*。</block>
+  <block id="71e041aaf292122c8fb7eb01ecfd1b22" category="list-text">按一下*選取*下拉式功能表、然後選取篩選條件。您可以依原則、服務、類型或狀態進行篩選。選取篩選之後、會出現搜尋欄位。</block>
+  <block id="8850a628cbae3a8547c5a9cb68a13969" category="list-text">輸入您的搜尋條件。</block>
+  <block id="3deda0ce819231f6e8ce22db93db3cf4" category="list-text">若要新增更多篩選條件、請按一下*新增篩選條件*。</block>
+  <block id="a46e7abdc6a472f6bd7866496cff5225" category="list-text">按一下「*套用篩選條件*」。隨即顯示篩選結果。</block>
+  <block id="75503e061f60e8b69f3aa7e19a8d1fea" category="list-text">按一下任何工作以展開檢視、以取得其他工作詳細資料。</block>
+  <block id="ea5b9d4d0e5dd36b4b06b00793524d2b" category="section-title">檢視活動記錄</block>
+  <block id="f3a1b4d7bacb8bbf3b5dbcdd7d72273b" category="paragraph">記錄會儲存在SaaS Backup for Microsoft 365內的所有活動。記錄包含每個執行動作的日期、以及執行動作的使用者名稱。您可以依服務和事件篩選活動記錄。例如、如果您需要查看Microsoft Exchange Online的所有還原作業、您可以篩選活動記錄以檢視這些特定結果。</block>
+  <block id="153d602c1f68a3d111864d674bca8233" category="list-text">按一下左導覽窗格上的*報告*。</block>
+  <block id="303ba20d6cda77d4c350c34e272105d9" category="list-text">按一下*選取*下拉式功能表、然後選取篩選條件。您可以依服務或事件篩選。選取篩選之後、會出現搜尋欄位。</block>
+  <block id="5bc78b1267d6eec17e7aaa5b202fecff" category="list-text">按一下「*套用篩選條件*」。</block>
+  <block id="41955109dea41ba0ab1c9aec91534fff" category="paragraph">隨即顯示篩選結果。</block>
+  <block id="b58854b8b60a93adfa442564c982e5ae" category="summary">如有需要、您可以新增其他帳戶來改善備份效能。服務帳戶可用來有效率地執行並行備份。</block>
+  <block id="80000d10279f83495c8148778172b268" category="doc">新增其他服務帳戶</block>
+  <block id="5389efabc2aaccb0d177f57e3e10fcee" category="paragraph">如有需要、您可以新增其他服務帳戶來改善備份效能。服務帳戶可用來有效率地執行並行備份。</block>
+  <block id="08c237a72d1fe465d2e31132c49e3c6d" category="list-text">使用具有管理權限的帳戶登入Microsoft 365 Management Portal。</block>
+  <block id="0ff659b3cc13c913cf5af44c0ddfe785" category="list-text">按一下應用程式啟動器圖示、然後按一下*管理*。</block>
+  <block id="d8d5bb27be8aa4258c0b4ed91f6dbd5b" category="list-text">在左側、按一下「*使用者*」、然後按「*作用中使用者*」。</block>
+  <block id="4713eb32f510a9811ee84d9f8c249166" category="list-text">按一下*「新增使用者*」以建立新帳戶。</block>
+  <block id="e611ae99ae3631d45726144e5a2d0125" category="list-text">請依照下列指示填寫表格。</block>
+  <block id="8f553772fa5ced187ed87102e2eba53c" category="list-text">使用*讓我建立密碼*。</block>
+  <block id="ebddd9b8dec14252c40390ddd14b9277" category="list-text">取消選取*讓此使用者在第一次登入時變更其密碼*選項。</block>
+  <block id="eb6dd7b3a1988f65e1f9db3d647a2e54" category="list-text">選擇角色*自訂管理員*。</block>
+  <block id="e76c5ebcbab2228978f5520c1b97fe96" category="list-text">選擇* Exchange系統管理員*和* SharePoint系統管理員*。</block>
+  <block id="5c57e3c9425367fa15846f0bbfecee71" category="list-text">選取*建立不含產品授權的使用者*。</block>
+  <block id="4ba3bf5a45233c1e35e6449429f3ec63" category="inline-link-macro">設定模擬</block>
+  <block id="277f76c8c0f966b0854754f8faaa965a" category="list-text">若要讓Exchange備份與新建立的服務帳戶一起執行、請將Exchange模擬權限指派給這些新建立的服務帳戶。<block ref="f52146cfd5ed9dd3b6de710708b6f366" category="inline-link-macro-rx"></block></block>
+  <block id="bd536ce27ad96dc258c6b1412a08e681" category="admonition">SaaS備份會自動指派OneDrive和SharePoint網站的權限、因此您不需要指派權限。</block>
+  <block id="e57936e09b683cb6c667122b7b0b8720" category="admonition">您可以在此帳戶上啟用多因素授權（MFA）。</block>
+  <block id="a73aba6b88b96c2312c0f9347ee50d78" category="summary">您可以啟用適用於Microsoft 365的SaaS備份的現代化驗證、以避免Microsoft 365群組、共享和歸檔信箱的探索失敗。</block>
+  <block id="6d41bf53975c37a371e0a61c24d9701d" category="doc">啟用現代化驗證</block>
+  <block id="bcb28a2f4ed645ef8a3af04a404a1502" category="paragraph">Microsoft 365目標為2021年10月、在Exchange Online中棄用基本驗證。棄用之後、Microsoft 365群組、共享信箱和歸檔信箱可能會發生探索失敗。</block>
+  <block id="ebab51f38b25f119a54799f747a554df" category="paragraph">您可以隨時啟用現代化驗證。</block>
+  <block id="c1b811bd592235c61fa6ca7a4cdbe483" category="paragraph">新客戶不需要採取任何行動。當您註冊時、會啟用「現代化驗證」。</block>
+  <block id="6a35f3193356ceb62195e1a17a1d97ca" category="paragraph">現有客戶需要採取行動。請依照下列指示啟用「現代化驗證」。</block>
+  <block id="986fd8fd4a9ddabca0d89b5e7da5ba20" category="admonition">若要啟用「現代化驗證」、請使用租戶帳戶認證登入；帳戶名稱可在Microsoft 365服務設定中找到（請參閱以下*選項2步驟*）。確定已將全域管理員角色指派給此帳戶。成功啟用現代化驗證之後、您可以從管理員使用者移除全域管理員角色。</block>
+  <block id="151c0e26b68569274cc8fb7865536967" category="list-title">選項1步驟</block>
+  <block id="5473646de43d33b966a040592c55e080" category="inline-image-macro">啟用現代驗證的快顯訊息「Microsoft Basic驗證即將停用」。請啟用「現代化驗證」、以避免Microsoft 365群組、歸檔信箱及共用信箱發生探索失敗。是否要立即啟用？</block>
+  <block id="d0f07db1e4f0dafbc370c2184e7fc993" category="list-text">登入SaaS Backup for Microsoft 365。隨即會彈出下列訊息。<block ref="c54e32c72d16546d42f4bb610328d6c2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="33961fdc55682584a2105cfe37dc4e80" category="list-text">選擇* Confirm（確認）*以啟用Modern驗證。</block>
+  <block id="719de1e44f12917b51d01d1d500b55e8" category="list-text">接受所有權限。現在已啟用「現代化驗證」。ZZZ組態服務帳戶已移除。</block>
+  <block id="73450abe3754a721d825055685e2494c" category="list-title">選項2步驟</block>
+  <block id="92eef66d548ce3ad6566a41eb934f2c6" category="inline-image-macro">齒輪圖示</block>
+  <block id="7381e66861ab2b549db3d647f53aab18" category="inline-image-macro">指向Microsoft 365服務設定的箭號</block>
+  <block id="00c3259ed9a379b2339d2dd0fb266c2d" category="list-text">在SaaS Backup for Microsoft 365中、前往「設定」 <block ref="764992d715ceb3d3bca0b58ec17502cd" category="inline-image-macro-rx" type="image"></block>&gt;服務設定&gt; Microsoft 365服務設定。<block ref="c7c697ce9aa35ee14da9549d094faec6" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="528b9600eae8c6e11b0a8204cac006c1" category="inline-image-macro">從「服務設定」中選取「啟用現代化驗證」</block>
+  <block id="eaac380992bfb558c7f33ad5263a09cd" category="list-text">選取*「啟用現代化驗證」*。<block ref="44637b2c161d4bd1a3f03826b4b97ec3" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="659923b56097fde7f7e16f9938f8cee7" category="paragraph">如果收到失敗通知、您可以重試啟用「現代化驗證」。</block>
+  <block id="c211ffba805191487d78c4b7cc83885c" category="paragraph">如需支援、請寄送電子郵件至saasbackupsupport@netapp.com。</block>
+  <block id="57b21864f834adb69b95deb6d906d488" category="inline-link-macro">基本驗證與Exchange Online - 2021年9月更新</block>
+  <block id="079fc4b41d453223328c8289d6f6ee23" category="paragraph">如需詳細資訊、請參閱 <block ref="13656a114805a881003fbba8178f036a" category="inline-link-macro-rx"></block>。</block>
+  <block id="9f2fcfa5d97760721b059c18ef5b9792" category="summary">SaaS Backup for Microsoft 365為每項服務提供高層級且精細層級的還原選項。</block>
+  <block id="1e718270348135e714b61bc0076312f3" category="doc">關於還原</block>
+  <block id="e2b5ba78e3329ab5a4cbdfce0a0a04f3" category="paragraph">有了適用於Microsoft 365的SaaS備份、您可以針對Exchange Online、SharePoint Online、OneDrive for Business、以及Microsoft 365群組和團隊、執行高層級且精細的還原。</block>
+  <block id="c525803a045e17d9d35a7cfc9cece73b" category="paragraph">瞭解如何執行高層級和精細層級的還原：</block>
+  <block id="ad6991daa50b0be0ba36c8e2ba2212a6" category="inline-link-macro">執行高層級還原</block>
+  <block id="b5adf625d57398016a2921892e61aa88" category="list-text"><block ref="b5adf625d57398016a2921892e61aa88" category="inline-link-macro-rx"></block></block>
+  <block id="d75ce65393734855fe533aacfcc7d983" category="inline-link-macro">為Exchange Online執行精細層級的還原</block>
+  <block id="b9db8ec0f23e492eef9298f2cd8b5051" category="list-text"><block ref="b9db8ec0f23e492eef9298f2cd8b5051" category="inline-link-macro-rx"></block></block>
+  <block id="5bb3fa910e120cd9a689d748c5654720" category="inline-link-macro">為SharePoint Online執行精細層級的還原</block>
+  <block id="cded0d3b4d7ca17508d11939adf092ed" category="list-text"><block ref="cded0d3b4d7ca17508d11939adf092ed" category="inline-link-macro-rx"></block></block>
+  <block id="c8898212ecbaaeefaf71fe1d609e3a8b" category="inline-link-macro">針對OneDrive for Business執行精細層級的還原</block>
+  <block id="3933d0c349ab1ad962ae36a2672e0eb4" category="list-text"><block ref="3933d0c349ab1ad962ae36a2672e0eb4" category="inline-link-macro-rx"></block></block>
+  <block id="6d2f637ce543b5156bb3a8f036857fac" category="inline-link-macro">為群組和團隊執行精細層級的還原</block>
+  <block id="a9250406a7c0568aa247e286636a71f0" category="list-text"><block ref="a9250406a7c0568aa247e286636a71f0" category="inline-link-macro-rx"></block></block>
+  <block id="71d68aadf0764ae2a2c5790f9dd69d33" category="paragraph">下表顯示每項服務所支援的高層級還原選項、以及在SaaS備份中找到還原資料的位置。</block>
+  <block id="c35caca31b890241f2234a0500b35f99" category="admonition">刪除或取消資源配置資料時、您可以將資料還原至其他位置（信箱、站台、MySite、群組或群組）、或匯出資料。您無法還原至相同位置。</block>
+  <block id="3cec94f2c3f7bd13aed2488dadd12834" category="section-title">Exchange Online</block>
+  <block id="c498028f45c9513d785b94168bceda23" category="cell">匯出至動力換檔變速箱</block>
+  <block id="5b8ec75733bf40e15437bf34dcba31d7" category="paragraph">單一信箱</block>
+  <block id="64f1aba985433f5ae146d2cb366d1df0" category="cell">Exchange Online &gt;信箱-使用者/共享/歸檔</block>
+  <block id="081efe1270b786644d36e5aa6f69fedf" category="paragraph">多個信箱</block>
+  <block id="8f54d1dd77baa9497c2901783a54a1c6" category="paragraph">信箱內容</block>
+  <block id="f3d00dac4ea5d988d1bed0a5e0cee71c" category="cell">Exchange Online &gt;信箱-使用者/共享/歸檔&gt;&lt;使用者名稱&gt;</block>
+  <block id="27bafb3855ae4ca3df676518f2aaad5a" category="section-title">SharePoint Online</block>
+  <block id="15cbdaca1e670ee88c1d71f87070e9a6" category="cell">還原至相同站台</block>
+  <block id="b43fc1a2a417e7198af317fdf27717a1" category="cell">還原至其他站台</block>
+  <block id="5906c8287870270a136a93286efc561a" category="paragraph">單一SharePoint網站</block>
+  <block id="460eab8a130e70f36538e8b715ffa5d9" category="cell">SharePoint Online &gt;網站</block>
+  <block id="ceea731052fe801041ec905a3c50bc1e" category="paragraph">多個SharePoint網站</block>
+  <block id="9cb2851f2fc40d659520409faab64fbb" category="paragraph">SharePoint網站內容</block>
+  <block id="f389f41006b051f2680a0b5f637ec269" category="cell">SharePoint Online &gt;網站&gt;&lt;網站名稱&gt;</block>
+  <block id="1a0453b74ffb4afb06052a3bab317d4a" category="paragraph">單一SharePoint網站啟用僅還原角色</block>
+  <block id="8b5346cfefa0c8ecaa9b72ee818bca8f" category="paragraph">單一子站台</block>
+  <block id="a9441c777652d9cb5cc3e36e9e161b94" category="paragraph">多個子網站</block>
+  <block id="a10de56910213f47318813bddbf1e305" category="paragraph">SharePoint子網站內容</block>
+  <block id="e562f371266b0a4c99fc3ee3dc00c01e" category="paragraph">啟用僅還原角色的單一/多個子網站</block>
+  <block id="2950e5d428cbc3f55c7aec75694f130a" category="section-title">商務用OneDrive</block>
+  <block id="233893ba4ef99c6ae933d99cf7284b2a" category="paragraph">單一磁碟機內容</block>
+  <block id="ff0ba39a03cb33697cb7ff9bfec49553" category="cell">OneDrive for Business &gt; MySites&gt;&lt;OneDrive使用者&gt;</block>
+  <block id="a37ede293936e29279ed543129451ec3" category="section-title">群組</block>
+  <block id="66dad12ced125ee91f6e7e1608d45379" category="paragraph">單一群組</block>
+  <block id="aa757fec2e3a65f0a20e30e66522437b" category="cell">Office 365群組&gt;群組</block>
+  <block id="bc8098767a42e7223a53bda7b8ba9269" category="paragraph">多個群組</block>
+  <block id="7e946cbd8fd8f7c1d60f897ade14b5d4" category="paragraph">群組內容</block>
+  <block id="750fffdd85c2e30ad14e31f78b5cd2f9" category="cell">Office 365群組&gt;群組&gt;</block>
+  <block id="037e67b55978384379c5e4f43a47b7cf" category="cell">Office 365群組&gt;群組&gt;（群組電子郵件）&gt;群組名稱</block>
+  <block id="87142a07bb206e902bb64ee601cb779e" category="paragraph">SharePoint內容</block>
+  <block id="2fc8fc4b7340b9ec920c38b85b0a1034" category="cell">Office 365群組&gt;群組&gt;&lt;群組名稱&gt;&lt;站台名稱&gt;</block>
+  <block id="1fe1b6cf4f52930c301b03e5a69c42c2" category="section-title">團隊</block>
+  <block id="31d7adc0e486b10f207e2139fa1df05e" category="paragraph">單一團隊</block>
+  <block id="5b05cc8922e5cd4106e24a7bba87bcd9" category="cell">Office 365群組&gt;團隊</block>
+  <block id="9528d50213406c7d27b09b8bc1d32b02" category="paragraph">多個團隊</block>
+  <block id="04c35d154f698a2cb2c9ad6e40d188e8" category="paragraph">團隊內容</block>
+  <block id="89b7be3d527b7868cb553f086da205bb" category="cell">Office 365群組&gt;團隊&gt;</block>
+  <block id="b785b982567e03d86f5b6b9b5bdab0d7" category="cell">Office 365群組&gt;團隊&gt;（團隊電子郵件）&gt;團隊名稱</block>
+  <block id="0cefe645b99a17e5dcc4913cbadeef02" category="cell">Office 365群組&gt;團隊&gt;&lt;團隊名稱&gt;&lt;網站名稱&gt;</block>
+  <block id="14cb425d8170ed04f3d8016d5a0ccf20" category="paragraph">通路</block>
+  <block id="3255e277a9a04484a81db77abfbd29c2" category="cell">Office 365群組&gt;團隊&gt;（團隊電子郵件）</block>
+  <block id="492be6e725acfbd42ed9196376a2af7a" category="summary">SaaS Backup for Microsoft 365會定期推出新版本、為您帶來新功能、增強功能和錯誤修正。</block>
+  <block id="8b9765327e65c940b7ded1efe79355d8" category="doc">新功能與更新-已歸檔</block>
+  <block id="b635c64585c2707531086bb2986ca7d8" category="paragraph">以下是SaaS Backup for Microsoft 365新增功能的歸檔清單。</block>
+  <block id="472471538784273d4b38b8713a92089d" category="section-title">2018年12月</block>
+  <block id="ba21162ae5beff2da7316530160d9bdd" category="list-text">SaaS Backup for Microsoft 365現在可透過AppDirect Marketplace和CANBCOM Marketplace購買。</block>
+  <block id="0ba0e8d5409b2993f9ed1e11567be7c3" category="section-title">2018年8月</block>
+  <block id="b8bd7e2bd47fda9c9390e35f8f996fe8" category="list-text">使用者介面經過重新設計、可改善使用者體驗與效率。</block>
+  <block id="e009ac7bdbcdbe785633995714a0b763" category="list-text">資料保留原則已更新、可保留資料3年。<block ref="b297b383a2043bacbe42de60d0495a39" category="inline-xref-macro-rx"></block></block>
+  <block id="9fe5b0e5e0c862102d23c193d848d031" category="section-title">2018年5月</block>
+  <block id="04d25e22b323711ff2c7e0f65891416c" category="list-text">NetApp Cloud Control已重新命名為NetApp SaaS Backup for Microsoft 365。</block>
+  <block id="acc4fa3808d7a71e25f10c6866cdfc8c" category="inline-xref">清除使用者、網站集合或Microsoft 365群組</block>
+  <block id="622447dc867aa23b63cae41916056ae1" category="list-text">您現在可以清除使用者、網站集合和Microsoft 365群組、完全移除SaaS Backup for Microsoft 365的所有相關資料。<block ref="2c1b64681ee9fe134c90ce77d1ff786d" category="inline-xref-macro-rx"></block></block>
+  <block id="527708d8a25b28e30c9e6ce44e6acf3b" category="list-text">SaaS備份現在可探索Microsoft 365群組的公有和私有群組。</block>
+  <block id="87dddbc407376ab2a74d919deb8a64ec" category="section-title">2018年4月</block>
+  <block id="70f4045b3a240f86dcb02664a9b1e73f" category="list-text">SaaS Backup for Microsoft 365現在支援Microsoft Office Exchange Online的共用信箱。</block>
+  <block id="f9569ca41d9da19d9a56e76d830b4a8c" category="paragraph">共用信箱是透過使用自動建立的服務帳戶來探索。如果您在此更新之前尚未啟動Microsoft Office Exchange Online的服務、則當您啟動Microsoft Office Exchange Online時、SaaS Backup會建立共用信箱的自動服務帳戶。如果您的Microsoft Office Exchange Online服務已啟動、您必須授予SaaS備份權限才能建立自動服務帳戶、以便探索及備份您的共用信箱。 <block ref="49cc502480062aea72351d71aa6fc0eb" category="inline-xref-macro-rx"></block></block>
+  <block id="79af9c777e61eb876c82eaab6feb30c9" category="inline-xref">立即探索您的使用者帳戶</block>
+  <block id="bbc854c334afa202e4fa88ab19866f29" category="paragraph">建立自動服務帳戶之後、您的共享信箱將會在下次排程同步使用者帳戶時自動探索。如果您想要立即探索共用信箱、您可以 <block ref="2a2a1550088d658e9a3c4c85fc9ef095" category="inline-xref-macro-rx"></block>。</block>
+  <block id="74620215d33d2f9ad06a873cdf9e8acc" category="section-title">2018年3月</block>
+  <block id="39d560867add9a63936eca53ed4cfa40" category="paragraph">您輸入免費試用版啟動代碼的位置、已移至「Add a Service Provider（新增服務供應商）」精靈：</block>
+  <block id="bda1de5e5163ee7832b80b7535b38b1e" category="inline-image-macro">螢幕擷取畫面、顯示選取「免費試用」時、您在「訂閱」頁面中輸入啟動代碼的位置。</block>
+  <block id="ea0c837ea6662600de23d933b85b871a" category="paragraph"><block ref="ea0c837ea6662600de23d933b85b871a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="95798f037b7bacec7599a19423a6bb64" category="section-title">2018年2月</block>
+  <block id="7005be9dcb2babc11145593389a5d0f0" category="inline-xref">建立使用者定義的篩選器</block>
+  <block id="dd231ac29bcd790907ea07e095722043" category="list-text">Microsoft SharePoint Online現在提供以範本ID為基礎的篩選功能。<block ref="60c93e3eb02a5ebd9becaf0a6ec969cc" category="inline-xref-macro-rx"></block></block>
+  <block id="58a346df6bb63f8d5fb48a94c94519e3" category="list-text">您現在可以將適用於Microsoft 365的SaaS備份使用者帳戶活動記錄下載到一個.csv檔案。<block ref="72d5ffc4d998a8df41a3d69f31aa4e91" category="inline-link-macro-rx"></block></block>
+  <block id="f03a974f6827372e7e32c705ac474e53" category="list-text">SaaS Backup for Microsoft 365與您的服務之間的使用者帳戶、站台及群組同步、現在預設為啟用。</block>
+  <block id="39f9a6c8eeeb26793705badba6b76362" category="inline-link-macro">備份設定</block>
+  <block id="55a0cf1cf2bb1cfdcff0aad9cfde49d9" category="list-text">目前預設會啟用包含備份版本歷程記錄的功能。預設版本數為20。<block ref="f2a3d5933a5e0372cc2c185633f396b8" category="inline-link-macro-rx"></block></block>
+  <block id="effdc6a5d743a9db1cd347a2ac8d6b80" category="section-title">2018年1月</block>
+  <block id="d720d14f2d2d410fd9c3739a82251fc8" category="list-text">活動記錄現在會顯示與在SaaS Backup for Microsoft 365中執行的每個動作相關聯的使用者ID名稱。</block>
+  <block id="2dbd22cce387627a3ae78ddf49e08841" category="list-text">您現在可以從SaaS Backup for Microsoft 365手動將使用者權限與Azure Active Directory同步化。</block>
+  <block id="ce08e9f2fc9c85c17b6b832567419761" category="list-text">Microsoft Exchange Online現在支援匯出至PST,以便在資料夾層級還原。</block>
+  <block id="2c93879227a2e2e70ce85ae352f8f46c" category="section-title">2017年11月</block>
+  <block id="3a8ca13b1dbd22749d799d6bc07392d4" category="list-text">SaaS Backup for Microsoft 365現在支援Azure Blob作為SaaS備份所提供儲存設備的選項。</block>
+  <block id="75bc60f2c6a36004500066ff7275c3f3" category="list-text">SaaS Backup for Microsoft 365現在支援Microsoft 365群組進行備份與還原。您必須先啟動Microsoft Exchange Online或Microsoft SharePoint Online、才能啟動Microsoft 365群組。Microsoft 365群組只能受第3層備份原則保護。</block>
+  <block id="fb94c7f8627886d1f63dc1c58ca7a99e" category="list-text">Microsoft Exchange Online現在支援匯出至動力換檔系統、以便在信箱層級還原。</block>
+  <block id="af77dfd404964d21108cf737bd810e11" category="section-title">2017年10月</block>
+  <block id="69288124909bddfca867e68699b38eb1" category="inline-xref">建立新規則</block>
+  <block id="524c45aec514e36f1f014df22714824e" category="list-text">您可以建立規則、讓您根據預先定義的準則、自動將使用者移至預先選取的備份層。您可以為Microsoft Exchange Online和Microsoft OneDrive for Business建立規則。您無法為Microsoft SharePoint Online建立規則。<block ref="ce9deed384e0076de61405537c2a5dbd" category="inline-xref-macro-rx"></block></block>
+  <block id="368818d54c4d27c59f580c411f82c199" category="summary">視需要、您可以立即備份任何Microsoft 365服務。</block>
+  <block id="cd79b1fefb1a3097943b559178952f47" category="doc">立即備份服務</block>
+  <block id="17895efa2fc56bcd7be9737506d37101" category="list-text">在儀表板的服務方塊中、按一下「* protected *（*受保護*）」上方的數字、即可立即執行備份。</block>
+  <block id="1180971c25eec219405fa68a7cedc422" category="list-text">選取備份選項。</block>
+  <block id="b15aa55ba640a8717ab1053a5b2ee9f0" category="list-text">適用於Exchange</block>
+  <block id="ecdb5ceceeba5d5b85316d0fa6742ebf" category="list-text">如果您要備份共用信箱、請按一下*共享*索引標籤。</block>
+  <block id="3a7dfc4233ee4fec81596b9c81b585d7" category="list-text">如果要備份歸檔信箱、請按一下*歸檔*索引標籤。</block>
+  <block id="5f71ce1e40d24c8be9e666aa5d13059f" category="list-text">如果您要備份一般信箱、請保留在*使用者*索引標籤上。</block>
+  <block id="ff8dd1a8e0240d8749fae66a40a2f2e4" category="list-text">適用於SharePoint</block>
+  <block id="d37125aa1203e784d774b66bfceda078" category="list-text">如果您要備份站台、請保留在*站台*索引標籤上。</block>
+  <block id="0fbd435aba96ad4d0b8868f78fa8b98d" category="list-text">適用於OneDrive</block>
+  <block id="46937b124e6729e022f8cf4b42f16764" category="list-text">如果您要備份使用者、請保留在*使用者*索引標籤上。</block>
+  <block id="c4487144aa046c3b680dff2075fa156c" category="list-text">適用於Microsoft 365群組</block>
+  <block id="d8bbeb9364b14ee84b097b00b753be77" category="list-text">如果您要備份群組、請保留在*群組*索引標籤上。</block>
+  <block id="e8a1fbb32b2a1b3178fcfd50c8a09b11" category="list-text">如果您要備份群組、請按一下*群組*索引標籤。</block>
+  <block id="640309aa25313de298649fb87a464d3f" category="admonition">只有在設定下啟用TeamsChat時、才會備份TeamsChat訊息。聯絡人 <block ref="f87e0976e00f26ec4930aef7f830024f" category="inline-link-macro-rx"></block> 以啟用此功能。</block>
+  <block id="dc89d6b1a23ea2635e17286063e0dd84" category="admonition">由於API限制、SaaS備份無法區分公有和私有通道。</block>
+  <block id="49b7493001e7dcdbec9161260704573b" category="list-text">選取您要備份的項目。</block>
+  <block id="a3efa343d27df65bae9d3dde0ec1da86" category="list-text">按一下*立即備份*。</block>
+  <block id="ab197c9ed22b1071d9c368b40ceca94f" category="inline-image-macro">立即備份按鈕</block>
+  <block id="e749efd4835fdf339ee73d6ab5a9587c" category="paragraph"><block ref="e749efd4835fdf339ee73d6ab5a9587c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="8bda9e61afc89be886f94a386ef3171b" category="paragraph">畫面會顯示訊息、指出所選服務將置於工作佇列中進行備份。</block>
+  <block id="021d5924e971c9212d3d219972054d52" category="list-text">按一下「 * 確認 * 」。此時會顯示一則訊息、指出已建立備份工作。</block>
+  <block id="5307eda3f04b27eefef8e7482983dc2b" category="list-text">按一下*檢視工作進度*以監控備份進度。</block>
+  <block id="14ed5b6705ccff3400fb356b735cde29" category="summary">您可以使用Microsoft 365服務帳戶或NetApp SSO帳戶註冊SaaS Backup for Microsoft 365。</block>
+  <block id="667e567bd9a816e74022b85d3fd8fe7d" category="doc">註冊SaaS Backup for Microsoft 365</block>
+  <block id="07e38d036e9ca9a031fae0e612627b48" category="section-title">註冊Microsoft 365服務帳戶</block>
+  <block id="abdc55eb1eb7165f452a2b5dc6896999" category="list-text">在網頁瀏覽器中輸入SaaS Backup for Microsoft 365 URL：<block ref="69b8c2567294d7944fbc4c95e2c3c422" category="inline-link-rx"></block></block>
+  <block id="fb40144187e6d6dfbb31bfddd7c8be12" category="list-text">選取您所在的地區。您的租戶是在所選區域中建立。您的資料將儲存在該資料中心位置、日後無法變更。</block>
+  <block id="40de166a0206734afd1816e330dbd1b2" category="list-text">按一下登陸頁下方的*「註冊*」。</block>
+  <block id="b4b5965e3fc7783871b3048639a6d6c9" category="list-text">接受終端使用者授權合約。</block>
+  <block id="a02be68c938a23e55fe461a1a0c8662c" category="inline-image-macro">按一下按鈕以使用Microsoft 365服務帳戶簽署SaaS Backup for Microsoft 365的螢幕擷取畫面</block>
+  <block id="5edf3bb233f5b626bb40322b8864a9ac" category="list-text">按一下*註冊Office 365*。<block ref="cc35a44d9fa5e810fca7e609591a6e96" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e58745e44ca10bde2b8501fcb6dd9ae2" category="list-text">輸入Microsoft 365全域系統管理員服務帳戶的電子郵件地址和密碼、然後按一下*登入*。隨即顯示SaaS Backup for Microsoft 365所要求的權限清單。</block>
+  <block id="e17905dd31e746ef069a3367c5d92d78" category="list-text">按一下*接受*。</block>
+  <block id="183a922f9c99c146568fa3a722e97f1b" category="list-text">輸入要求的使用者資訊。</block>
+  <block id="d2b5110030426d97e52b774bb6d336c9" category="list-text">按一下*註冊*。系統會顯示您的使用者名稱和授予SaaS Backup for Microsoft 365的權限清單。</block>
+  <block id="76a97ed15ed26c4ed99f1e665c6b36d4" category="list-text">單擊 * 下一步 * 。隨即顯示可用的Microsoft 365服務清單。</block>
+  <block id="6e974e95f07eabcddb56ad1c8b6eb5e0" category="list-text">選取您要啟動的Microsoft 365服務。</block>
+  <block id="5a378b18f7bf0c4cabc6c655cd2f535e" category="list-text">單擊 * 下一步 * 。</block>
+  <block id="6c92285fa6d3e827b198d120ea3ac674" category="inline-link-macro">請按這裡</block>
+  <block id="72a04102d99fa44df4341d63f3022cc4" category="list-text">如果您是透過NetApp購買授權、則會顯示您的訂閱類型、請按一下 <block ref="29d288af4a2f7810b289a90a6051b818" category="inline-link-macro-rx"></block> 以瞭解更多步驟。</block>
+  <block id="d14a2834a29f6ebee06ab6889bd6bd74" category="list-text">如果您是透過AWS等Cloud Marketplace購買授權、則會顯示授權資訊。按一下 <block ref="e00c2ebec443939398eec77b9bc8acde" category="inline-link-macro-rx"></block> 以瞭解更多步驟。</block>
+  <block id="8d76a8a511ee942b5420fe631ad886fb" category="section-title">註冊NetApp SSO帳戶</block>
+  <block id="55d24cf7a906d1d4208622ed125d211e" category="paragraph">若要驗證您的訂閱、您必須擁有NetApp SSO使用者ID和密碼。如果您沒有NetApp SSO帳戶、請前往<block ref="4b0df7f6652ef877e322a199d6b6edce" category="inline-link-rx"></block> 註冊一項。處理完您的申請後、您將會收到一封電子郵件通知、其中包含您的NetApp SSO認證資料。處理申請並傳送通知電子郵件約需24小時。</block>
+  <block id="abbc26a9920ffcb14ff167578b11c9f7" category="list-text">按一下登陸頁底部的「註冊」。</block>
+  <block id="69e152d69f8d4373acc95d74926b0a61" category="inline-image-macro">按一下按鈕以使用NetApp SSO帳戶簽署適用於Microsoft 365的SaaS備份的快照</block>
+  <block id="a2f89bcf524d24746643e4d9c04e36eb" category="list-text">單擊*註冊NetApp SSO *。<block ref="481c2d7848531f12a7fd6f119c471514" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="64f5ed414a16fc87a18ea948b34ff272" category="list-text">輸入您的NetApp SSO和密碼、然後按一下*登入*。</block>
+  <block id="997ef4b20be47717af102b5ceb6ffd21" category="list-text">輸入要求的使用者資訊、然後按一下*「註冊」*。</block>
+  <block id="5a1b89c43bddf65f7ea65f271cf25c5b" category="inline-image-macro">SaaS Backup for Microsoft 365服務圖示的快照</block>
+  <block id="ceffebc2a3447f8be282a690098822bf" category="list-text">按一下*服務* <block ref="033e893069dbe1c51622ec6c06fe3419" category="inline-image-macro-rx" type="image"></block> 圖示。</block>
+  <block id="c63915f53f7e6e9c07670ed5a82f0e91" category="inline-image-macro">Microsoft 365圖示</block>
+  <block id="8acf88a3c5c74293c66aebb6979800d6" category="list-text">按一下Microsoft 365 <block ref="b6f2e54c54e3104f5cb63e0dad75def5" category="inline-image-macro-rx" type="image"></block> 圖示以選取SaaS服務。</block>
+  <block id="aabc107b1dfbec701236740754fb113b" category="list-text">按一下「*新增Microsoft Office 365帳戶*」。</block>
+  <block id="371c9adbc919e00267a7f444ff27fba3" category="list-text">選擇*授權*作為訂閱類型。</block>
+  <block id="fa61889ab07d18a56ff6c379d1def5c7" category="list-text">輸入要求的資訊、然後驗證訂閱。</block>
+  <block id="278cd16c1d88b9f641463ff754912c75" category="list-text">選取您的備份儲存選項。</block>
+  <block id="97a7519ee014df6eb0ea7572f558697f" category="list-text">按一下「* SaaS備份提供的儲存設備*」。</block>
+  <block id="88e4ec1e84b90b2fc6e010dc8df45a8c" category="list-text">選擇* Amazon S2*或* Azure Blob *儲存選項。</block>
+  <block id="9b6bafc614e2d19704d12baf566961b8" category="list-text">選取* AWS S1*或* Azure Blob *區域進行備份。您應該選取最接近所備份資料實體位置的區域。</block>
+  <block id="59bd9482937af8863abf9e7f4229fc09" category="list-text">檢查組態、然後按一下*「Save"（儲存）。</block>
+  <block id="502181d06604b40a7bc5780586e1047a" category="summary">當您為Microsoft 365設定SaaS備份時、您的資料預設不會受到保護、也不會排定進行備份。您必須將資料移至受保護的層級、才能開始進行第一次備份。</block>
+  <block id="6788d0448f06c02d615181227fd9b6cb" category="doc">排程第一次備份</block>
+  <block id="a305a1c21b0ea9da7bdc7fe8b3239ff0" category="paragraph">當您為Microsoft 365設定SaaS備份時、資料預設為無保護。您必須將資料從無保護層移至其中一個受保護層、以便在所選層的下次排程備份期間備份資料。</block>
+  <block id="66481d00d93eff0b31dd17194ddbb356" category="list-text">從儀表板中、選取含有未受保護資料的服務。</block>
+  <block id="4fb44d8692ad90bf2755340b177db1a0" category="list-text">按一下「未受保護的信箱、MySites、站台或群組數量」旁邊的*檢視*。</block>
+  <block id="7342d5d8444ac1796811718e9e675a5b" category="list-text">選取您要保護的項目。</block>
+  <block id="067daba3186482a4c6545ccb72a9bd40" category="inline-image-macro">SaaS備份群組功能表按鈕的快照</block>
+  <block id="d6cad9ed80ad838daeded80bb3ea67ef" category="list-text">按一下*群組*功能表。<block ref="2ec67b6713eb1983f587fe6d043d3b22" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f29af97513bb1a8e1b5d4a0b681250d4" category="inline-link-macro">備份原則</block>
+  <block id="b406dcf2d30712d6e126b3826a5ca331" category="list-text">選取您要指派的備份原則*層級*。請參閱 <block ref="00b2f8924defbf1ee2f308ef72378b6f" category="inline-link-macro-rx"></block> 以取得備份原則層級的說明。</block>
+  <block id="400fae8e788b3721b9ac25fe01f04f50" category="list-text">按一下「 * 套用 * 」。</block>
+  <block id="38f5aa5092df020d3cbfa1f4a86c2ec1" category="summary">NetApp SaaS Backup for Microsoft 365是一項安全的網路型軟體即服務（SaaS）產品、可將您的Microsoft 365資料備份至Amazon S3儲存設備或Microsoft Azure Blob儲存設備。</block>
+  <block id="2f436bac94b3ef6b8baa68dcaa3e1c00" category="doc">NetApp SaaS Backup for Microsoft 365總覽</block>
+  <block id="32796454d262148a13da4e9b1ee67147" category="paragraph">NetApp SaaS Backup for Microsoft 365是一項安全的網路型軟體即服務（SaaS）產品、可將您的Microsoft 365資料備份至Amazon S3儲存設備或Microsoft Azure Blob儲存設備。SaaS備份可為閒置和傳輸中的資料提供加密功能。</block>
+  <block id="0e465002245828506a54021571ded8ad" category="inline-image-macro">SaaS Backup for Microsoft 365備份與還原至可用儲存選項的圖形總覽。</block>
+  <block id="3ec4d128dfee87634b3996d51a3dba51" category="paragraph"><block ref="3ec4d128dfee87634b3996d51a3dba51" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3a3c17a3d9770667859bdcd66c4a99a5" category="summary">如果您從「服務設定」開啟「刪除的項目」、則可以檢視所有服務中刪除的項目。</block>
+  <block id="4a86c772020231ba354111daad8015ab" category="doc">檢視刪除的項目</block>
+  <block id="0e2f0e976aaeb091f6ae728602d424e1" category="paragraph">您可以隨時在服務設定中開啟*顯示刪除的項目*、以檢視所有服務中的刪除項目。這有助於節省時間、而非瀏覽已刪除項目的不同備份、請開啟交換器、立即尋找已刪除項目。</block>
+  <block id="31c3a6fb19eaa75f19d3d4cf4c7cc0f3" category="paragraph">依預設、交換器會關閉。</block>
+  <block id="f70194f277103c9866dc8af364fee34e" category="inline-image-macro">圖顯示設定圖示</block>
+  <block id="cc3783ec881d2e39de64a154816053d1" category="list-text">按一下「設定」圖示 <block ref="8f769a1a145e5a84c285d99fc1a5fbb8" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="4e46725c03162dfab1ba1995b82af54c" category="inline-image-macro">圖顯示已刪除項目已關閉</block>
+  <block id="3f6d15cf6c26cc238489594fa7211754" category="paragraph"><block ref="3f6d15cf6c26cc238489594fa7211754" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d30334bced72eec712bfb047aef308a7" category="list-text">開啟*顯示刪除的項目*交換器。</block>
+  <block id="cfd226026b9b811c8a77e0355a9cb6f3" category="inline-image-macro">影像顯示已刪除項目開啟、備份設定已更新</block>
+  <block id="5ee8d5264a5042a291b5fd5c5e218cf7" category="paragraph"><block ref="5ee8d5264a5042a291b5fd5c5e218cf7" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="fb946ac62826c08c09ffa9bd4bdf1e4a" category="list-text">按一下左側導覽窗格上的*工作*。</block>
+  <block id="12e0aa55694b8ac667fc94104d1a6f89" category="list-text">開啟最近的備份以查看刪除的項目。</block>
+  <block id="5cd8ed00a66ee33edca00eaad743e706" category="summary">若要開始使用付費訂閱的Microsoft 365 SaaS備份、您必須決定要用於備份的儲存類型、建立具有全域權限的Microsoft 365服務帳戶、而且必須完成註冊程序。</block>
+  <block id="d58b980148cd198d6d43f285f030425c" category="doc">入門工作流程</block>
+  <block id="cde2057a98d86f208770b3164aedda87" category="paragraph">若要開始使用適用於Microsoft 365的SaaS備份、您必須執行下列動作：</block>
+  <block id="ea04a30a00c78442cf07b930689cf146" category="list-text">決定您是否要使用SaaS備份所提供的Amazon S3或Azure Blob儲存設備。</block>
+  <block id="d1277819211cde3f869b987ea578960e" category="inline-link-macro">您可以搭配SaaS備份使用的儲存類型</block>
+  <block id="4cd94590bb8488a413e6a427480d3251" category="paragraph"><block ref="df8d60faebfd1140c689d69f47bd9ce6" category="inline-link-macro-rx"></block>。</block>
+  <block id="8d3f0f18dc9b273ca9550a870dbe7d40" category="inline-link-macro">建立具有全域權限的MS Office服務帳戶</block>
+  <block id="26e30cb3b3b7e49ba99e599482c4943f" category="list-text"><block ref="0750c1541d066db27fcb92de8f731ee4" category="inline-link-macro-rx"></block>。</block>
+  <block id="d9dff68efce1d2c43a2e683a3e3892c3" category="inline-link-macro">設定Microsoft Exchange Online的模擬</block>
+  <block id="3fdbc6e8f5aa0984e0a873ddd2b4b61d" category="list-text">如有需要、 <block ref="d615cc5d3d86f9e06cc0c85460172b97" category="inline-link-macro-rx"></block>。</block>
+  <block id="f092971e811548323e2a6e4cd354be67" category="list-text"><block ref="13f67ee669e54a16d2825d5b35242bd5" category="inline-link-macro-rx"></block> 使用您的Microsoft 365帳戶或NetApp SSO帳戶。</block>
+  <block id="4820d84d1889f00f60cdb5ea07f07a07" category="list-text"><block ref="4820d84d1889f00f60cdb5ea07f07a07" category="inline-link-macro-rx"></block></block>
+  <block id="1bb2a78dc3e9ffb014f08a4ac49ae300" category="inline-link-macro">選用：立即備份資料</block>
+  <block id="30f84fb052d031228dda8a31c47a259a" category="list-text"><block ref="30f84fb052d031228dda8a31c47a259a" category="inline-link-macro-rx"></block></block>
+  <block id="16daf462577519b0d19839a181d682b9" category="inline-image-macro">付費訂閱登錄程序的工作流程</block>
+  <block id="c6c6de8db8834d9f44e28cef126e247b" category="paragraph"><block ref="c6c6de8db8834d9f44e28cef126e247b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f2d447d60f38aa19df0467302ecd8410" category="summary">您可以搭配SaaS備份使用的儲存類型。</block>
+  <block id="863d89f1e4a4f4d3dc98f5ad623ef1a1" category="section-title">SaaS備份提供儲存設備</block>
+  <block id="76a76cfc2d02a13bafcd8db3b66f3f7b" category="paragraph">SaaS備份提供下列儲存選項：</block>
+  <block id="270fcb785810d0206945029bb05f4e97" category="list-text">Amazon S3</block>
+  <block id="52745271323ee9ea30e3a37d0338d118" category="list-text">Azure Blob</block>
+  <block id="894de4021ad5b4bf29b15a5a24d5c77b" category="doc">探索新的信箱、站台及群組</block>
+  <block id="c3610f7768b54458847dbaecb3245abb" category="paragraph">SaaS備份與Microsoft 365帳戶之間必須進行同步處理、以便讓SaaS備份能夠探索新信箱（包括共享信箱和歸檔信箱）、站台、群組和團隊。依預設、同步處理會每24小時自動執行一次。不過、如果您進行變更、並想要在下次排程*自動同步*之前進行探索、您可以立即啟動同步。</block>
+  <block id="4aac6497c390aec3dde95c25051ad5f5" category="list-text">按一下Microsoft 365設定圖示。<block ref="f9631d5c739c4c4b4fe570c209766ce1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="5711630f8e077835bf99b1b02452977e" category="list-text">按一下您要同步的服務旁的*立即同步*。<block ref="59f685d268d02e05adc0df25fd86ae38" category="inline-image-macro-rx" type="image"></block>新使用者、共享信箱及歸檔信箱會被發現並以無保護狀態新增。如果您想要備份新發現的使用者、共享信箱或歸檔信箱、您必須將使用者的備份原則從未受保護變更為預先定義的其中一個階層群組。</block>
+  <block id="ea615b65faf1869ba29efdd885fc56f2" category="list-text">按一下*檢視工作進度*以監控進度。當工作完成時、您可以按一下「*最近完成的工作*」下的工作、以檢視同步期間新增或移除的使用者數量。使用者帳戶的變更如下所示：</block>
+  <block id="96ecb6729f84a1f68f82827963f702fd" category="list-text">*重新探索*使用者表示未變更的使用者帳戶數。</block>
+  <block id="1cef46db28ec90d117c3756df3841ce4" category="list-text">*停用*使用者表示刪除的使用者帳戶數。</block>
+  <block id="916871e5e73e2a939c1c862425f924ad" category="list-text">*新增的*使用者表示新使用者帳戶的數量。</block>
+  <block id="e167007d1e03b72505e28867f91075ca" category="summary">如果更新使用者的管理角色、使用者就會自動登出SaaS Backup for Microsoft 365。當使用者重新登入時、系統管理角色更新會反映在使用者的帳戶中。</block>
+  <block id="83913e953071b43e82d99b522663debf" category="doc">更新指派給使用者帳戶的管理角色</block>
+  <block id="dda542577d68335a63e6b1756f5db314" category="list-text">按一下您要更新之使用者名稱旁的*更新使用者*。</block>
+  <block id="5d267101ea44f1e416644b36ba62ae84" category="list-text">按一下下拉式功能表以選取角色。您可以指派一或多個角色給使用者。</block>
+  <block id="7a00bdb3c8899a6fb0c89a7109d2eb8c" category="summary">您可以篩選信箱、網站或MySites的檢視、只顯示符合特定條件的結果。</block>
+  <block id="c9c180a3b2075f7816538aca2648b910" category="paragraph">您可以篩選信箱、網站或MySites的檢視、只顯示符合特定條件的結果。例如、您可以將篩選條件設定為僅查看特定國家/地區的信箱、以及該國家/地區內的特定部門。</block>
+  <block id="28034b25c973b0f0714d803930b9d1c0" category="list-text">在儀表板中、按一下您要建立篩選器之服務方塊中的*受保護*或*未受保護*以上數字。上述受保護的數量表示目前受備份原則保護的信箱、MySites或群組數量。上述未受保護的數目表示未受備份原則保護的信箱、MySites或群組數目。</block>
+  <block id="6edea1d492cb6a3d40ae21df59162f0f" category="list-text">按一下*選取*下拉式功能表、然後選取您要的篩選條件。</block>
+  <block id="a849fd1d0fdddaecae55f9037e78fa8c" category="paragraph">對於Microsoft SharePoint Online、您可以依範本ID進行篩選。您可以輸入範本ID以進行搜尋、或從下拉式功能表中選取。</block>
+  <block id="c378d5c32d9451f0f16d5f6d635058db" category="paragraph">對於所有其他服務、您可以依群組、國家/地區、辦公室、部門、職稱、 網域或國家/地區。如果您有安全性群組、這些群組也會列為篩選選項。</block>
+  <block id="9dda94868c140c7171350220db85e759" category="paragraph">第二個下拉式功能表會根據您選取的篩選條件、填入選項。例如、如果您選取「群組」做為第一個篩選器、您可以選取其中一個備份原則群組層做為次要篩選器。</block>
+  <block id="b28f7aa637e3d34ee636903075ce64f9" category="inline-image-macro">第一組篩選選項的快照</block>
+  <block id="10a2f85b5901bedb02be8ec21e9774f4" category="paragraph"><block ref="10a2f85b5901bedb02be8ec21e9774f4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="338d9231cd71aada2a49d87857d615e9" category="paragraph">此時會出現搜尋欄位。</block>
+  <block id="4310668c648943854ce73d240f05e8cc" category="list-text">如果您想要新增更多篩選條件、請按一下*新增篩選條件*、然後進行選擇。</block>
+  <block id="5a916052a81a1188c4b5c7a8c9b8f57c" category="summary">如果停用某項服務、則會移除與該服務相關的所有排程、而且不會執行進一步的備份。您仍可檢視停用前的最後一次備份、而且仍可執行還原。</block>
+  <block id="77f613867eacec10936150d3772d27d8" category="doc">停用服務</block>
+  <block id="10fab75dabb94cc751cbc585c4033a73" category="paragraph">如有需要、您可以停用一或多項適用於Microsoft 365的SaaS備份服務。如果停用某項服務、則會移除與該服務相關的所有排程、而且不會執行進一步的備份。您仍可檢視停用前的最後一次備份、而且仍可執行還原。</block>
+  <block id="72fbcfb365b58ea3e04253c83ae7be8f" category="inline-image-macro">停用按鈕的快照</block>
+  <block id="a934446538191824083af8a8ceeffd53" category="list-text">按一下 <block ref="7a2df93b9d06827856a796e9d39efc33" category="inline-image-macro-rx" type="image"></block> 在您要停用的服務旁。</block>
+  <block id="7e1669d62449aae995a5fc99102a986d" category="summary">您可以在所有Microsoft 365服務中瀏覽備份。</block>
+  <block id="c6ca0e56ba9c9a94f317ed88374773e8" category="doc">瀏覽備份</block>
+  <block id="4c56bf9d3c6d21d59223de5a3e265bb1" category="paragraph">您可以在最近的備份中瀏覽受保護的執行個體、或在Microsoft 365 Exchange、SharePoint、OneDrive for Business和群組的所有備份中瀏覽受保護的執行個體。</block>
+  <block id="7d2cab41c99baa3618cdc771cf23af02" category="admonition">預設的瀏覽設定為*顯示最近5天的備份*。如果您選取5天、則只會顯示過去5天內備份的項目。您可以視需要變更時間範圍。</block>
+  <block id="ec6ee776a34b4263e0b91b4316ec2a92" category="paragraph">若要確定您找到想要的內容、請查看時間範圍下拉式功能表左側的日期。</block>
+  <block id="bea52b10bad6f00b3d9bae4387b7e835" category="inline-image-macro">影像會反白顯示使用者信箱瀏覽的日期和次數</block>
+  <block id="d768fbd73db7045dd654f6b32fe93fcb" category="paragraph"><block ref="339933014d3c66941b820e9998bd8db4" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="635f0a4227ff67a5b82c42b163c68174" category="list-text">在*儀表板*中、選取您要瀏覽以尋找備份的服務、然後選取受保護的執行個體。</block>
+  <block id="75d78f140ab8606e9d99546e83d99040" category="inline-image-macro">強調顯示受保護的Exchange執行個體</block>
+  <block id="616d1695965f4372e9971e911fc2a832" category="paragraph"><block ref="616d1695965f4372e9971e911fc2a832" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9a68559b74ee8f6da44ceebabb49cb4a" category="list-text">選取您要瀏覽的帳戶。</block>
+  <block id="f4c57093ba87ee0853ab59e05e17f6f8" category="list-text">選取您要瀏覽之備份項目的時間範圍。</block>
+  <block id="ab1f19cdf5662bf18316f507c72e1a53" category="inline-image-macro">圖顯示瀏覽備份的時間範圍選項</block>
+  <block id="595b5248464aaec131a614f73b852fb6" category="paragraph"><block ref="595b5248464aaec131a614f73b852fb6" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4341deb83d2801685a02468740f1a8e0" category="admonition">*檢視備份記錄*會顯示備份的行事曆檢視。如果您選取*檢視備份記錄*、並選取當天之前的日期、則會變更您看到的備份時間範圍。例如、如果今天是10月8日、您在行事曆檢視中選取「10月5日」、然後選取「從10月5日開始瀏覽過去5天」、您可以瀏覽的項目將從10月1日至5日開始。</block>
+  <block id="298f7e405df9bd70d503f666655b7a2f" category="list-text">按一下您要檢視的項目類型：郵件、行事曆、工作、聯絡人、檔案、 內容或其他。</block>
+  <block id="428d3946534ec712b3769c0d38b438df" category="list-text">瀏覽備份的項目。</block>
+  <block id="c2c253473c149fda2d48d5167c2d34a0" category="summary">在SaaS Backup for Microsoft Office 365中、您可以監控所有服務的使用者資料、例如電子郵件或URL位址、信箱類型、授權使用、探索狀態、上次探索、 備份狀態、備份層等。</block>
+  <block id="6de715212b8c85391172dc81638f2bfb" category="doc">監控使用者資料</block>
+  <block id="6aaa73c1970866ed9779b298b48bd43a" category="list-text">按一下*服務*。</block>
+  <block id="2558d9db0b78845a470a13c5d27203ff" category="list-text">按一下您要匯出使用者資料的服務。</block>
+  <block id="abec412086c37030b63cbae445e65867" category="list-text">若為Microsoft Exchange Online、請按一下受保護、擱置或未受保護的信箱數量。</block>
+  <block id="d37abdad3365fb4bfc80013704eecb74" category="list-text">若為Microsoft SharePoint Online、請按一下受保護、擱置或未受保護的網站數目。</block>
+  <block id="a88f4677d2cd387077ad1f9f075f7119" category="list-text">對於Microsoft OneDrive for Business、請按一下受保護、擱置或未受保護的MySites數量。</block>
+  <block id="e490c4bc06c38e92ac709b0b47286bff" category="list-text">若為Microsoft Office 365群組、請按一下受保護、擱置或未受保護的群組數目。</block>
+  <block id="1c24e4cd44f8c150190cd0afe637d614" category="list-text">按一下「*下載*」以匯出個別服務的使用者資料Excel檔案。</block>
+  <block id="2366a80c7e9969775e6e87113d8bd6b9" category="summary">如果您打算搭配Microsoft Exchange Online使用SaaS備份、則必須設定模擬。</block>
+  <block id="49f65f305bd3302abd16a6ba325b65d3" category="doc">設定Microsoft Exchange Online的模擬</block>
+  <block id="6b8c83c9898d85caa045d0de469c77db" category="paragraph">如果您打算搭配Microsoft Exchange Online使用SaaS備份、則必須設定模擬。模擬可讓您的Microsoft 365服務帳戶模擬使用者帳戶並存取相關權限。</block>
+  <block id="0069bf8587752e66f58cc50f214117f4" category="section-title">自動設定模擬</block>
+  <block id="b07e7a5409779d1bd7057ab63b67afbb" category="inline-link">MSDN PowerShell命令</block>
+  <block id="1f777bbd5f4402e8fcf8a9acae76f986" category="paragraph">若要自動設定模擬、請執行<block ref="1f915facb5399ad0dfe75907e9cfd076" category="inline-link-rx"></block>。</block>
+  <block id="e04acd1f9cba307748f5d9735f00eda2" category="section-title">手動設定模擬</block>
+  <block id="ac67a804e01713d24a3b80b009ba740f" category="inline-link-macro">建立具有全域權限的Microsoft 365服務帳戶。</block>
+  <block id="475081efa8c55d5207fd6ebf2c8211d0" category="paragraph">您可以使用Microsoft 365系統管理員帳戶手動設定模擬、也可以在SaaS備份中新增Microsoft 365服務帳戶。如需Microsoft 365服務帳戶的詳細資訊、請參閱 <block ref="1ec45c32bd2c8bfc7bfdde982598c029" category="inline-link-macro-rx"></block></block>
+  <block id="d183af63e5075dca403caa74f094cfa3" category="paragraph">若要手動設定模擬、請執行下列步驟：</block>
+  <block id="afe1726d53042cd31bac4c0da81ad743" category="list-text">登入您的Microsoft 365服務帳戶。</block>
+  <block id="63bf294804ca9de414a867bb9b26bc4c" category="list-text">選取* Exchange *索引標籤。</block>
+  <block id="48ddabdcbc3578e3c15ba84216de335f" category="list-text">在左側的儀表板下、選取*權限*。</block>
+  <block id="24af6d3288de00e11d451bfa51f65b8e" category="list-text">按一下*管理角色*。</block>
+  <block id="f6ff089a34ba3a9ca6157779670dc8ff" category="list-text">在右窗格中按兩下以選取*探索管理*。</block>
+  <block id="bfb1e7d573c9eb6bc643431408176da6" category="list-text">在*角色*下、按一下*+*符號。</block>
+  <block id="3caa63f7f910d62a644b5d3376872c13" category="inline-image-macro">設定Microsoft Exchange Online模擬時寫入範圍視窗的螢幕擷取畫面</block>
+  <block id="eb21eff2ec724134a8bb2117fadc526d" category="paragraph"><block ref="eb21eff2ec724134a8bb2117fadc526d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1ba2cb3fa2d6e2e30f0337bca64ecb58" category="list-text">從下拉式功能表中選取*應用程式模擬*。</block>
+  <block id="7dee7e783d13b6d5d415926ce0bfc306" category="list-text">按一下「 * 新增 * 」。</block>
+  <block id="a72cc47fad7d1846d19b085d2e77e5ba" category="list-text">按一下「*確定*」。</block>
+  <block id="e6615ebb2db3d5d089acfb86aca50296" category="list-text">確認* ApplicationImpersonation*已新增至*角色*之下。</block>
+  <block id="0e8a3989d4ad94d273a0d1398b9b3eec" category="list-text">在「Members（成員）」下、按一下*+*符號。</block>
+  <block id="a0d3673f1eee1f2f61833d5c66bdbc24" category="inline-image-macro">設定Microsoft Exchange Online模擬時的成員視窗擷取畫面</block>
+  <block id="9ed4e8ed2266c74a2f1baf6a935a3c44" category="paragraph"><block ref="26d24b44fbf37fad7a1bc4f2bd668ad1" category="inline-image-macro-rx" type="image"></block>隨即出現新視窗</block>
+  <block id="86b53e93fc72969f6072b06e701a35f2" category="list-text">選擇使用者名稱。</block>
+  <block id="ffe2341c7c5a0ffbc3bd02556159c301" category="list-text">驗證使用者名稱是否出現在*成員*區段中。</block>
+  <block id="2257ec2d88aa324c25c4f721d53a8c78" category="summary">您可以依照相同的程序來排程新的備份、或將其變更為目前備份的頻率。</block>
+  <block id="202a038c87bf3da785fcbfe19ba95272" category="doc">排程備份或變更備份頻率</block>
+  <block id="a1c60f51ed7e418b70cda3bb4a662731" category="paragraph">您可以將未受保護的資料指派給備份原則來備份資料。當未受保護的資料指派給備份原則時、它會移至*擱置*狀態、直到指派原則的下一次排程備份發生為止、之後便會移至*受保護*狀態。如果您想要變更受保護資料的備份頻率、可以將資料指派給不同的備份原則層。</block>
+  <block id="a043c3ec37e07006b14643337d48a425" category="list-text">在儀表板中、在您要變更的服務方塊中、按一下「* protected *（受保護*）」或「* protected *（*未受保護*）」上方的數字。如果您要變更受保護資料的備份頻率、請按一下* protected *。如果您要備份新發現的信箱、站台或MySites、請選取*未受保護*。</block>
+  <block id="4e82159031a5fc630bf52fdbfa795707" category="list-text">選取備份選項。</block>
+  <block id="7c68d4f818524784284de73d6124d3ee" category="list-text">如果您要備份共用信箱（僅限第3層）、請按一下*共享*索引標籤。</block>
+  <block id="1412a143e1908c0c7c9114141da909b4" category="list-text">如果您要備份歸檔信箱（僅限第3層）、請按一下*歸檔*索引標籤。</block>
+  <block id="4ecc57a804f175be06e864d736776d83" category="list-text">如果您要備份或變更一般信箱、請保留在*使用者*索引標籤上。</block>
+  <block id="66358f64d601a77b0268c01eb1e1dd20" category="list-text">如果您要備份或變更站台的備份原則、請保留在*站台*索引標籤上。</block>
+  <block id="93f22bb6f6c043a37e29cd8a2109d485" category="list-text">如果您要備份或變更使用者的備份原則、請保留在*使用者*索引標籤上。</block>
+  <block id="1062e4eb1710f6cabd7a75b7bd70e965" category="list-text">如果您要備份群組（僅限第3層）、請保留在* Groups *（群組*）索引標籤上。</block>
+  <block id="24caf527c3616baf8e14302fbea43640" category="list-text">如果您要備份群組（僅限第3層）、請按一下「*團隊*」索引標籤。</block>
+  <block id="d0a03227b3184cd856b9c3246fd0e17e" category="list-text">選取您要備份的項目。</block>
+  <block id="1509cad10bd83c747a9665a29fc4dce3" category="list-text">按一下*群組*功能表。</block>
+  <block id="ca445dcd8a1ce2238f083a63ad834499" category="inline-image-macro">群組功能表</block>
+  <block id="51f3dae0617bf3c1d6681f1bd2c7b10e" category="paragraph"><block ref="51f3dae0617bf3c1d6681f1bd2c7b10e" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f9d28971c1528e28621b9e2161e06bb7" category="list-text">選取新的原則層進行備份。</block>
+  <block id="f1bf47ce5a8983718fcf0146da4072ed" category="admonition">Microsoft 365群組和歸檔信箱只能移至層級3原則。</block>
+  <block id="189379d165979226deca7a9b54924e65" category="summary">任何一般或歸檔的信箱使用者、無論受保護或未受保護、都會使用授權。如果特定使用者不再需要授權、您可以釋出授權、以便重新指派授權。</block>
+  <block id="85f5c131ebbfcb67cc6ffb0efbd2ecb9" category="doc">發行使用者授權</block>
+  <block id="493a351c3f6933245fd7e8c6213165e4" category="paragraph">任何一般或歸檔的信箱使用者、無論受保護或未受保護、都會使用授權。如果特定使用者不再需要授權、您可以釋出授權、以便重新指派授權。當使用者授權發行時、使用者會移至未受保護的層級、而該使用者的備份則會中斷。</block>
+  <block id="316cc47307ce102eec21fe0b27e99767" category="admonition">共享信箱不會使用授權。</block>
+  <block id="2f85cec97875fbe1554ba102db882d51" category="list-text">在*發行授權*下、開始輸入您要發行授權的使用者帳戶名稱。</block>
+  <block id="efc09c83ec7ff5984fef64634663f5dd" category="inline-image-macro">藍色加號圖示</block>
+  <block id="5f038bc03fd0b3b96a1a57553fae59c9" category="list-text">找到帳戶後、從自動填入清單中選取該帳戶、然後按一下 <block ref="196c8e0673c96199553d3e57046ae92d" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="c4a60f1b47020d12e3f68c8054383679" category="list-text">視需要新增其他帳戶。</block>
+  <block id="931d61f7fce4d349c66567b3121f9f12" category="list-text">按一下*版本*。</block>
+  <block id="028267b423a85fe509359c80bae16615" category="list-text">按一下「*是、請釋出授權*」。</block>
+  <block id="29361fe2d7a43657b32954e1b6bac18d" category="summary">您可以使用SaaS Backup for Microsoft 365、為Microsoft SharePoint Online執行精細層級還原。</block>
+  <block id="d0db67ae234f058e70769c92e92dad3d" category="doc">為Microsoft SharePoint Online執行精細層級的還原</block>
+  <block id="2803cf9eab93f01220a853b99db2e904" category="paragraph">在Microsoft SharePoint Online中、您可以還原單一使用者的精細層級項目、例如個別資料夾或檔案。您也可以還原Microsoft 365群組網站和OneNote筆記本的精細層級項目。網站角色和權限會在還原或備份時自動受到保護。</block>
+  <block id="aef8343d1e3fbc666a5bf3fc7e3da601" category="paragraph">下表指出精細層級項目所支援的還原選項。</block>
+  <block id="2380a2f5b8d08ee084abd8643a19e553" category="admonition">如需還原選項*還原至同一個站台*並*還原至另一個站台*、下列項目會還原為所選站台下的子站台、命名慣例為&lt;SiteName_cc_timestamp&gt;：*單一站台*、*多個站台*、以及*單一/多個清單*（如果選取3個以上的清單）。</block>
+  <block id="4d517f410fcfc73e9fcd9fab586b2f74" category="cell">SharePoint Online &gt;網站&gt;&gt;&gt;&lt;網站名稱&gt;</block>
+  <block id="93681f77c8cbeadd174504a13be92ea0" category="cell">單一站台</block>
+  <block id="0ca80baaabc12b2ca734043fcb934339" category="cell">多個站台</block>
+  <block id="0d5c33c6c54093f9ac1eee1c246b4497" category="cell">通訊網站</block>
+  <block id="d295ac2d5db964c9f6cb5949a3f19f23" category="cell">單一/多個子網站</block>
+  <block id="d0a30f9796e01102efb0499abf2293ed" category="cell">SharePoint Online &gt;網站&gt;&lt;網站名稱&gt;子網站</block>
+  <block id="35384d60569b88e8facd51be6ac7ef7c" category="cell">SharePoint Online &gt;網站&gt;&gt;&lt;網站名稱&gt;&lt;清單名稱&gt;</block>
+  <block id="20f26896b987d0f4b175033847c8b29b" category="cell">單一/多個清單</block>
+  <block id="1454626645857bdf728a3d5d37f508a2" category="cell">OneNote單一/多個筆記本</block>
+  <block id="b25709a146fc78f3504ba6471d45e64c" category="cell">OneNote單一/多個節群組</block>
+  <block id="ef4b4b4c76d4cb53e3a763f326ace39f" category="cell">SharePoint Online &gt;網站&gt;&gt;&lt;網站名稱&gt;&gt;&gt;&lt;筆記型電腦資料夾&gt;</block>
+  <block id="0dd6883e574dfde9672c3e683d9650ce" category="cell">OneNote單一/多個節</block>
+  <block id="f03477b21f41af7e356fe3208c5f325f" category="list-text">在儀表板中、按一下SharePoint方塊中*保護*上方的數字。</block>
+  <block id="b4c2d085d97c27233fa7b065ae36b88d" category="list-text">若要從最近的備份還原、請按一下*還原*。若要還原項目的舊版、請按一下「*顯示版本*」、然後選取您要還原的版本、再按一下「*還原*」。</block>
+  <block id="2ebd3fddac57fd6a11a64deffa3c93a1" category="list-text">*還原至同一個站台*如果您還原至同一個站台、預設會在包含備份複本的原始檔案位置中建立具有目前日期和時間戳記的還原資料夾。</block>
+  <block id="355c9a4416e431eb905b9bd854b6fab8" category="paragraph">如果您選取*「僅還原角色」*、*「以合併覆寫」*或*「取代現有內容」*、則唯一的還原選項是*「還原至同一個站台」*。</block>
+  <block id="88392ac8c2bbca908911a0a62266f057" category="cell">如果您選取</block>
+  <block id="572e436a9303be18ec74fda0b0314157" category="paragraph">僅還原角色</block>
+  <block id="bcd4b6d7b891a5b2a415aab633472ab9" category="paragraph">所有項目類型</block>
+  <block id="431d21a23746bfa6195fecb4d4f3d76f" category="paragraph">使用合併覆寫</block>
+  <block id="3f5c34328cc395ad9759610edb52d20c" category="paragraph">站台層級以外的所有項目</block>
+  <block id="cc2e8cd87ace54ed14cdc4ca2145cd80" category="paragraph">以現有內容取代</block>
+  <block id="0d40e1355ad156a4170b9ebdb490210f" category="paragraph">僅限項目層級</block>
+  <block id="4beeecd43c2f771bf4ba41d015810609" category="inline-image-macro">影像會顯示精細層級的還原視窗、並選取「僅還原角色」選項</block>
+  <block id="3f931a10b238e82c5dfc0c9bb6026054" category="paragraph">如果您選取*僅還原角色*、則只會還原角色和權限。<block ref="8a52ad91b98da6142f0a4ee57927e647" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6418e679e854d6254c05c62a2c15ff67" category="paragraph">如果您選取*「覆寫為合併*」選項、則不會建立還原資料夾。如果備份檔案的版本與目前檔案相符、則備份會還原至原始位置。目的地中的任何新內容都會被忽略且不受影響。例如、如果備份包含File1版本5、且目的地包含File1版本6、則選取* Overwrite with Merge*（以合併*覆寫）選項的還原將會失敗。</block>
+  <block id="56f35dd5646a70a25ec53d051fbc096c" category="paragraph">如果您選取*取代現有內容*選項、則目前的資料版本會完全取代為備份複本。</block>
+  <block id="d4aef45eaed5bded9ba10045d1d9f03c" category="list-text">*還原至其他站台*</block>
+  <block id="eb729008daf8b3603cdc161bd528d76c" category="paragraph">如果您還原至其他站台、則必須在搜尋欄位中輸入目的地站台。您可以在搜尋欄位中輸入網站的一部分、以開始自動搜尋相符的網站。</block>
+  <block id="23161a5e63c9c44494f871a1608a273d" category="summary">您可以在NetApp SaaS Backup for Microsoft 365社群論壇和知識庫文章中取得協助並尋找更多資訊。</block>
+  <block id="f22c49ab181fc5052dc2afb2f7870c8a" category="paragraph">您可以透過導覽功能表上的* Support*連結、在SaaS備份中存取這些資源。</block>
+  <block id="b24ecb506263a514c17f950224cec618" category="paragraph">您也可以寄送電子郵件至saasbackupsupport@netapp.com與SaaS備份支援團隊聯絡。</block>
+  <block id="f53f41f69a03f1af6789acff9760015b" category="doc">新增服務帳戶的權限</block>
+  <block id="5a4f9f1ee9d9f07650e33d5392daa03a" category="paragraph">您可以管理服務帳戶、探索新增的帳戶、以及設定帳戶通知。</block>
+  <block id="5f991a0983d92564555c3f91b524208c" category="paragraph">如有需要、您可以新增權限給服務帳戶使用者。服務帳戶可用來有效率地執行並行備份。</block>
+  <block id="e600994934c3fa9c4fcaca691c4214ee" category="list-text">按一下左側導覽窗格中的「服務」。<block ref="5dae113680257bfa8a9a9f41c78b194f" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="38462566187b9e0b2e5f497a5502130b" category="list-text">按一下Microsoft 365連結。<block ref="f9631d5c739c4c4b4fe570c209766ce1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c6734135d9ae05c120de2cd4d857a7c4" category="list-text">按一下「*管理服務帳戶*」旁邊的*+*圖示。</block>
+  <block id="137b6252ec3ba5ac3a49061c09729ac4" category="list-text">按一下「*確認*」以重新導向至Microsoft 365登入頁面以授予權限。</block>
+  <block id="67d991d78fa5108aec7ff0c45194bd85" category="summary">您可以使用內嵌搜尋來尋找特定內容。</block>
+  <block id="094b46cd4e2b4226382c342909cf9e52" category="paragraph">在SaaS Backup for Microsoft 365中、您可以在所有服務中搜尋受保護的資料、包括Exchange Online、SharePoint Online、OneDrive for Business、以及群組和團隊。</block>
+  <block id="5f688eec1ef4e3c2115e695b24827ad7" category="paragraph">您可以搜尋未受保護的執行個體、但只有在進行先前的備份時、才會產生搜尋結果。</block>
+  <block id="af1b2fc00c7e4ebce76f4d940d1bd773" category="paragraph">若要改善搜尋結果、請使用下列準則：</block>
+  <block id="9e41845b5c9498bfe8fa9640fbeccd46" category="list-text">至少三個字元</block>
+  <block id="eeae9bb2017810513006bd7a795dc65f" category="admonition">如果您輸入超過3個字元、先前搜尋結果中可能會保留3個字元。</block>
+  <block id="4e35c84e73e978bda99e5d5f6b941c2f" category="list-text">英數字元輸入</block>
+  <block id="437aed5f8f8175eba539e11090c8b0c7" category="list-text">單引號可精確符合字詞、字串或數字。例如：「2014年預算」。</block>
+  <block id="bbd49f27ba92316c70ba2e9b8fc6345a" category="paragraph">請依照下列步驟搜尋受保護的執行個體。</block>
+  <block id="56e326341f68e822099b6a8535a4f238" category="inline-image-macro">反白顯示的受保護執行個體快照</block>
+  <block id="2ba0e310fe10f8a26c5057dc775e3b05" category="list-text">在儀表板中、按一下您要搜尋的任何服務中*受保護*上方的號碼。<block ref="82f97feb0c1bddd52cb537084c959fa9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a8540d7fee74b4b5a05a0881c5b538a4" category="inline-image-macro">Exchange Online中搜尋方塊的快照</block>
+  <block id="e6d5fff8340dc69b65c5c43bbcd8fbed" category="list-text">在頁面右上角找到搜尋方塊。<block ref="c3eb94c75866bdedeb3b1ece01fd1980" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="74e6ffebeb598f9cd9033c5c21aeacda" category="inline-image-macro">包含Exchange Online搜尋提示的搜尋方塊快照</block>
+  <block id="e9a9c69257da19d643cb87bcf1964fcd" category="paragraph">然後輸入您在搜尋方塊中看到的提示資訊、例如搜尋方塊中的「名稱」或「電子郵件」。<block ref="b701e8f8364dd17510b0090d64acbfc5" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="43eb3506bc40d7b3a82bb8da9d2cd119" category="list-text">依名稱或電子郵件地址搜尋Microsoft Exchange Online。</block>
+  <block id="5b9debdf902cfa8c74dd5df529514aef" category="list-text">依名稱、電子郵件或MySite搜尋Microsoft OneDrive for Business。</block>
+  <block id="bcd7dd7afbb3676752c896a0b6cc7ee2" category="list-text">依網站名稱或URL搜尋Microsoft SharePoint Online。</block>
+  <block id="d3db335c991cacd28296a6f1b8ab1b35" category="list-text">依群組名稱或群組名稱搜尋Microsoft 365群組和群組。</block>
+  <block id="03a94ff01c264119f35c19662738d4e1" category="list-text">符合或符合搜尋條件的任何結果都會出現。</block>
+  <block id="ab09f98053829f456f7fa3b9633f25a9" category="paragraph">您也可以在每項服務中以更精細的層級執行搜尋。如果您在搜尋方塊右側看到下拉式功能表、請從下拉式功能表中選取*檔案*或*資料夾*、以縮小搜尋結果範圍。</block>
+  <block id="64c73441167566d1b1f8513d0691175f" category="inline-image-macro">含有檔案/資料夾下拉式功能表的搜尋方塊</block>
+  <block id="6b76b82fa67dc740baacd3e8bbe8b1b1" category="paragraph"><block ref="40cd171e8c50f14eb30cb1efa19c6399" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d7b83a62db242748835c90954a9d55e8" category="summary">您可以將系統管理角色指派給使用者帳戶、以便將一或多項服務的系統管理權限授予所選使用者。</block>
+  <block id="c4e76fab6890557f793699bf217c461e" category="doc">指派系統管理角色給使用者帳戶</block>
+  <block id="4c665c7201419346e367eb3ce862ec37" category="paragraph">您可以指派下列角色給使用者：</block>
+  <block id="9fa9d36d0c4d6feb0d7259e07602be2e" category="list-text">全域租戶：授予所有服務、儲存目標和授權更新（續約/升級）的管理權限。</block>
+  <block id="3985ad78fd7f871485ccbc9ddb94ef4b" category="list-text">Exchange管理員：僅授予Microsoft Exchange Online管理權限。無法檢視或修改其他服務。</block>
+  <block id="63dd9f2a76d950a535286a167e132e4b" category="list-text">OneDrive管理員：僅將管理權限授予Microsoft OneDrive for Business。無法檢視或修改其他服務。</block>
+  <block id="52faecfdc22c8a57d5e50557b8f453d6" category="list-text">SharePoint管理員：僅授予Microsoft SharePoint Online管理權限。無法檢視或修改其他服務。</block>
+  <block id="f0f18f59e4c55713fe40502110e0c781" category="inline-image-macro">按一下圖示以顯示使用者角色選項的快照</block>
+  <block id="24d840a6e20f36b1beec3234a60d54fd" category="list-text">按一下 <block ref="697713931a36b5ecf8304836cd65b0c5" category="inline-image-macro-rx" type="image"></block> 圖示。</block>
+  <block id="a5a0d4b8cb743abdecacdbf223875b2b" category="list-text">輸入您要新增之使用者的電子郵件地址。</block>
+  <block id="df86d903ec4b70625d686c38eb8daca1" category="doc">透過Marketplace以付費訂閱方式註冊</block>
+  <block id="f9c37692182ce74e92181f4147c3997b" category="paragraph">如果您是透過Marketplace購買授權、則會顯示授權資訊。請依照下列步驟完成註冊程序。</block>
+  <block id="7b6a8fe6d34ca4e7afc0b27bc3582ea0" category="list-text">選擇您的* Amazon S2*或* Azure Blob *作為儲存類型。</block>
+  <block id="f93b9215b4cf6cc65bd1c26057ee8382" category="list-text">選取備份所需的儲存區域。您應該選取最接近所備份資料實體位置的區域。*慣用*區域會標示為此。</block>
+  <block id="960807b3a38d77ca1916570b1732dda1" category="inline-link-macro">啟動支援</block>
+  <block id="b1b8f50a4274cba58affa63d65dc6ee5" category="list-text">如果您尚未這麼做、 <block ref="e13d8583c6001789a64d81c0b2f80cf7" category="inline-link-macro-rx"></block>。</block>
+  <block id="9a1e3ad881f27238be3ba18022725f9d" category="summary">開始使用SaaS Backup for Microsoft 365包括決定您要用來備份資料的儲存類型、收集相關資訊、建立Microsoft 365服務帳戶、以及指派使用者權限。</block>
+  <block id="82c3ac190dfb331b36c24d2629b9a365" category="doc">立即備份特定備份原則</block>
+  <block id="628c8f272a9c1367ff9309cbf3ac2e39" category="paragraph">當您為Microsoft 365設定SaaS備份時、所有資料都會受到保護。將資料移到受保護的層之後、您可以立即備份您移動資料的層級。如此可避免資料在第一次排程備份之前受到風險。如果您可以等待第一次排定的備份、則不需要立即執行備份。</block>
+  <block id="4be6e634687171d296ff9689efef1fa4" category="paragraph">您可以隨時視需要執行資料保護的立即備份。如果您執行的是適用於Microsoft 365的SaaS備份試用版、則每項服務每天只能執行三次立即備份。</block>
+  <block id="b21aade20be3aa52fbd7e19d44d95f15" category="list-text">從儀表板中、選取您要立即執行備份的服務。</block>
+  <block id="500607720c4007205ed82f9627508ebf" category="list-text">在*備份原則*下、按一下您要備份的層級。</block>
+  <block id="6bdefe1209f1b4108898c3b0c0aa23a4" category="list-text">按一下「立即備份」。</block>
+  <block id="c4e19d6a56de1db2b646ed468fe34406" category="inline-image-macro">SaaS備份「立即備份」按鈕的快照</block>
+  <block id="04f8c5c5d0753d92448247da261dc16c" category="paragraph"><block ref="04f8c5c5d0753d92448247da261dc16c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6f37828bcbea36fbc57f899e8bdd0cd6" category="paragraph">畫面會顯示訊息、指出所選層下的服務將會置於工作佇列中、以供立即備份。</block>
+  <block id="8d70214cbd536abf36aeb64c442660f0" category="summary">Microsoft SharePoint Online僅支援某些範本和應用程式。</block>
+  <block id="88d28573ab9ffce58598946fe0434eab" category="doc">Microsoft SharePoint Online支援的範本與應用程式</block>
+  <block id="ffde9454ef8c9e67824671b5f90ef4b3" category="paragraph">Microsoft SharePoint Online備份僅支援特定範本和特定應用程式。</block>
+  <block id="7a1f04b2d3d1f53a86a127a04ae05ffa" category="section-title">支援的範本</block>
+  <block id="6d4899d90ff8e885f5d6afb716947caa" category="paragraph">Microsoft SharePoint Online備份僅支援下列範本。</block>
+  <block id="f147e417e253f3649fa08ee3c726c5b6" category="list-text">STS#0（團隊站台）</block>
+  <block id="cddb8b7e396a9448541f168d850a1c89" category="list-text">部落格#0（部落格網站）</block>
+  <block id="8895ca3fefee90156397266d924d5e41" category="list-text">開發#0（開發人員網站）</block>
+  <block id="9a492fb411effb6def9bd750ee241502" category="list-text">PROJECTSIT#0（專案網站）</block>
+  <block id="4319f1f8a534389d362338effa71fde1" category="list-text">社群#0（社群網站）</block>
+  <block id="aeb0ae5333eb1d0d3a620b3e0a965e46" category="list-text">BDR#0（文件中心）</block>
+  <block id="fcbb87b18a7ec7bfea87fd82fea3125e" category="list-text">COMMunitYPORTAL#0（社群入口網站）</block>
+  <block id="a58b4305f2ff2b8240ab4d9a837c1cd9" category="list-text">ENTIERWIKI#0（企業維客）</block>
+  <block id="5a9fa37a8adc9079710c82bebd381be2" category="list-text">EHS#1（根站台）</block>
+  <block id="a1c702db865ff7988cecde653d31e549" category="list-text">EHS#0（根站台）</block>
+  <block id="e69fe81e6c14067bfa02448cc56f0d90" category="list-text">SITEPAGEPUBLISHING #0（通訊站台）</block>
+  <block id="cd6b1dceac9feb15ce679e63c41ec14b" category="list-text">群組#0（群組網站集合首碼）</block>
+  <block id="02331da6f964bf5a355bef176199392c" category="list-text">STS#1（空白站台）</block>
+  <block id="370f28e84c7e5f280c6384763af39ff8" category="list-text">STS#2（文件工作區）</block>
+  <block id="bb39ae34f785130781c5d7c8f66840ca" category="list-text">STS#3（現代團隊網站）</block>
+  <block id="fa553c3989f3b275c2fd19183b6219e5" category="list-text">應用程式#0（應用程式範本）</block>
+  <block id="4d9496325ef678735e8ac8b99b7a562b" category="section-title">支援的應用程式</block>
+  <block id="9290c29ee8fb1ca756074402eebf6a86" category="paragraph">Microsoft SharePoint Online備份支援下列應用程式。</block>
+  <block id="f10f8b5e27c8e52848c81fc8f1025dbb" category="list-text">自訂清單</block>
+  <block id="39a1c3324bea872bb648de4db9d34f65" category="list-text">徽章（社群網站）</block>
+  <block id="619974b872863ee37df921d6fa6d5fa0" category="list-text">文件庫</block>
+  <block id="93db1285bfd434b8930d19c0317cab66" category="list-text">樣式庫</block>
+  <block id="9fd9f9ccd630cd4b6894051c35710572" category="list-text">調查</block>
+  <block id="97e7c9a7d06eac006a28bf05467fcc8b" category="list-text">連結</block>
+  <block id="feb4d2dfe1b2a637fdfd9e397cc4735f" category="list-text">公告</block>
+  <block id="bbaff12800505b22a853e8b7f4eb6a22" category="list-text">聯絡人</block>
+  <block id="8ff922bbcd8ad41cdfc48d3c5163b2ab" category="list-text">行事曆</block>
+  <block id="22628ee5c8124425119177cbb4b7f11a" category="list-text">討論區</block>
+  <block id="5daaf223b01f8f3e1bd9287170826fbc" category="list-text">照片</block>
+  <block id="c893ad8eb8595aa4966d36f7c951e53a" category="list-text">圖片庫</block>
+  <block id="c6e0e5576576561ca3ab7a08fba1f7a9" category="list-text">內容網頁組件</block>
+  <block id="bd6f28d24237dcd576da3b1d271c6bb4" category="list-text">清單範本庫</block>
+  <block id="5c0403cae0d3e889faa5cde29844e8b6" category="list-text">主版頁面庫</block>
+  <block id="b06e76b30400670419eb3d90983679ea" category="list-text">網站頁面</block>
+  <block id="37033834962577c013de59b70186ef39" category="list-text">資料集檢視中的自訂清單</block>
+  <block id="e5a591a549bc8d8ad0eefd2eb559be06" category="list-text">解決方案庫</block>
+  <block id="7c37bb7776a666a8c97f5927c5e3019b" category="list-text">主題庫</block>
+  <block id="9c8b01903f7a166e54dfb3193525d5cb" category="list-text">組成風格</block>
+  <block id="cb4aae25d345e7b466586057b46028a2" category="list-text">促銷連結</block>
+  <block id="ef615563c8e8ea902c7fcac3cd2c4246" category="list-text">工作</block>
+  <block id="f7d0ca23f2c157d8d0ac07fac914b66a" category="list-text">文章（部落格網站）</block>
+  <block id="cce8835734dfe9b7c2260452dcd854e9" category="list-text">意見（部落格網站）</block>
+  <block id="2521c54712ade1513d67eadc3ffe3e4b" category="list-text">社群討論（社群網站）</block>
+  <block id="6a2881dbd014f4890617b3c20c3c834d" category="list-text">類別（部落格網站）</block>
+  <block id="4e580e9e8258dd6fb9e7c90fdda37f10" category="list-text">社群類別（社群網站）</block>
+  <block id="4b1b4dc8cf38b3c64b1d657da8f5ac8c" category="list-text">報告</block>
+  <block id="e87f48c9651c58d2e58f8947cf30a34c" category="list-text">維客頁面</block>
+  <block id="047a64de34ae096a1f0493bdf42f1b6e" category="list-text">網站集合映像</block>
+  <block id="43564d902352df1c4547a1b9d6430104" category="list-text">社群成員（社群網站）</block>
+  <block id="aea05eb879cbace15fd2959b2ec60ef5" category="list-text">問題追蹤</block>
+  <block id="ef11d90479ba66a9b7d50d6adb0da043" category="list-text">記錄庫</block>
+  <block id="455f6098c420b0bff4fdf54a1d28b8f0" category="list-text">分享連結</block>
+  <block id="0f638f48553fda495650e517cecc05b2" category="summary">安全性群組可用來做為篩選選項、以檢視您的資料並建立規則。</block>
+  <block id="2ffbe959edbe01c0c5cd56c90bc00d8d" category="doc">新增安全性群組</block>
+  <block id="0f9443e6e2ae0748eadaf4c71d113455" category="paragraph">您最多可以新增3個安全性群組。接著您可以在SaaS備份中使用安全性群組做為篩選選項。</block>
+  <block id="3293e39cea32d292601ae293cef7ecba" category="inline-link">在管理中心中建立、編輯或刪除安全性群組</block>
+  <block id="72d7a07f71d29741a440a6ccd3420924" category="paragraph">新的安全性群組必須透過AutoSync或手動同步來探索、才能新增。<block ref="5773e7c53afca7373ca53d4316d577c4" category="inline-link-rx"></block>。</block>
+  <block id="1f4d9b0a992b8429cc71724e98b50255" category="list-text">按一下*安全性群組*。</block>
+  <block id="c56e0bf3df88870012e054d6d8888966" category="list-text">在搜尋欄位中、輸入您要新增的安全性群組名稱。</block>
+  <block id="d65dba4c9f44a82f9170ce9c1703ba84" category="summary">您可以將個別層級、信箱、站台及MySites保留資料的時間長度（以年數計算）更新為7年、10年或無限。</block>
+  <block id="cc2145b869199d961affac79934fa41f" category="doc">更新備份保留期間</block>
+  <block id="aa378916d99a534861b26ea544bc08f6" category="paragraph">您可以將個別層級、信箱、站台及MySites保留資料的時間長度（以年數計算）更新為7年、10年或無限。如果訂閱有效、SaaS備份會保留保留保留期間內的備份資料。如果所有備份層都有相同的保留期間、您可以執行全域更新、同時變更所有租戶的保留期間。</block>
+  <block id="eeb31c7abe07cfdc76bcd1c687e732d4" category="section-title">更新特定層級的備份保留期間</block>
+  <block id="94216c0e12d42b92711e6a45ce7a548e" category="list-text">在*儀表板*中、按一下任何服務。</block>
+  <block id="122f65a3bb5d40b11d5ade616e9d48d0" category="list-text">在*備份原則*下、按一下您要變更之層級*保留期間*旁的下拉式功能表。</block>
+  <block id="6b2f3cd7301fe0eaa0b99174b00619b0" category="list-text">從預先定義的清單中選取所需的保留期間。</block>
+  <block id="ab3c12eae2f2744c9a522433f4048820" category="list-text">按一下*更新保留期間*。</block>
+  <block id="d2ace93f19f4073c24fb32ad8357d008" category="section-title">更新個別使用者和租戶的備份保留期間</block>
+  <block id="4d2dc1fb517faf1351e40af5c798d589" category="inline-image-macro">組態圖示</block>
+  <block id="b0993439c0d1d476bdedee08ce113e13" category="list-text">按一下組態圖示 <block ref="a0cde246171809ba886b58a232df6058" category="inline-image-macro-rx" type="image"></block> 位於左上角的SaaS備份使用者ID旁。</block>
+  <block id="9aa8ad965addb3d3cc825b351a3df119" category="list-text">若要更新特定服務中特定使用者的資料保留原則、請執行下列步驟：</block>
+  <block id="7ff52ec66b9e3b3ac7337e4a4e305288" category="list-text">在*資料保留原則*下、按一下*供應商類型*旁的下拉式功能表、然後選取供應商。</block>
+  <block id="c9b09cc6dace12ed615f10b3e6a49658" category="list-text">按一下*服務名稱*旁的下拉式功能表、然後選取該服務。</block>
+  <block id="b78a9a47996277ed35dace227b859f92" category="list-text">按一下*保留期間*旁邊的下拉式功能表、然後從預設時間清單中選取您要的期間。</block>
+  <block id="e4f96dd27a010c8a074859e18ebfb977" category="list-text">在搜尋方塊中、開始輸入您要更新的使用者、網站或MySite。</block>
+  <block id="7d77c1993f89af33538dcb88e63b34c4" category="list-text">從相符的結果中選取您要的使用者、站台或MySite。</block>
+  <block id="e7e82d0cce0ad14477543a890638d0c3" category="inline-image-macro">加號</block>
+  <block id="ea52a58fecf75231615caee9f1e6f259" category="list-text">按一下 <block ref="42a150c31fed0254cf8d45981381ff10" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="f3b1437f7a4586fb2c5368d517a81d4e" category="list-text">視需要繼續搜尋並新增個別信箱、站台或MySites。</block>
+  <block id="3045cba3aa54b3573198ca691aaf926c" category="list-text">按一下「 * 儲存 * 」。您選取的個別信箱、站台或MySites會更新至所選的保留期間。</block>
+  <block id="b21802cf7e001e25197367f5d583808b" category="list-text">若要更新租戶層級的資料保留原則、請執行下列步驟：</block>
+  <block id="a7d2551510b2cd7a138c453deff4b807" category="list-text">在*租戶層級資料保留原則*下、按一下*保留期間*旁的下拉式功能表、然後從預設時間清單中選取您要的期間。</block>
+  <block id="243f915df66d1cc2ec089205411db8ac" category="list-text">按一下「 * 儲存 * 」。所有備份原則層級都會更新至您所選的保留期間。</block>
+  <block id="ac9d3c00a505101ed1e06441d85735b3" category="section-title">每項服務的備份設定</block>
+  <block id="619750f91d862423798373be968432f4" category="cell">備份設定</block>
+  <block id="b5a7adde1af5c87d7fd797b6245c2a39" category="cell">說明</block>
+  <block id="00d23a76e43b46dae9ec7aa9dcbebb32" category="cell">已啟用</block>
+  <block id="d80bfd170dd3773e01c0fb40cb25219a" category="cell">提供於...</block>
+  <block id="016e420685040222b9875fc6b3710684" category="cell">自動同步</block>
+  <block id="c0cee666cc21d0d6d3f12cf54ec37d55" category="paragraph">每24小時啟用新增或刪除使用者、OneDrives或網站集合的自動排程同步。</block>
+  <block id="e9f7009a3509f4da8ce78cbad712b8a5" category="cell">依預設</block>
+  <block id="fca7b3b0233475838090cb1abc9b407e" category="list-text">Microsoft Exchange Online</block>
+  <block id="329fec6008d2dac2b0e269dd3e99dd8f" category="list-text">Microsoft SharePoint Online</block>
+  <block id="4aaef138780beea79c57ea12a1cdb616" category="list-text">Microsoft OneDrive for Business</block>
+  <block id="cc0c27c7f59e83f33f7ce4e86450e360" category="list-text">Microsoft 365群組</block>
+  <block id="6da6d3d90596106740200e7c8200aa47" category="cell">啟用OneNote備份</block>
+  <block id="d726253eeefad57004924165f252e7a6" category="paragraph">啟用OneNote筆記本的備份。</block>
+  <block id="826c19d01b527f2701cc3460b9c889de" category="cell">手動</block>
+  <block id="949e9195eef2fe24fc2dfc01f544f126" category="cell">啟用還原可恢復項目</block>
+  <block id="ee68ea3fa60d667702f03f23d8e22d21" category="paragraph">可讓使用者還原Microsoft Exchange可還原的項目。</block>
+  <block id="ce1356c00d37fc25350c7516025a9d0c" category="cell">啟用可恢復項目的備份</block>
+  <block id="c176e8be3bb2df779a5d12a4701d99c2" category="paragraph">啟用Microsoft Exchange可恢復項目的備份。只有第1層備份原則允許備份可恢復的項目。</block>
+  <block id="a995389c49194b68e0749843ec7e69a1" category="cell">包括工作流程</block>
+  <block id="f4030056a1c628eca00452d58c4a330b" category="paragraph">在備份中加入工作流程。</block>
+  <block id="20046b385b1b586492e70cfebf8eb108" category="cell">包括清單檢視</block>
+  <block id="4de3a646759ee7e654cea6041fcd5c59" category="paragraph">在備份中包含清單檢視。</block>
+  <block id="ce5042bb63f8278c49598fde61f8945e" category="cell">包括版本歷程記錄</block>
+  <block id="090fdf496b3a3c98b47cacb6308159ad" category="paragraph">可在備份中維護多個檔案版本。</block>
+  <block id="d3d26bbc2d70b82ae3aa8158b324cfc3" category="admonition">此設定僅適用於個別檔案。不適用於整個資料夾、階層或服務。</block>
+  <block id="654bf677132bda977889396348f87202" category="cell">版本數</block>
+  <block id="13acecebbbd0ca2e6afa122ec1d4809c" category="paragraph">設定要維護的備份檔案版本數目。根據預設、即使未啟用此設定、仍會自動備份最新版本。</block>
+  <block id="e871c947345cf496e214e1db0324d8f7" category="cell">預設設為20</block>
+  <block id="279ee743f91b8d9d2e194a5cc60edf39" category="summary">您可以在NetApp SaaS備份中以多種方式管理服務、包括啟動新服務、停用現有服務、清除資料及取消工作。</block>
+  <block id="7d735cae736c4d6f5e334d312ae9db1f" category="paragraph">您可以完全移除與使用者、網站集合或Microsoft 365群組相關的所有資料。清除的資料可在七天內恢復。七天後、資料會永久刪除、使用者授權會自動釋出。</block>
+  <block id="1caa902112b42d538aa48a404aed49df" category="list-text">按一下組態圖示 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 位於左上角的SaaS備份使用者ID旁。</block>
+  <block id="0ecc794c57963be54ab37fd5945b22c4" category="list-text">在*清除資料*下、從下拉式功能表中選取*服務類型*（Exchange、OneDrive或SharePoint）。</block>
+  <block id="0b8916bcfec132a5710165dd6a4cdb67" category="list-text">搜尋您要清除的使用者、網站集合或Microsoft 365群組。若為Microsoft Exchange Online或OneDrive for Business、請輸入使用者或Microsoft 365群組名稱。若為SharePoint Online、請輸入網站集合名稱。+附註：如果使用者有歸檔信箱、則歸檔信箱的使用者名稱會以「就地歸檔」為前置位。</block>
+  <block id="675107b136168f3b1529cdd9e5203bf5" category="list-text">當搜尋結果傳回時、按一下 <block ref="196c8e0673c96199553d3e57046ae92d" category="inline-image-macro-rx" type="image"></block> 選取使用者、網站集合或Microsoft 365群組。</block>
+  <block id="b49fdb326c966a3dd88a042831a9f144" category="list-text">按一下「*是*」以確認您要清除資料。</block>
+  <block id="230c3874dfeca9a6cb47fa97722bce17" category="summary">如果使用者定義的規則正在使用安全性群組、則無法將其刪除。您必須移除使用者定義的規則、然後刪除安全性群組。</block>
+  <block id="7fdea57e693b111f8b7be24d9641bb12" category="doc">刪除安全性群組</block>
+  <block id="76b6660d93d4a2327762e53ed6aa314e" category="inline-xref">刪除規則</block>
+  <block id="c1f09ec0377a9bd2a7cfb7172b9c98e7" category="paragraph">如果使用者定義的規則正在使用安全性群組、則無法將其刪除。您必須移除使用者定義的規則、然後刪除安全性群組。<block ref="4bc0b3a296f9607a4b170f541faab8be" category="inline-xref-macro-rx"></block></block>
+  <block id="a67a8c0725a0243549441486b4ce8841" category="list-text">按一下您要移除之群組旁的刪除圖示。</block>
+  <block id="1add4107c561215f87879f537c668438" category="summary">您可以更新、新增或更新授權。</block>
+  <block id="e3a160a7cd4bc5ae0702343e9e786d15" category="doc">更新訂閱資訊</block>
+  <block id="24107a07a8c4f6a917374c7796d10911" category="paragraph">購買附加授權或訂閱延長線之後、您可以在SaaS備份中更新訂閱詳細資料。</block>
+  <block id="7901d194d9941dfce88276e12fdf81dc" category="admonition">任何一般使用者信箱、無論受保護或未受保護、都會使用授權。共享信箱不會使用授權。</block>
+  <block id="b7408664f2049ff408a7abe1385870ea" category="list-text">按一下 <block ref="92b2090f67667b3cc14920419b32a5f9" category="inline-image-macro-rx" type="image"></block> 在右角。</block>
+  <block id="335667a29d4d16064c66f675b3f3c215" category="list-text">按一下「訂購詳細資料」旁邊的*更新*。</block>
+  <block id="b25e6aa4b8585ffe6e9c679b4b763d43" category="list-text">輸入您第一次登錄時使用的相同使用者名稱和密碼。</block>
+  <block id="3e03eb30e32cbda58f94d859aef939c7" category="doc">以付費訂閱方式註冊</block>
+  <block id="b9d34d658c9ce9bcdd330baf715cf1c4" category="paragraph">如果您是透過NetApp購買授權、則會顯示您的訂閱類型。請依照下列步驟完成註冊程序。</block>
+  <block id="5bd660b6b70cc7e9e5121ff01396dc31" category="paragraph">若要驗證您的訂閱、您必須擁有NetApp SSO使用者ID和密碼。如果您沒有NetApp SSO帳戶、請前往<block ref="4b0df7f6652ef877e322a199d6b6edce" category="inline-link-rx"></block> 註冊一項。處理完您的申請後、您將會收到一封電子郵件通知、其中包含您的NetApp SSO認證資料。處理申請並傳送通知電子郵件約需24小時。</block>
+  <block id="2813f127dc58929fb553bc32684c2e46" category="doc">已知問題與限制</block>
+  <block id="dd5f8dd4f85249942624661b110d693e" category="paragraph">以下是SaaS Backup for Microsoft 365應用程式層級已知的限制。</block>
+  <block id="0d58f13cf59b3acb936d22fbb195c797" category="section-title">適用於SharePoint Online</block>
+  <block id="0df29440fd1f5817998dad2145c5d66f" category="paragraph">SaaS備份不支援歸檔SharePoint網站的備份。</block>
+  <block id="69cadd9afb18beaf638480ee96474d8d" category="section-title">適用於商務用OneDrive</block>
+  <block id="6346662e0704c71f9315c98ae046d219" category="paragraph">在手動完成服務同步之前、不會偵測新增的磁碟機。</block>
+  <block id="6e56d85b59ed18494624e5efc9118118" category="section-title">適用於Exchange Online</block>
+  <block id="bbab3039495eb009e7e37fddca11f420" category="list-text">SaaS備份不支援公用資料夾的備份。</block>
+  <block id="ec33cc053523746b10689885a6465e31" category="list-text">*進階搜尋*僅適用於Exchange Online。此設定預設為停用。客戶必須要求啟用此功能。啟用*啟用進階搜尋*設定之後、系統管理員必須手動為個別使用者啟用搜尋功能。</block>
+  <block id="04fe5f6086035badbfe6f17afc8b1812" category="section-title">適用於團隊</block>
+  <block id="3ae90eaf5bfb44951f5e8d213a509b80" category="list-text">已還原通路組態、但內容和對話則未還原。</block>
+  <block id="344380bbdcd6e472f74897190dc6aedf" category="list-text">由於API限制、SaaS備份無法區分SaaS備份中的公有和私有通道。</block>
+  <block id="624442c799e4e89cb608e21d94dd9e38" category="list-text">高層級還原僅還原信箱與SharePoint資料、而非對話。</block>
+  <block id="d5b9bcd91341381d4f9facf62e69a760" category="list-text">團隊聊天不支援Emojis和gifs的備份或還原。</block>
+  <block id="2e6df5bd869e8c255a210d03f781c2a2" category="list-text">「僅限團隊聊天對話匯出」選項為「匯出至HTML」。在對話中張貼的附件連結不會顯示在HTML文件中。</block>
+  <block id="725eb4a545d53ed127b237f8677c348e" category="section-title">適用於OneNote</block>
+  <block id="78c84ad1cca9922872a03826b4f4ba13" category="list-text">無法匯出至資料。</block>
+  <block id="e9c7dd5d31fad4f1fecc238f1b5cec74" category="list-text">遞增備份工作可能會失敗、並顯示下列錯誤訊息：「部分失敗。無法備份少數的OneNote節。</block>
+  <block id="cba4e4936570a5f6cd9e636d453ee2df" category="list-text">OneDrive備份包括.onewak檔案的備份。</block>
+  <block id="f9a2d354ea1790dcf9c2db418f193cf6" category="list-text">無法下載還原統計資料。</block>
+  <block id="e7c2efd0bfa0260184087f86122e8b75" category="list-text">不支援資料匯出和資料清除。</block>
+  <block id="09278d595eba2b1b6b3244e86b371f47" category="section-title">其他問題與限制</block>
+  <block id="32310e00614d51c5c61fc82cc5a79a3f" category="paragraph">下列已知問題和限制並非僅適用於單一應用程式。</block>
+  <block id="3b1482aa22733fab359963f1e198cc38" category="paragraph">所有使用Microsoft 365服務帳戶註冊的使用者：</block>
+  <block id="d6770628964f371c2f152263aeff74c2" category="list-text">SaaS備份僅支援基本驗證。</block>
+  <block id="8d8b65656fcc19c1e36d5965880e2fd5" category="paragraph">免費試用使用者：</block>
+  <block id="23bf76c3ad78237ef4e199168c220afe" category="list-text">在24小時內、每項服務最多允許10次還原。</block>
+  <block id="367955ddc3f4870ab77b4bd7a25a6368" category="paragraph">授權使用者：</block>
+  <block id="c7f60a696ecccd62f0e9e25cd5a34555" category="list-text">在24小時內、每項服務最多允許10次匯出資料還原。所有其他還原選項均不受限制。</block>
+  <block id="7730a1bb36658e50b78927fef6f0a050" category="paragraph">若要還原網站集合群組：</block>
+  <block id="efd287cdc753601d5107130525c91ace" category="list-text">如果刪除整個網站集合群組、集合中的私有群組還原將會失敗、導致還原工作狀態為「部分失敗」。 如果發生這種情況、則無法從GUI存取站台。</block>
+  <block id="4c16b0a23d0e5246d2604fb46b891dab" category="paragraph">*進階搜尋*：</block>
+  <block id="1c90154d49e9e74aec0cd7ad23f32b3c" category="list-text">在24小時內最多允許10個搜尋工作。</block>
+  <block id="74524ae37b19d9cf62712abd2b11085c" category="summary">表格參考資料會顯示在SaaS備份中的何處可找到團隊資料。</block>
+  <block id="15ed07498534e492570fb7e8050ae853" category="doc">團隊資料位置</block>
+  <block id="28cb7fa26b2eed860a1681734c1aea62" category="paragraph">Microsoft團隊的資料在SaaS Backup for Microsoft 365中有不同的位置。</block>
+  <block id="b3249d731f3a72ac9550516d53e1d6b7" category="paragraph">下表顯示如何在SaaS備份中找到團隊資料。</block>
+  <block id="a4f277ba4d9410ebd7493cf7009303d1" category="cell">團隊資料</block>
+  <block id="d852828c0312d3ac425ccac759544a88" category="cell">SaaS備份的位置？</block>
+  <block id="0c65c0fe7b2a50adfb7e670c677d5b46" category="cell">團隊電子郵件</block>
+  <block id="9100115e2aff2b117c852fe3040304f7" category="paragraph">Microsoft 365群組&gt;團隊&gt; SampleTeam &gt; Mailbox</block>
+  <block id="1e3a0932caef0d54f54ddac0f3bdb0fd" category="cell">團隊通路</block>
+  <block id="4cbdec5ea161e9b6b980d06224dabdd2" category="paragraph">Microsoft 365群組&gt;團隊&gt; SampleTeam &gt; Channels</block>
+  <block id="920e4602a0824e2af97f4a63c3bc90e0" category="cell">團隊標準通路文件</block>
+  <block id="e7c152e404876a5a6cd114d04d220a66" category="paragraph">Microsoft 365群組&gt;團隊&gt; SampleTeam &gt; SharePoint網站&gt;文件&gt; SampleTeam-StdChannel</block>
+  <block id="47c5d34b7b5e87d53a750f5e3d8b2c1f" category="cell">團隊標準通路聊天</block>
+  <block id="9ccca774fb81b652cd087e9416ace891" category="list-text">Microsoft 365群組&gt;團隊&gt; SampleTeam &gt; Mailbox &gt; Conversations &gt; Team Chat</block>
+  <block id="b25b9eb6f507005b0d03b3233d710329" category="list-text">Microsoft 365群組&gt;團隊&gt; SampleTeam &gt; Mailbox &gt; Mail &gt; Conversation History &gt; Team Chat（實際位置）</block>
+  <block id="bd43e19934149f41f9b6e9ac77d017b0" category="cell">團隊私有通路文件</block>
+  <block id="3a13ec2cbb025ae5611b89648fb19b07" category="paragraph">SharePoint &gt; SampleTeam–SampleTeam-Private Channel &gt;文件&gt; SampleTeam-Private Channel</block>
+  <block id="90640bfc79082f48dda2439d9b741378" category="admonition">您會發現另一個網站集合、其名稱為「&lt;您的團隊名稱–私有通路名稱&gt;」。您可以使用範本ID：TEAMCHANNEL#0篩選這些網站集合。</block>
+  <block id="9ce0ffd19f44db5afee1e428758cc8d9" category="cell">團隊私人通路聊天</block>
+  <block id="5ac119267c5f1e9c826c53cd06bc543d" category="list-text">Exchange &gt;「私人通路的使用者」&gt;「郵件」&gt;「對話」&gt;「團隊聊天」</block>
+  <block id="afb54ad4d75600ab9ea86f48e4cdbfa6" category="list-text">Exchange &gt;「私人通路使用者」&gt;「郵件」&gt;「對話記錄」&gt;「團隊聊天」（實際位置）</block>
+  <block id="002d9fca417b7498bd93925b66a9537f" category="cell">個別使用者聊天和群組聊天</block>
+  <block id="ecc13afaeb6107f3ffc2b41a5af9e195" category="list-text">Exchange &gt;「User」（使用者）&gt;「Mail」（郵件）&gt;「Conversation History」（對話記錄）&gt;「Team Chat（團隊聊天）」</block>
+  <block id="7de191b83c23da9f013bbffc9dcf53ae" category="cell">在個別使用者聊天室和群組聊天室中共用的檔案</block>
+  <block id="caa50fecb0dd5d31820b4c4d4babd378" category="summary">如果您未續約Microsoft 365的SaaS備份授權版本、則訂閱期間所使用的資料將會刪除。</block>
+  <block id="7be94d6ea867267b0e0652c209469b72" category="doc">資料刪除</block>
+  <block id="e74c06c1a0847732e3713bc6a79b3a54" category="paragraph">如果您未續約Microsoft 365的SaaS備份授權版本、則訂閱期間所使用的資料將會刪除、如下所示：</block>
+  <block id="67e7e21eb8eddeed7b11c9adce8bfa65" category="cell">如果您的SaaS備份付費訂閱是...</block>
+  <block id="cd35b18e9c73b7753bbce41116add383" category="cell">付費訂閱結束後的天數</block>
+  <block id="eec1e6e91c656e3f608e6d1c55f15f99" category="cell">您的資料是...</block>
+  <block id="24fe48030f7d3097d5882535b04c3fa8" category="cell">已過期</block>
+  <block id="adebde388bd3dffec83088fecaf4aced" category="cell">1至30天</block>
+  <block id="afd64a17a7c36e9153991fbe0eda0f76" category="cell">可用：系統管理員具有正常存取權、可執行手動備份與還原。SaaS備份會持續顯示警示並傳送通知。</block>
+  <block id="b9f5c797ebbf55adccdd8539a65a0241" category="cell">已停用</block>
+  <block id="566c37b0ba881e0597c502ef7d710889" category="cell">31至60天</block>
+  <block id="50fc34bbfebbd150a1cb0b6892317c19" category="cell">停用：系統管理員無法存取SaaS備份入口網站。如果在此期間續訂、則可重新啟動資料。</block>
+  <block id="04ae8e08c8997b56dd2db946fffa8577" category="cell">已取消資源配置</block>
+  <block id="33a738ddb5dfef5ce776090768e77555" category="cell">61天以上</block>
+  <block id="f698dce7cb7262aee1c5f6bbe5519878" category="cell">刪除：刪除所有資料、並移除租戶帳戶。</block>
+  <block id="a0ea6c6911559843552bcc56ded3944f" category="summary">您可以新增或發行授權。</block>
+  <block id="ec01ce5d7a75843507cddc0f1e980f6a" category="doc">新增授權</block>
+  <block id="f107403a51da9715c55c82dcbb161e3f" category="inline-xref">付費訂閱入門工作流程</block>
+  <block id="c868c54ae5c3125041dc274cfd194cea" category="paragraph">如果您剛收到付費訂閱的授權、請遵循 <block ref="c5414855c6c1726b18ea39487883aef4" category="inline-xref-macro-rx"></block>。您將在工作流程中輸入授權金鑰。</block>
+  <block id="dc03f45708897a13fda9ad9868da3303" category="paragraph">如果您已經在使用SaaS備份、可以依照下列步驟新增額外授權。</block>
+  <block id="ce5e8658881b9dee19c0ca19ac36505b" category="paragraph">教育領域可擁有教職員授權、以及學生的個別授權。</block>
+  <block id="935f9ecad6dadf1ce20d75b6aa7ad1ef" category="list-text">按一下 <block ref="196c8e0673c96199553d3e57046ae92d" category="inline-image-macro-rx" type="image"></block> 在右角。</block>
+  <block id="a03cffdbe1f3f253a7304e56ead38182" category="list-text">輸入授權資訊。</block>
+  <block id="c1263ba906c5f50faf7010ae019c7c55" category="list-text">按一下*驗證訂閱*。</block>
+  <block id="e9ca6da7a1d41ccd25cae73c996ab02a" category="summary">啟用支援可讓您透過電話、線上聊天或網路票務系統存取技術支援。</block>
+  <block id="83f88ebd41a2d4bf2440a2d134086a74" category="doc">啟動支援</block>
+  <block id="1d66d7cc63a334746d671e14b2982f40" category="paragraph">如果您透過NetApp購買SaaS備份、預設會啟動支援。如果您是透過AWS等雲端市場購買SaaS備份、則必須啟動支援。啟用支援可讓您透過電話、線上聊天或網路票務系統存取技術支援。</block>
+  <block id="b4bb5829d02f0e6ae890ecb7e5e4b540" category="paragraph">如果您要從SaaS備份試用版升級、則可在完成升級程序之前或之後啟動支援。</block>
+  <block id="661792ef5e2f0774f4e4af5a84b381b3" category="paragraph">若要啟動支援、您必須擁有NetApp SSO使用者ID和密碼。如果您沒有NetApp SSO帳戶、請前往<block ref="b56b58ae2c0373b02c7437e945163b59" category="inline-link-rx"></block> 註冊一項。處理完您的申請後、您將會收到一封電子郵件通知、其中包含您的NetApp SSO認證資料。處理申請並傳送通知電子郵件約需24小時。</block>
+  <block id="de7f7e804841b50289ac8b7bfe9210c8" category="inline-image-macro">MS服務設定圖示</block>
+  <block id="5281ebf1bde282868c196cdcb2365e84" category="list-text">按一下設定圖示 <block ref="db2cd4431e8f265a98c4345e0980d802" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="7618f09daf91e446d0b6bdedbf40da74" category="list-text">在「*啟動支援*」方塊中、按一下「*啟動*」。</block>
+  <block id="b1a1fe6a5f36f4773bea9cc983a1b11a" category="list-text">輸入您的NetApp SSO使用者名稱和密碼。</block>
+  <block id="16f533344992e39a95d4d5db43fdcbd8" category="list-text">按一下「*啟動*」。</block>
+  <block id="26aca1efdf61bf87d67652819c9abc08" category="paragraph">支援狀態為「NOW * Active*」。</block>
+  <block id="96c5c2a6a16af4dbce3c3c185b2600d2" category="paragraph">您可以為Microsoft Exchange Online、OneDrive for Business、SharePoint Online及Microsoft Office 365群組建立規則。</block>
+  <block id="245a50c7f83ec336dcce1b49eaadfe92" category="inline-image-macro">使用者定義篩選器和SaaS備份定義篩選器的範例、用於建立規則</block>
+  <block id="9472fea1831b90ee514f0ee8d8f8cdd4" category="paragraph">您必須先將使用者定義的篩選套用至資料、才能建立規則。套用的篩選條件會顯示在*篩選*圖示下方。NetApp SaaS Backup for Microsoft 365預設篩選器顯示為灰色。使用者定義的篩選條件會以淺藍色顯示。<block ref="4197bfc4aebe6e6734416ba995e70d18" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2aedef02b2ed09f1d4e2fcd6c3fae26e" category="paragraph"><block ref="c19bb902a48f13264b9ec9addfdb6c34" category="inline-xref-macro-rx"></block></block>
+  <block id="88e808b9882b8ca6d9c43f50b12cc131" category="paragraph">您可以建立多個規則。這些規則的套用順序會依照它們在*管理規則*清單中的顯示順序。</block>
+  <block id="84f0975bea0921d5118d07c306d0e814" category="inline-image-macro">建立規則按鈕的快照</block>
+  <block id="156041abd9a046b566b525d8a6f00ad1" category="paragraph">如果未套用使用者建立的篩選條件、 <block ref="4b9a42856f689f56835528f6307a41f4" category="inline-image-macro-rx" type="image"></block> 不會出現。</block>
+  <block id="cc474a06804640e7a2d740ff8518031f" category="inline-image-macro">篩選按鈕</block>
+  <block id="f67f40d5522dc58ef63072f6846666cb" category="paragraph"><block ref="f67f40d5522dc58ef63072f6846666cb" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="13c46ccb6be9a19f08dc6e1af943395e" category="list-text">按一下*選取*下拉式功能表、然後選取您的篩選條件。此時會出現搜尋欄位。</block>
+  <block id="861af3a80de8a97131d4ea4295d5d696" category="list-text">按一下「*建立規則*」。</block>
+  <block id="18ee2602192f06faa8f838ee4a14f161" category="list-text">輸入規則名稱。</block>
+  <block id="231aced9811beda187802ce4b38288e2" category="list-text">對於*目的地群組*、請選取您要將符合規則條件的使用者移至哪個層級。</block>
+  <block id="4fcf32e464a495c818c7ea0249c6923e" category="list-text">如果希望規則立即套用至所有未受保護的項目、請選取*套用至現有項目*。如果未選取、則會在下次探索新項目時、套用規則至新發現的項目和任何未受保護的項目。</block>
+  <block id="b429b92fb407960087090abe4ae70378" category="inline-image-macro">用於優先上移或下移規則的按鈕</block>
+  <block id="691eb2a99bb398009b03626652f89d70" category="list-text">如果您有多個規則、可以按一下 <block ref="1dec85cc0cf86d9e4c1d6cdae3b30321" category="inline-image-macro-rx" type="image"></block> 可在列表中上下移動規則。這些規則會依照其在清單中的顯示順序來套用。</block>
+  <block id="1db8c4c70a2709de9241c5154d3cf441" category="summary">如果不再需要現有規則、您可以將其刪除。此外、如果您需要刪除規則中使用的安全性群組、則必須先使用安全性群組刪除規則、才能移除安全性群組。</block>
+  <block id="fbf4587520308c39c7016ad6d101add1" category="doc">刪除規則</block>
+  <block id="24a68a4fec97274fd49860d020d8639f" category="inline-image-macro">刪除圖示的快照</block>
+  <block id="a52b681fc51c6e59255655c291a68e13" category="list-text">按一下 <block ref="70b6cf72f3806fee90a61a6d4710352a" category="inline-image-macro-rx" type="image"></block> 可刪除規則。刪除規則時、先前套用規則的項目狀態不會變更。</block>
+  <block id="6295a9cc66be5476ec7f7b659b57ee9f" category="summary">如果您已啟動立即備份或立即還原、但需要在完成之前取消、您可以這麼做。</block>
+  <block id="24391a0c4e58147fa07febdb32887a1a" category="doc">取消工作</block>
+  <block id="c4847d7d96f65dca923f79caeb317cfd" category="list-text">按一下 <block ref="57896efc0de0d48cea535446c297cd85" category="inline-image-macro-rx" type="image"></block> 從左側導覽窗格。</block>
+  <block id="e103be6f64222dbfd978e48abb80646b" category="list-text">在*最近執行的工作*下、按一下您要取消的工作。</block>
+  <block id="14746ab9705143711849289cd0368e51" category="list-text">按一下*取消*。取消工作的進度會顯示在*最近完成的工作*下。</block>
+  <block id="3e248cf36a6ce8d04e21a6fbb7b087f0" category="doc">新功能與更新</block>
+  <block id="ce2695f1742a4173db63ce74517ac8af" category="paragraph">此版本的NetApp SaaS Backup for Microsoft 365新增下列新功能與更新。</block>
+  <block id="62783f5d69cb5d3cb22b077c1d2b8777" category="section-title">2021年11月</block>
+  <block id="31cc60edfc700178b3b3efacb6ed562e" category="paragraph">Microsoft 365目標為2021年10月、在Exchange Online中棄用基本驗證。如需詳細資訊、請參閱 <block ref="13656a114805a881003fbba8178f036a" category="inline-link-macro-rx"></block>。棄用之後、Microsoft 365群組、共享信箱和歸檔信箱可能會發生探索失敗。您可以隨時啟用「現代化驗證」、以避免這些失敗。</block>
+  <block id="5e72ee82630f471af2db622957d8d623" category="paragraph">如果您是新客戶、註冊時會啟用「現代化驗證」功能。無需採取任何行動。</block>
+  <block id="b32bf445c8b684008c9fd9cf380eb985" category="paragraph">如果您是現有客戶、但尚未啟用「現代化驗證」、則必須採取行動。請參閱 <block ref="718d39ae8b1f35b36dc8c2837eb10373" category="inline-link-macro-rx"></block>。</block>
+  <block id="a5667679a016ee66ef9bc45c1a173b3b" category="section-title">2020年12月</block>
+  <block id="97b4589bea0c9a0d397ec4db7260d8e0" category="paragraph">如果您在美國部署Microsoft Azure、您的資料將不會離開Microsoft環境。在SaaS Backup for Microsoft 365的註冊程序中、您可以使用Azure Blob儲存設備或自己的儲存設備。</block>
+  <block id="a72ba6abcd432d690074b970ea9e1e5a" category="inline-link-macro">從免費試用版註冊SaaS備份</block>
+  <block id="8f8caa92edfef6726734d704b2b67044" category="paragraph"><block ref="8f8caa92edfef6726734d704b2b67044" category="inline-link-macro-rx"></block></block>
+  <block id="86ca1026a5895f803f6cb3b59d638cdc" category="inline-link-macro">透過付費訂閱註冊SaaS備份</block>
+  <block id="d31c8900ff029d35426a6b655cf439ee" category="paragraph"><block ref="d31c8900ff029d35426a6b655cf439ee" category="inline-link-macro-rx"></block></block>
+  <block id="0e347c50a0d60b8f46cb8c37cd3b5088" category="section-title">2020年11月</block>
+  <block id="ec43c120f66e40978bc7df12e1cdc086" category="list-text">從本月開始、您可以監控所有服務的使用者資料。有了這項新功能、您可以下載Excel檔案來監控多種使用者資料類型、例如電子郵件或URL位址、信箱類型、授權使用、探索狀態、上次探索、 備份狀態、備份層等。</block>
+  <block id="935dcc2d07dcf421a5d4a1a8dbe78a83" category="paragraph"><block ref="935dcc2d07dcf421a5d4a1a8dbe78a83" category="inline-link-macro-rx"></block></block>
+  <block id="7108795963ed30e0b330aa85fa1e41d5" category="list-text">現在您可以將Microsoft Office 365群組還原至其他群組。</block>
+  <block id="7c8ae2c9971bd58915ed46c67abeff00" category="list-text">OneDrive for Business授權持有者可在不受限制的情況下、釋出授權並清除使用者。</block>
+  <block id="ff5e1f223d92e521c6ae3a7151a6e224" category="paragraph"><block ref="13fb5063dfdc66cecf804982b04fd9ff" category="inline-link-macro-rx"></block>
+<block ref="2a76432804ac030e271a502cdaa78dc8" category="inline-link-macro-rx"></block></block>
+  <block id="f1c76c4d1313b6d0ce49a94431405b0e" category="list-text">在工作歷程記錄中搜尋時、除了工作類型、服務、開始時間和結束時間之外、您現在還可以依工作完成狀態進行篩選。</block>
+  <block id="010d894e39c9b4024a2e355303134bad" category="paragraph"><block ref="010d894e39c9b4024a2e355303134bad" category="inline-link-macro-rx"></block></block>
+  <block id="0c32ac23d148fcf8f103092f860ea484" category="section-title">2020年6月</block>
+  <block id="60a93d0f13a60df4d4419601c9c70515" category="list-text">SaaS Backup for Microsoft 365現在支援Exchange Online使用者的進階搜尋功能。在*進階搜尋*啟用之後、您可以在備份資料的最後六個月內搜尋個別、共用及封存信箱項目。</block>
+  <block id="d4221ec3faf6174be7b78d60fd6fb637" category="inline-link-macro">使用進階搜尋</block>
+  <block id="16ec1a94d324268e23458158820f2793" category="paragraph"><block ref="16ec1a94d324268e23458158820f2793" category="inline-link-macro-rx"></block></block>
+  <block id="73f8dc93b283396eb2824122850199c0" category="paragraph">若要啟用此功能、請前往 <block ref="f87e0976e00f26ec4930aef7f830024f" category="inline-link-macro-rx"></block> 並提交申請。</block>
+  <block id="3cd39f227a4b0e68f03e12ad98e9ffca" category="section-title">2020年3月/ 4月</block>
+  <block id="2a4b999dd10fa40d0af653d533da89a9" category="list-text">現在您可以選擇不同的時間範圍來瀏覽Microsoft 365 Exchange、SharePoint、OneDrive for Business和受保護使用者的群組備份。</block>
+  <block id="591f88ff9f4dd2e074cd1e9677419b34" category="paragraph"><block ref="591f88ff9f4dd2e074cd1e9677419b34" category="inline-link-macro-rx"></block></block>
+  <block id="9114c7c2f662b23740f680d86250a33b" category="list-text">SaaS Backup for Microsoft 365現在支援備份至Microsoft TeamsChat。有了這項新功能、您可以備份及還原對話、通路、索引標籤、附件、成員、 及Microsoft TeamsChat中的設定。</block>
+  <block id="c1a4e5de3e6ad0e73d8e6f95a3d92fd7" category="paragraph"><block ref="c1a4e5de3e6ad0e73d8e6f95a3d92fd7" category="inline-link-macro-rx"></block></block>
+  <block id="d835981d77534f5f20446d4648ad7e5b" category="section-title">2020年1月</block>
+  <block id="9b2fd4ede320a82f1a8fe3dd515a1522" category="inline-link-macro">檢視取消資源配置的項目</block>
+  <block id="5f4aa1af949f13cebef477d4e0e501b1" category="list-text">您現在可以檢視已取消資源配置的信箱、站台、MySites、群組或帳戶。<block ref="83c15984a264b44dfb7bb5ab9143e339" category="inline-link-macro-rx"></block></block>
+  <block id="3927f940ec42d81c11ecbb003c68fd11" category="list-text">使用者授權現在會在帳戶清除七天後自動釋出。您可以檢視排定在七天內清除的項目清單、以及已清除的項目清單。<block ref="8983eb3cf0dc4aeb9f7917f42f04de11" category="inline-link-macro-rx"></block></block>
+  <block id="bf7a90919922cdd7a5a5b73fd47f5253" category="list-text">Microsoft SharePoint Online和OneDrive for Business現在支援Microsoft OneNote筆記本的備份。<block ref="f372349165bf76f8d7c8e81a2c8d818f" category="inline-link-macro-rx"></block></block>
+  <block id="bbfb6d5a145f45ac380d5c56707a3b3f" category="section-title">2019年9月</block>
+  <block id="4509c06bbc5bd31ea1b574cc91ecd146" category="list-text">您現在可以啟動對SaaS Backup付費訂閱的支援。啟用支援可讓您透過電話、線上聊天或網路票務系統存取技術支援。</block>
+  <block id="c264e349beaab99a8bb6652bda3cf659" category="inline-link-macro">啟動支援</block>
+  <block id="26e40bc6f1282c9623b59cd8c4ef7ecc" category="paragraph"><block ref="26e40bc6f1282c9623b59cd8c4ef7ecc" category="inline-link-macro-rx"></block></block>
+  <block id="e289ad98e91a5c5e09b44d6006fba214" category="section-title">2019年6月</block>
+  <block id="7d4ec3e0b5be7e315bc177db875f3c93" category="list-text">SaaS Backup for Microsoft 365現在支援使用Microsoft SharePoint Online和Microsoft OneDrive for Business中的複製到功能所建立項目的備份與還原。</block>
+  <block id="0ac7cd7b7da8ca54b63280dc76517b3c" category="list-text">已進行增強、以在還原統計資料中加入更多詳細資料、包括還原大小、還原位置及其他註解。</block>
+  <block id="40c6992ea910d43026a8f13fd0d7bfd6" category="section-title">2019年5月</block>
+  <block id="75651fb4ddaf976562b98f16330919ab" category="list-text">SaaS備份現在支援附加授權。</block>
+  <block id="b02b015caa6895d69dc7e8806258b548" category="paragraph"><block ref="b02b015caa6895d69dc7e8806258b548" category="inline-link-macro-rx"></block></block>
+  <block id="1b34d20d5f729538f1400e856387b228" category="section-title">2019年4月</block>
+  <block id="403de9a0fab25a17acf9b35e6b72c565" category="list-text">SaaS Backup for Microsoft 365現在支援刪除安全性群組。</block>
+  <block id="24a863b441948a22c2f5079750e19513" category="paragraph"><block ref="24a863b441948a22c2f5079750e19513" category="inline-link-macro-rx"></block></block>
+  <block id="e08584a0fabb98372627a5763a172b44" category="list-text">共享信箱不再使用使用者授權。</block>
+  <block id="692664770412ddd705b7f413cee7d6fb" category="section-title">2019年3月</block>
+  <block id="f342fec16bfb61a8dd26a7f7ee694ea0" category="list-text">SaaS Backup for Microsoft 365現在支援每個受支援地區的多個備份位置。</block>
+  <block id="fc450d190b34e98c0417e7cc17568f3c" category="paragraph">您現在可以選擇所選地區的任何可用位置做為資料備份的站台。建議您選擇地理位置最接近資料位置的位置。SaaS備份所建議的位置在選項清單中標示為*慣用*。</block>
+  <block id="8683bf91a11e498ffd74c9c3a102487d" category="admonition">如果您是從試用版升級、而選擇的備份位置與試用版使用的位置不同、則不會保留試用資料。</block>
+  <block id="5812c0f271e0e2c00e683f3df987dac2" category="inline-link-macro">從試用訂閱升級</block>
+  <block id="02d42668aef32358c91e97fac3b74454" category="paragraph"><block ref="02d42668aef32358c91e97fac3b74454" category="inline-link-macro-rx"></block></block>
+  <block id="8c673911badf0bc86b25912d2c703123" category="list-text">您現在可以釋出使用者授權、讓其他使用者使用。<block ref="13fb5063dfdc66cecf804982b04fd9ff" category="inline-link-macro-rx"></block></block>
+  <block id="faae77443f7a8406deaf55c3795ace10" category="section-title">2019年2月</block>
+  <block id="82caf71ab4314503cd4b4826bf47361d" category="list-text">SaaS Backup for Microsoft 365現在支援下列功能：</block>
+  <block id="154ae5da6ed22a4b973d787b66439540" category="list-text">備份與還原歸檔信箱。</block>
+  <block id="c90f10bb653ed99db28b8f6a6d2f4d8e" category="list-text">增強Microsoft Office Exchange Online、SharePoint及OneDrive for Business的備份與還原統計資料。</block>
+  <block id="7d69b3cb4cada18ae61811304f8fbcb5" category="section-title">已歸檔</block>
+  <block id="4ad34508386b08c6cfe776e00a9354e7" category="paragraph">按一下 <block ref="ffe3fccc14e82a61e12e48d2b0682108" category="inline-link-macro-rx"></block> 以取得新功能的歸檔清單</block>
+  <block id="02e3ac3a05390b719a3b35ed0a8be233" category="sidebar">適用於Microsoft 365的NetApp SaaS備份</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
+  <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">新增功能</block>
+  <block id="96573196b0bc5ca16f36a7ab51440d98" category="sidebar">新增功能歸檔</block>
+  <block id="0460583622f03a52d7693094d6fa2452" category="sidebar">概念</block>
+  <block id="3b878279a04dc47d60932cb294d96259" category="sidebar">總覽</block>
+  <block id="24f47cdbe9ddba774a7cc53e51d9032e" category="sidebar">工作流程</block>
+  <block id="1721af001af4943cc2771dbfd047f856" category="sidebar">執行即時備份</block>
+  <block id="3bd34394db106447b9320c76b26ddbb5" category="sidebar">管理服務</block>
+  <block id="23ad15066715d93a5dfb7d99bfb0d157" category="sidebar">管理設定</block>
+  <block id="d08ccf52b4cdd08e41cfb99ec42e0b29" category="sidebar">權限</block>
+  <block id="e83cc9977425de56ff0b99c4ad631195" category="sidebar">新增服務帳戶的權限</block>
+  <block id="5c1fb361cb9ffba7295636a36f900f1e" category="sidebar">角色型帳戶存取</block>
+  <block id="1b4fcfaacbd0ae3e24bc82f8d7a82211" category="sidebar">管理使用者</block>
+  <block id="f6aca2dcfee051b254bbcb878dc70d09" category="sidebar">授權</block>
+  <block id="1f4da964f8eab62e96e8cfe406e44364" category="sidebar">規則</block>
+  <block id="9175bb34d0aede26315b313b9432bcbb" category="sidebar">安全性群組</block>
+  <block id="65d964d49665477bbec39032d9f3ca8a" category="sidebar">管理備份</block>
+  <block id="3ac08b2c89424f473948e563666e5b4f" category="sidebar">立即執行備份</block>
+  <block id="d8f5449c7bac4ba96fd7bbf9776e9ae8" category="sidebar">管理還原</block>
+  <block id="5bca99f8ca33bc054588b4f637748fce" category="sidebar">執行精細層級的還原</block>
+  <block id="25024e4580c1e3f5e67328bb98e2b101" category="sidebar">適用於群組和團隊</block>
+  <block id="91434d2ec1694706c5f6880d6fada769" category="sidebar">檢視資料</block>
+  <block id="7d94efa3e76bcde3b29091804d2f1435" category="sidebar">檢視清除的資料</block>
+  <block id="4330b42a340140b836c42bbe9c7105be" category="sidebar">下載資料</block>
+  <block id="d648f2a68a54fd1b3329efc3cf24d29c" category="sidebar">法律聲明</block>
+  <block id="42898530241af400fda5327fc771fbaf" category="sidebar">開始免費試用</block>
+  <block id="30b2123030b8a0f2633415ae646de89b" category="sidebar">免費試用限制</block>
+  <block id="22e2acbc5d542c00c7ad5d2693661006" category="sidebar">註冊以取得免費試用版啟動代碼</block>
+  <block id="7a5993af77d1032535cb5f108e621422" category="sidebar">註冊Microsoft 365免費試用帳戶</block>
+  <block id="dde2fb18b4f54ff454e49db402adbb99" category="sidebar">建立具有全域權限的Microsoft 365服務帳戶</block>
+  <block id="7e01d5441a2bbda36f29dd5a8d2561b7" category="sidebar">註冊即可免費試用Microsoft 365的SaaS備份</block>
+  <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">升級</block>
+  <block id="e78ef280ac4cdaeebd76c27ebe90d653" category="sidebar">升級後啟動支援</block>
+  <block id="4946cdf19ac5285412e4b530ede0f075" category="sidebar">免費試用資料刪除</block>
+  <block id="5b20edb29e2e3b85bd65bb20e8c323a1" category="sidebar">註冊以付費訂閱Microsoft 365的SaaS備份</block>
+  <block id="6dcf112116eaaafdcd1b045888627786" category="sidebar">付費訂閱資料刪除</block>
+  <block id="d707bbc05400b2ce6b59ba216d70b5aa" category="sidebar">使用自助服務入口網站</block>
+</blocks>

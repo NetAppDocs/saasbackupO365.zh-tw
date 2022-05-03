@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: task_updating_admin_roles_assigned_to_user_accounts.html 
+keywords: netapp, saas backup, microsoft 365, role-based accounts, administrative roles, privileges, update, updating, changing 
+summary: 如果更新使用者的管理角色、使用者就會自動登出SaaS Backup for Microsoft 365。當使用者重新登入時、系統管理角色更新會反映在使用者的帳戶中。 
+---
+= 更新指派給使用者帳戶的管理角色
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果更新使用者的管理角色、使用者就會自動登出SaaS Backup for Microsoft 365。當使用者重新登入時、系統管理角色更新會反映在使用者的帳戶中。
+
+.步驟
+. 按一下設定圖示 image:configure_icon.gif["組態圖示的快照"] 在畫面左上角的使用者ID旁。
+. 按一下*帳戶設定*。
+. 按一下*角色管理*。
+. 按一下您要更新之使用者名稱旁的*更新使用者*。
+. 按一下下拉式功能表以選取角色。您可以指派一或多個角色給使用者。
+. 按一下「 * 確認 * 」。
+
