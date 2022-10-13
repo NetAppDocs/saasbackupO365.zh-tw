@@ -20,7 +20,7 @@ summary: 規則可讓您根據預先定義的準則、自動將使用者移至�
 
 您必須先將使用者定義的篩選套用至資料、才能建立規則。套用的篩選條件會顯示在*篩選*圖示下方。NetApp SaaS Backup for Microsoft 365預設篩選器顯示為灰色。使用者定義的篩選條件會以淺藍色顯示。image:rules.gif["使用者定義篩選器和SaaS備份定義篩選器的範例、用於建立規則"]
 
-<<task_creating_user_defined_filter.adoc#creating-user-defined-filter,建立使用者定義的篩選器>>
+#creating-user-defined-filter,建立使用者定義的篩選器
 
 您可以建立多個規則。這些規則的套用順序會依照它們在*管理規則*清單中的顯示順序。
 

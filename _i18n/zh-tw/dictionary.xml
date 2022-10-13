@@ -1322,4 +1322,41 @@
   <block id="5b20edb29e2e3b85bd65bb20e8c323a1" category="sidebar">註冊以付費訂閱Microsoft 365的SaaS備份</block>
   <block id="6dcf112116eaaafdcd1b045888627786" category="sidebar">付費訂閱資料刪除</block>
   <block id="d707bbc05400b2ce6b59ba216d70b5aa" category="sidebar">使用自助服務入口網站</block>
+  <block id="83c10a32397f74ce2ae36e07ede65d42" category="summary">若要準備使用SaaS Backup for Microsoft 365結束授權、您可以要求將資料移轉至租戶擁有的Amazon S3或Microsoft Azure Blob Storage。</block>
+  <block id="63debe27683f1f8c225ad14c415dffcc" category="doc">移轉資料</block>
+  <block id="1cbe0fb96058289a9a2c7849a10cce7e" category="inline-link-macro">NetApp支援工具頁面</block>
+  <block id="3eafd5b67f917bf3229f804871b0a519" category="paragraph">資料移轉完成後、您可以使用NetApp SaaS備份大量匯出工具匯出資料。登入 <block ref="f77ad18881805ec354217bae9bc5280f" category="inline-link-macro-rx"></block> 並搜尋NetApp SaaS備份大量匯出工具。</block>
+  <block id="755ca11feea1671834e5aefd11bd73ef" category="admonition">資料移轉是授權終止活動。所有租戶都應避免在SaaS備份帳戶上進行任何形式的活動、以避免資料移轉期間發生資料與中繼資料的差異。資料移轉完成後、租戶的所有排程備份都會停用。</block>
+  <block id="65a98863a2ac165885fac7cb61a5d513" category="paragraph">*需求*：若要申請資料移轉、請以全域管理員權限的租戶帳戶認證登入。其他使用者角色將無法存取使用者介面中的「資料移轉」索引標籤。</block>
+  <block id="a50fb19e141d6cdd90fe6cb30ed8df26" category="paragraph">*建議*：您應該配置具有足夠容量的目的地儲存設備、以儲存所有客戶資料、並將10%以上的容量新增為中繼資料儲存的緩衝區。</block>
+  <block id="468f1d53e307fb031056f04e4bf4dc63" category="list-text">前往*帳戶設定* <block ref="fe1826c3849049c74f4b12ce1ca764fb" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="e265381d5acb86a5b507d7af8c81e25e" category="list-text">選取*資料移轉*索引標籤。</block>
+  <block id="08b88ac420a661dbd725929a122f2abd" category="list-text">在*儲存設備詳細資料*中、將資訊輸入下列欄位：</block>
+  <block id="1668ca1bd914c1d847f23b491319ac91" category="cell">Microsoft Azure</block>
+  <block id="e3cb65410aa9adfebb4eb1bc8ee22fec" category="cell">儲存區名稱</block>
+  <block id="aa90c53280582695f3d4b8ac2ec17a8b" category="cell">帳戶名稱</block>
+  <block id="f447ac856e7e72435904956e3b15f433" category="cell">區域</block>
+  <block id="dbdfde773808a7d9ed43dd6f82a2cef4" category="cell">容器名稱</block>
+  <block id="47b84fd1609df93c987377c912e3baf1" category="cell">存取金鑰</block>
+  <block id="01af13d1b711105db887a3ce63dddd08" category="cell">存取點</block>
+  <block id="952bf87c967660b7bbd4e1eb08cefc92" category="cell">秘密金鑰</block>
+  <block id="0db132bfed096427c0e86952e7c8aaee" category="admonition">Microsoft Azure使用者必須針對儲存詳細資料中所提供的容器、將「Public」存取層級設為「Blob」。</block>
+  <block id="230a37dd947a3a0c2edc2dbf64004553" category="list-text">選擇*測試連線*。</block>
+  <block id="4dc4ae54a7ba0fb1adf890aa54edd098" category="paragraph">綠色勾號表示連線正常。</block>
+  <block id="3229f4843f74ccaa5cbb817a9d15c9d5" category="list-text">在*同意*中、選取方塊以同意資料移轉的條款與條件、然後選取*提交*。</block>
+  <block id="c0058ded5ce2325354436bc52adcec00" category="paragraph">您已成功儲存詳細資料。租戶ID現在可在*移轉狀態*中看到。</block>
+  <block id="ad87f3e2af72bb9d745ea010c8379dc4" category="admonition">使用NetApp SaaS備份大量匯出工具匯出資料時、您將需要租戶ID。</block>
+  <block id="fb27c3b07755a2445a45afde598c6d85" category="paragraph">* SaaS備份的其他步驟提供Amazon S3桶*在您提供同意、政策與政策說明之後、現在會出現在「同意」下方。請依照後續步驟完成資料移轉要求。</block>
+  <block id="828cbe7a85babc6de075e5ea56d1732c" category="list-text">驗證並複製原則。</block>
+  <block id="8cba131c5295d96b97996703b5a2724a" category="inline-image-macro">複製具有反白IAM使用者和目的地變數的原則</block>
+  <block id="96d0392c5df3598ebaf7dcbd951f5625" category="paragraph"><block ref="96d0392c5df3598ebaf7dcbd951f5625" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4bfbf9b6acce615eb6e3b131d545def5" category="list-text">前往您的Amazon S3帳戶。</block>
+  <block id="5e32cdfcfe37a8eea97c00c512641a5f" category="list-text">將*儲存詳細資料*中提供的原則附加至Amazon S3目的地儲存區。</block>
+  <block id="33c1e5a1307d38feea23dc2331ed701f" category="list-text">返回SaaS Backup for Microsoft 365 * Account Settings*中的* Data Migration *索引標籤。</block>
+  <block id="978b85116b244e94a404c12f948c970f" category="list-text">在*原則確認*中、選取此方塊以確認您已將原則上傳至目的地儲存區、然後選取*提交*。綠色核取符號表示資料移轉要求已完成、而且資料移轉現在已排入佇列。</block>
+  <block id="f9f1cf59b080a38810200532dd041d7d" category="paragraph">請參閱*移轉狀態*以監控移轉進度。移轉持續時間取決於多種因素、例如資料量和授權數量。</block>
+  <block id="4c4518d4c20175eb4082a6b33eb4badb" category="section-title">2022年10月</block>
+  <block id="ffa51d6855cca4131bdcec9c3740ad0b" category="inline-link-macro">移轉資料</block>
+  <block id="985be5d8f78db2bf8609a9776c400b81" category="list-text">SaaS Backup for Microsoft 365現在可以進行資料移轉。帳戶管理員可要求將資料移轉至租戶擁有的Amazon S3和Azure Blob儲存目的地儲存桶。瞭解操作方法 <block ref="6f5fb74cdf8e0d07a2092eec0568d924" category="inline-link-macro-rx"></block>。</block>
+  <block id="02dfe706c292ef8fe0db1d80bf8f89a6" category="list-text">SaaS備份匯出公用程式工具現已推出、可協助您將移轉的資料匯出至Amazon S3和Azure Blob儲存目的地儲存桶或本機儲存設備。登入 <block ref="f77ad18881805ec354217bae9bc5280f" category="inline-link-macro-rx"></block> 並搜尋NetApp SaaS備份大量匯出工具。</block>
 </blocks>

@@ -38,7 +38,7 @@ sidebar:
       url: "/task_signing_up_for_saasbkup_paid_subscription.html"
     - title: 排程第一次備份
       url: "/task_scheduling_first_backup.html"
-    - title: 執行即時備份
+    - title: 立即執行備份
       url: "/task_performing_immediate_backup_of_policy.html"
     - title: 資料刪除
       url: "/reference_paid_subscription_data.html"
@@ -162,6 +162,8 @@ sidebar:
       url: "/task_downloading_data.html"
     - title: 監控使用者資料
       url: "/task_monitoring_data.html"
+  - title: 移轉資料
+    url: "/task_migrate_data.html"
   - title: 提供意見回饋
     url: "/task_providing_feedback.html"
   - title: 何處可取得協助及尋找更多資訊

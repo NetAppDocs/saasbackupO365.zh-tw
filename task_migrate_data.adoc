@@ -1,0 +1,82 @@
+---
+sidebar: sidebar 
+permalink: task_migrate_data.html 
+keywords: netapp, saas backup, microsoft office 365, sharepoint, onedrive for business, exchange, groups, migrate, data, export 
+summary: 若要準備使用SaaS Backup for Microsoft 365結束授權、您可以要求將資料移轉至租戶擁有的Amazon S3或Microsoft Azure Blob Storage。 
+---
+= 移轉資料
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+若要準備使用SaaS Backup for Microsoft 365結束授權、您可以要求將資料移轉至租戶擁有的Amazon S3或Microsoft Azure Blob Storage。
+
+資料移轉完成後、您可以使用NetApp SaaS備份大量匯出工具匯出資料。登入 link:https://mysupport.netapp.com/site/tools["NetApp支援工具頁面"] 並搜尋NetApp SaaS備份大量匯出工具。
+
+
+NOTE: 資料移轉是授權終止活動。所有租戶都應避免在SaaS備份帳戶上進行任何形式的活動、以避免資料移轉期間發生資料與中繼資料的差異。資料移轉完成後、租戶的所有排程備份都會停用。
+
+*需求*：若要申請資料移轉、請以全域管理員權限的租戶帳戶認證登入。其他使用者角色將無法存取使用者介面中的「資料移轉」索引標籤。
+
+*建議*：您應該配置具有足夠容量的目的地儲存設備、以儲存所有客戶資料、並將10%以上的容量新增為中繼資料儲存的緩衝區。
+
+.步驟
+. 前往*帳戶設定* image:gear_icon.png["齒輪圖示"]。
+. 選取*資料移轉*索引標籤。
+. 在*儲存設備詳細資料*中、將資訊輸入下列欄位：
++
+[cols="20,20"]
+|===
+| Amazon S3 | Microsoft Azure 
+
+
+| 儲存區名稱 | 帳戶名稱 
+
+
+| 區域 | 容器名稱 
+
+
+| 存取金鑰 | 存取點 
+
+
+| 秘密金鑰 | 存取金鑰 
+
+
+|  | 區域 
+|===
++
+
+NOTE: Microsoft Azure使用者必須針對儲存詳細資料中所提供的容器、將「Public」存取層級設為「Blob」。
+
+. 選擇*測試連線*。
++
+綠色勾號表示連線正常。
+
+. 在*同意*中、選取方塊以同意資料移轉的條款與條件、然後選取*提交*。
++
+您已成功儲存詳細資料。租戶ID現在可在*移轉狀態*中看到。
+
++
+
+TIP: 使用NetApp SaaS備份大量匯出工具匯出資料時、您將需要租戶ID。
+
+
+
+* SaaS備份的其他步驟提供Amazon S3桶*在您提供同意、政策與政策說明之後、現在會出現在「同意」下方。請依照後續步驟完成資料移轉要求。
+
+. 驗證並複製原則。
++
+image:policy-note-variables.png["複製具有反白IAM使用者和目的地變數的原則"]
+
+. 前往您的Amazon S3帳戶。
+. 將*儲存詳細資料*中提供的原則附加至Amazon S3目的地儲存區。
+. 返回SaaS Backup for Microsoft 365 * Account Settings*中的* Data Migration *索引標籤。
+. 在*原則確認*中、選取此方塊以確認您已將原則上傳至目的地儲存區、然後選取*提交*。綠色核取符號表示資料移轉要求已完成、而且資料移轉現在已排入佇列。
+
+
+請參閱*移轉狀態*以監控移轉進度。移轉持續時間取決於多種因素、例如資料量和授權數量。

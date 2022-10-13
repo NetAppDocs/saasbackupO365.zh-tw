@@ -18,6 +18,14 @@ summary: SaaS Backup for Microsoft 365會定期推出新版本、為您帶來新
 
 
 
+== 2022年10月
+
+* SaaS Backup for Microsoft 365現在可以進行資料移轉。帳戶管理員可要求將資料移轉至租戶擁有的Amazon S3和Azure Blob儲存目的地儲存桶。瞭解操作方法 link:task_migrate_data.html["移轉資料"]。
+* SaaS備份匯出公用程式工具現已推出、可協助您將移轉的資料匯出至Amazon S3和Azure Blob儲存目的地儲存桶或本機儲存設備。登入 link:https://mysupport.netapp.com/site/tools["NetApp支援工具頁面"] 並搜尋NetApp SaaS備份大量匯出工具。
+
+
+
+
 == 2021年11月
 
 Microsoft 365目標為2021年10月、在Exchange Online中棄用基本驗證。如需詳細資訊、請參閱 link:https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-authentication-and-exchange-online-september-2021-update/ba-p/2772210["基本驗證與Exchange Online - 2021年9月更新"]。棄用之後、Microsoft 365群組、共享信箱和歸檔信箱可能會發生探索失敗。您可以隨時啟用「現代化驗證」、以避免這些失敗。
