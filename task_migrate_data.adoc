@@ -14,7 +14,10 @@ summary: 若要準備使用SaaS Backup for Microsoft 365結束授權、您可以
 
 
 [role="lead"]
-若要準備使用SaaS Backup for Microsoft 365結束授權、您可以要求將資料移轉至租戶擁有的Amazon S3或Microsoft Azure Blob Storage。
+若要準備使用SaaS Backup for Microsoft 365結束授權、您可以要求資料從Amazon S3移轉至租戶擁有的Amazon S3儲存設備、或從Microsoft Azure Blob移轉至租戶擁有的Microsoft Azure Blob儲存設備。
+
+
+NOTE: 不支援從Amazon S3跨移轉至Microsoft Azure Blob儲存設備、或從Microsoft Azure Blob移轉至Amazon S3儲存設備。
 
 資料移轉完成後、您可以使用NetApp SaaS備份大量匯出工具匯出資料。登入 link:https://mysupport.netapp.com/site/tools["NetApp支援工具頁面"] 並搜尋NetApp SaaS備份大量匯出工具。
 
