@@ -1361,4 +1361,6 @@
   <block id="02dfe706c292ef8fe0db1d80bf8f89a6" category="list-text">SaaS備份匯出公用程式工具現已推出、可協助您將移轉的資料匯出至Amazon S3和Azure Blob儲存目的地儲存桶或本機儲存設備。登入 <block ref="f77ad18881805ec354217bae9bc5280f" category="inline-link-macro-rx"></block> 並搜尋NetApp SaaS備份大量匯出工具。</block>
   <block id="f086b6fce40b83560fe8ab80c4c78980" category="paragraph">若要準備使用SaaS Backup for Microsoft 365結束授權、您可以要求資料從Amazon S3移轉至租戶擁有的Amazon S3儲存設備、或從Microsoft Azure Blob移轉至租戶擁有的Microsoft Azure Blob儲存設備。</block>
   <block id="2082bcb44a92c4c9e2b835d60c6900b8" category="admonition">不支援從Amazon S3跨移轉至Microsoft Azure Blob儲存設備、或從Microsoft Azure Blob移轉至Amazon S3儲存設備。</block>
+  <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">開始之前</block>
+  <block id="30f60d67f457bb040dffde52197a54da" category="paragraph-title">相關資訊</block>
 </blocks>

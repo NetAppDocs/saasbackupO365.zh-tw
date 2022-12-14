@@ -14,7 +14,7 @@ summary: 您可以新增或發行授權。
 
 
 [role="lead"]
-如果您剛收到付費訂閱的授權、請遵循 #workflow-for-etting-started-with-a-paid-subscription-toSaaS-Backup-for-Office-365,付費訂閱入門工作流程。您將在工作流程中輸入授權金鑰。
+如果您剛收到付費訂閱的授權、請遵循 <<concept_paid_subscription_workflow.adoc#workflow-for-etting-started-with-a-paid-subscription-toSaaS-Backup-for-Office-365,付費訂閱入門工作流程>>。您將在工作流程中輸入授權金鑰。
 
 如果您已經在使用SaaS備份、可以依照下列步驟新增額外授權。
 

@@ -41,6 +41,7 @@ summary: 您可以使用Microsoft 365服務帳戶或NetApp SSO帳戶註冊SaaS B
 
 == 註冊NetApp SSO帳戶
 
+.開始之前
 若要驗證您的訂閱、您必須擁有NetApp SSO使用者ID和密碼。如果您沒有NetApp SSO帳戶、請前往 https://mysupport.netapp.com/eservice/public/now.do[] 註冊一項。處理完您的申請後、您將會收到一封電子郵件通知、其中包含您的NetApp SSO認證資料。處理申請並傳送通知電子郵件約需24小時。
 
 .步驟
