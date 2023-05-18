@@ -21,7 +21,7 @@ summary: 您可以使用Microsoft 365服務帳戶或NetApp SSO帳戶註冊SaaS B
 == 註冊Microsoft 365服務帳戶
 
 .步驟
-. 在網頁瀏覽器中輸入SaaS Backup for Microsoft 365 URL：https://saasbackup.netapp.com[]
+. 在網頁瀏覽器中輸入SaaS Backup for Microsoft 365 URL：https://[]
 . 選取您所在的地區。您的租戶是在所選區域中建立。您的資料將儲存在該資料中心位置、日後無法變更。
 . 按一下登陸頁下方的*「註冊*」。
 . 接受終端使用者授權合約。
@@ -42,10 +42,10 @@ summary: 您可以使用Microsoft 365服務帳戶或NetApp SSO帳戶註冊SaaS B
 == 註冊NetApp SSO帳戶
 
 .開始之前
-若要驗證您的訂閱、您必須擁有NetApp SSO使用者ID和密碼。如果您沒有NetApp SSO帳戶、請前往 https://mysupport.netapp.com/eservice/public/now.do[] 註冊一項。處理完您的申請後、您將會收到一封電子郵件通知、其中包含您的NetApp SSO認證資料。處理申請並傳送通知電子郵件約需24小時。
+若要驗證您的訂閱、您必須擁有NetApp SSO使用者ID和密碼。如果您沒有NetApp SSO帳戶、請前往 https://[] 註冊一項。處理完您的申請後、您將會收到一封電子郵件通知、其中包含您的NetApp SSO認證資料。處理申請並傳送通知電子郵件約需24小時。
 
 .步驟
-. 在網頁瀏覽器中輸入SaaS Backup for Microsoft 365 URL：https://saasbackup.netapp.com[]
+. 在網頁瀏覽器中輸入SaaS Backup for Microsoft 365 URL：https://[]
 . 按一下登陸頁底部的「註冊」。
 . 接受終端使用者授權合約。
 . 單擊*註冊NetApp SSO *。image:sign_up_sso.gif["按一下按鈕以使用NetApp SSO帳戶簽署適用於Microsoft 365的SaaS備份的快照"]

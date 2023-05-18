@@ -337,7 +337,6 @@
   <block id="db5eb84117d06047c97c9a0191b5fffe" category="inline-link-macro">支援</block>
   <block id="c7f1896c455334213518b5df2a860b44" category="paragraph">系統管理員可前往*啟用「進階搜尋」 <block ref="f87e0976e00f26ec4930aef7f830024f" category="inline-link-macro-rx"></block> 並提交申請。您也可以寄送電子郵件至saasbackupsupport@netapp.com與SaaS備份支援團隊聯絡。</block>
   <block id="013131a779f73f268793ce1212aee294" category="inline-link-macro">關於自助服務入口網站</block>
-  <block id="4c6fa9a7d2c0c345bf057d6d3e77c80a" category="paragraph">啟用*進階搜尋*之後、您可以開啟個別租戶的自助服務入口網站（SSP）。如果您在第一次備份之前未啟用*進階搜尋*、則不會顯示任何搜尋結果。若要深入瞭解自助服務入口網站、請參閱 <block ref="b51bb0ef6b11f946c31f52683a5d978b" category="inline-link-macro-rx"></block>。</block>
   <block id="267a5275d92e0cb500ece7c264c7eafe" category="inline-image-macro">進階搜尋設定的快照</block>
   <block id="4c1d3f657745aa4fa7c5b961a2f7a82f" category="paragraph"><block ref="4c1d3f657745aa4fa7c5b961a2f7a82f" category="inline-image-macro-rx" type="image"></block></block>
   <block id="6e1c6cab6487c8b15e4140bfb0d5fd69" category="list-text"><block ref="7d190c308c24e5fb4e4af67edbc1dd47" category="inline-xref-macro-rx"></block></block>
@@ -428,7 +427,6 @@
   <block id="4ce57defce9dac056d069386ab60e048" category="paragraph">如果您匯出、則會建立兩個壓縮檔、一個壓縮檔用於Microsoft 365群組信箱、另一個壓縮檔用於Microsoft 365群組SharePoint網站。您將會收到一封通知電子郵件、其中包含動力換檔檔案的位置、以及已驗證的URL、以供您前往該.zip檔案的位置。</block>
   <block id="441c6e9fc22b169f47087797e47a4e78" category="admonition">如果您選取*匯出至Data*還原選項、所提供的連結將在七天內有效、並已預先驗證。</block>
   <block id="6e1b2e76136fef4e065dc537ac7bec7d" category="paragraph">此時會顯示一則訊息、指出已建立還原工作。</block>
-  <block id="38d0504911fa47808177f1d71c40e7e1" category="paragraph">若要瞭解如何使用自助服務入口網站還原Microsoft Exchange Online項目、請參閱 <block ref="8bd99ae3cbd2ccc3f81def50302f803d" category="inline-link-macro-rx"></block>。</block>
   <block id="a64afcb574fca4c96b15a10e22a0c39d" category="summary">在NetApp SaaS Backup for Microsoft 365中、您可以授予啟用共享信箱的權限。</block>
   <block id="4f77d86ba01ed01cc7689b609c3a0e0a" category="doc">授與權限以啟用共用信箱</block>
   <block id="95f3075215d2bc775164c818bdb73dc1" category="paragraph">您可以在NetApp SaaS Backup for Microsoft 365中授予啟用共享信箱的權限。</block>
@@ -1229,8 +1227,6 @@
   <block id="b32bf445c8b684008c9fd9cf380eb985" category="paragraph">如果您是現有客戶、但尚未啟用「現代化驗證」、則必須採取行動。請參閱 <block ref="718d39ae8b1f35b36dc8c2837eb10373" category="inline-link-macro-rx"></block>。</block>
   <block id="a5667679a016ee66ef9bc45c1a173b3b" category="section-title">2020年12月</block>
   <block id="97b4589bea0c9a0d397ec4db7260d8e0" category="paragraph">如果您在美國部署Microsoft Azure、您的資料將不會離開Microsoft環境。在SaaS Backup for Microsoft 365的註冊程序中、您可以使用Azure Blob儲存設備或自己的儲存設備。</block>
-  <block id="a72ba6abcd432d690074b970ea9e1e5a" category="inline-link-macro">從免費試用版註冊SaaS備份</block>
-  <block id="8f8caa92edfef6726734d704b2b67044" category="paragraph"><block ref="8f8caa92edfef6726734d704b2b67044" category="inline-link-macro-rx"></block></block>
   <block id="86ca1026a5895f803f6cb3b59d638cdc" category="inline-link-macro">透過付費訂閱註冊SaaS備份</block>
   <block id="d31c8900ff029d35426a6b655cf439ee" category="paragraph"><block ref="d31c8900ff029d35426a6b655cf439ee" category="inline-link-macro-rx"></block></block>
   <block id="0e347c50a0d60b8f46cb8c37cd3b5088" category="section-title">2020年11月</block>
@@ -1274,9 +1270,7 @@
   <block id="692664770412ddd705b7f413cee7d6fb" category="section-title">2019年3月</block>
   <block id="f342fec16bfb61a8dd26a7f7ee694ea0" category="list-text">SaaS Backup for Microsoft 365現在支援每個受支援地區的多個備份位置。</block>
   <block id="fc450d190b34e98c0417e7cc17568f3c" category="paragraph">您現在可以選擇所選地區的任何可用位置做為資料備份的站台。建議您選擇地理位置最接近資料位置的位置。SaaS備份所建議的位置在選項清單中標示為*慣用*。</block>
-  <block id="8683bf91a11e498ffd74c9c3a102487d" category="admonition">如果您是從試用版升級、而選擇的備份位置與試用版使用的位置不同、則不會保留試用資料。</block>
   <block id="5812c0f271e0e2c00e683f3df987dac2" category="inline-link-macro">從試用訂閱升級</block>
-  <block id="02d42668aef32358c91e97fac3b74454" category="paragraph"><block ref="02d42668aef32358c91e97fac3b74454" category="inline-link-macro-rx"></block></block>
   <block id="8c673911badf0bc86b25912d2c703123" category="list-text">您現在可以釋出使用者授權、讓其他使用者使用。<block ref="13fb5063dfdc66cecf804982b04fd9ff" category="inline-link-macro-rx"></block></block>
   <block id="faae77443f7a8406deaf55c3795ace10" category="section-title">2019年2月</block>
   <block id="82caf71ab4314503cd4b4826bf47361d" category="list-text">SaaS Backup for Microsoft 365現在支援下列功能：</block>
@@ -1362,5 +1356,5 @@
   <block id="f086b6fce40b83560fe8ab80c4c78980" category="paragraph">若要準備使用SaaS Backup for Microsoft 365結束授權、您可以要求資料從Amazon S3移轉至租戶擁有的Amazon S3儲存設備、或從Microsoft Azure Blob移轉至租戶擁有的Microsoft Azure Blob儲存設備。</block>
   <block id="2082bcb44a92c4c9e2b835d60c6900b8" category="admonition">不支援從Amazon S3跨移轉至Microsoft Azure Blob儲存設備、或從Microsoft Azure Blob移轉至Amazon S3儲存設備。</block>
   <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">開始之前</block>
-  <block id="30f60d67f457bb040dffde52197a54da" category="paragraph-title">相關資訊</block>
+  <block id="afda39e1ba1136390162c552c18a5674" category="paragraph">啟用*進階搜尋*之後、您可以開啟個別租戶的自助服務入口網站（SSP）。如果您在第一次備份之前未啟用*進階搜尋*、則不會顯示任何搜尋結果。</block>
 </blocks>

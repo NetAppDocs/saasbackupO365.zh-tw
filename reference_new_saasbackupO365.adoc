@@ -40,8 +40,6 @@ Microsoft 365目標為2021年10月、在Exchange Online中棄用基本驗證。�
 
 如果您在美國部署Microsoft Azure、您的資料將不會離開Microsoft環境。在SaaS Backup for Microsoft 365的註冊程序中、您可以使用Azure Blob儲存設備或自己的儲存設備。
 
-link:task_signing_up_for_saasbkup_free_trial.html["從免費試用版註冊SaaS備份"]
-
 link:task_signing_up_for_saasbkup_paid_subscription.html["透過付費訂閱註冊SaaS備份"]
 
 
@@ -161,13 +159,6 @@ link:task_deleting_security_groups.html["刪除安全性群組"]
 * SaaS Backup for Microsoft 365現在支援每個受支援地區的多個備份位置。
 +
 您現在可以選擇所選地區的任何可用位置做為資料備份的站台。建議您選擇地理位置最接近資料位置的位置。SaaS備份所建議的位置在選項清單中標示為*慣用*。
-
-+
-
-NOTE: 如果您是從試用版升級、而選擇的備份位置與試用版使用的位置不同、則不會保留試用資料。
-
-+
-link:task_upgrading_from_trial.html["從試用訂閱升級"]
 
 * 您現在可以釋出使用者授權、讓其他使用者使用。link:task_releasing_a_user_license.html["發行使用者授權"]
 

@@ -18,7 +18,7 @@ summary: 您可以啟用「進階搜尋」、在Microsoft 365 Exchange Online中
 
 系統管理員可前往*啟用「進階搜尋」 link:https://mysupport.netapp.com/["支援"] 並提交申請。您也可以寄送電子郵件至saasbackupsupport@netapp.com與SaaS備份支援團隊聯絡。
 
-啟用*進階搜尋*之後、您可以開啟個別租戶的自助服務入口網站（SSP）。如果您在第一次備份之前未啟用*進階搜尋*、則不會顯示任何搜尋結果。若要深入瞭解自助服務入口網站、請參閱 link:reference_about_ssp.html["關於自助服務入口網站"]。
+啟用*進階搜尋*之後、您可以開啟個別租戶的自助服務入口網站（SSP）。如果您在第一次備份之前未啟用*進階搜尋*、則不會顯示任何搜尋結果。
 
 image:advanced_search_settings_exchange.png["進階搜尋設定的快照"]
 

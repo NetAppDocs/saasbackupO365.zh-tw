@@ -18,7 +18,7 @@ summary: 安全性群組可用來做為篩選選項、以檢視您的資料並�
 
 您最多可以新增3個安全性群組。接著您可以在SaaS備份中使用安全性群組做為篩選選項。
 
-新的安全性群組必須透過AutoSync或手動同步來探索、才能新增。https://docs.microsoft.com/en-us/office365/admin/email/create-edit-or-delete-a-security-group?view=o365-worldwide["在管理中心中建立、編輯或刪除安全性群組"]。
+新的安全性群組必須透過AutoSync或手動同步來探索、才能新增。https://["在管理中心中建立、編輯或刪除安全性群組"]。
 
 .步驟
 . 按一下*帳戶設定*。
