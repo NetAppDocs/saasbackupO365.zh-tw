@@ -20,7 +20,7 @@ summary: 如果您打算搭配Microsoft Exchange Online使用SaaS備份、則必
 
 == 自動設定模擬
 
-若要自動設定模擬、請執行 https://["MSDN PowerShell命令"]。
+若要自動設定模擬、請執行 https://msdn.microsoft.com/en-us/library/office/dn722376(v=exchg.150).aspx["MSDN PowerShell命令"]。
 
 
 
