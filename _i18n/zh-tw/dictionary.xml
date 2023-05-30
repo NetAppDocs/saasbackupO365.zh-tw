@@ -979,7 +979,6 @@
   <block id="5a9fa37a8adc9079710c82bebd381be2" category="list-text">EHS#1（根站台）</block>
   <block id="a1c702db865ff7988cecde653d31e549" category="list-text">EHS#0（根站台）</block>
   <block id="e69fe81e6c14067bfa02448cc56f0d90" category="list-text">SITEPAGEPUBLISHING #0（通訊站台）</block>
-  <block id="cd6b1dceac9feb15ce679e63c41ec14b" category="list-text">群組#0（群組網站集合首碼）</block>
   <block id="02331da6f964bf5a355bef176199392c" category="list-text">STS#1（空白站台）</block>
   <block id="370f28e84c7e5f280c6384763af39ff8" category="list-text">STS#2（文件工作區）</block>
   <block id="bb39ae34f785130781c5d7c8f66840ca" category="list-text">STS#3（現代團隊網站）</block>
@@ -1357,4 +1356,8 @@
   <block id="2082bcb44a92c4c9e2b835d60c6900b8" category="admonition">不支援從Amazon S3跨移轉至Microsoft Azure Blob儲存設備、或從Microsoft Azure Blob移轉至Amazon S3儲存設備。</block>
   <block id="135b308ed83c53f1516b7c754566d1c4" category="paragraph-title">開始之前</block>
   <block id="afda39e1ba1136390162c552c18a5674" category="paragraph">啟用*進階搜尋*之後、您可以開啟個別租戶的自助服務入口網站（SSP）。如果您在第一次備份之前未啟用*進階搜尋*、則不會顯示任何搜尋結果。</block>
+  <block id="ecdf921a3a6a074b60616280efaea786" category="list-text">SPSPERS #10 （個人網站）</block>
+  <block id="f381330caab1211a505b46814d00dafe" category="list-text">BLANKINTERNET#0 （發佈網站）</block>
+  <block id="b6402d0dbe2678a6ff7d1ebe657c7846" category="list-text">TEAMCHANNEL#0</block>
+  <block id="f240a6450359519ca5f7b84a102e94a3" category="list-text">TEAMCHANNEL#1 （私人團隊通路）</block>
 </blocks>

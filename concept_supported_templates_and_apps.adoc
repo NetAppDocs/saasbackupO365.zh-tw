@@ -38,11 +38,14 @@ Microsoft SharePoint Online備份僅支援下列範本。
 * EHS#1（根站台）
 * EHS#0（根站台）
 * SITEPAGEPUBLISHING #0（通訊站台）
-* 群組#0（群組網站集合首碼）
+* SPSPERS #10 （個人網站）
 * STS#1（空白站台）
 * STS#2（文件工作區）
 * STS#3（現代團隊網站）
 * 應用程式#0（應用程式範本）
+* BLANKINTERNET#0 （發佈網站）
+* TEAMCHANNEL#0
+* TEAMCHANNEL#1 （私人團隊通路）
 
 
 
