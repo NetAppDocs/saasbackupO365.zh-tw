@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>saasbackupO365 | NetApp Documentation</title>
+    <atom:link href="https://docs.netapp.com/zh-tw/saasbackupO365/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://docs.netapp.com/zh-tw/saasbackupO365</link>
+    <description>The latest updates from NetApp Documentation</description>
+    <language>zh-tw</language>
+    <ttl>60</ttl>
+    <pubDate>Wed, 20 Dec 2023 18:46:20 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Dec 2023 18:46:20 +0000</lastBuildDate>
+    
+    
+    
+    <item>
+      <title>新功能與更新 (18 May 2023)</title>
+      <pubDate>Thu, 18 May 2023 20:28:35 +0000</pubDate>
+      <link>https://docs.netapp.com/zh-tw/saasbackupO365/reference_new_saasbackupO365.html?time=1684441715</link>
+      <guid isPermaLink="false">Thu, 18 May 2023 20:28:35 +0000</guid>
+      <description><![CDATA[ SaaS Backup for Microsoft 365會定期推出新版本、為您帶來新功能、增強功能和錯誤修正。 ]]></description>
+    </item>
+    
+    
+  </channel>
+</rss>
