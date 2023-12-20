@@ -5,15 +5,12 @@ keywords: where to find more information, help, support
 summary: 您可以在NetApp SaaS Backup for Microsoft 365社群論壇和知識庫文章中取得協助並尋找更多資訊。 
 ---
 = 何處可取得協助及尋找更多資訊
-:toc: macro
 :hardbreaks:
 :allow-uri-read: 
-:toc: 
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 您可以在NetApp SaaS Backup for Microsoft 365社群論壇和知識庫文章中取得協助並尋找更多資訊。

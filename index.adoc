@@ -1,6 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: index.html 
+keywords: netapp, saas backup, microsoft 365, microsoft office exchange, get started, amazon, azure 
 summary: 歡迎使用適用於Microsoft 365的NetApp SaaS備份文件入口網站。 
 ---
 = NetApp SaaS Backup for Microsoft 365文件
@@ -10,7 +11,6 @@ summary: 歡迎使用適用於Microsoft 365的NetApp SaaS備份文件入口網�
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:keywords: netapp, saas backup, microsoft 365, microsoft office exchange, get started, amazon, azure
 
 
 NetApp SaaS Backup是一項安全的網路型軟體即服務（SaaS）產品、可將Microsoft 365資料備份至Amazon S3儲存設備和Microsoft Azure Blob儲存設備。

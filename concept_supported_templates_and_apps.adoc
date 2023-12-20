@@ -5,17 +5,14 @@ keywords: netapp, saas backup, microsoft 365, backup, supported, templates, apps
 summary: Microsoft SharePoint Online僅支援某些範本和應用程式。 
 ---
 = Microsoft SharePoint Online支援的範本與應用程式
-:toc: macro
 :hardbreaks:
 :toclevels: 1
 :allow-uri-read: 
-:toc: 
 :toclevels: 1
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]
